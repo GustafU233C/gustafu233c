@@ -1,0 +1,21 @@
+﻿@inherits LayoutComponentBase
+@inject IStringLocalizer<Resource> localizer
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <CultureSelector />
+            <p></p>
+            <!-- <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a> -->
+            <a href="https://docs.microsoft.com/aspnet/" target="_blank">@localizer["topRowAboutDotnetStr"]</a>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
