@@ -13,7 +13,7 @@
     <link href="myblazorapp.styles.css" rel="stylesheet" />
 
     <!-- Radzen Blazor Components -->
-    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css">
+    <!-- <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css"> -->
 </head>
 
 <body>
@@ -30,10 +30,11 @@
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
-    <script src="_framework/blazor.webassembly.js"></script>
 
-    <!-- Radzen Blazor Components... -->
-    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script src="decode.js"></script>
+
+    <!-- <script src="_framework/blazor.webassembly.js"></script> -->
+    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
 
     <!-- Language selector... -->
     <script>
@@ -42,6 +43,32 @@
             set: (value) => localStorage['BlazorCulture'] = value
         };
     </script>
+
+    <script type="module">
+        import { BrotliDecode } from './decode.min.js';
+        Blazor.start({
+            loadBootResource: function (type, name, defaultUri, integrity) {
+                if (type !== 'dotnetjs' && location.hostname !== 'localhost') {
+                    return (async function () {
+                        const response = await fetch(defaultUri + '.br', { cache: 'no-cache' });
+                        if (!response.ok) {
+                            throw new Error(response.statusText);
+                        }
+                        const originalResponseBuffer = await response.arrayBuffer();
+                        const originalResponseArray = new Int8Array(originalResponseBuffer);
+                        const decompressedResponseArray = BrotliDecode(originalResponseArray);
+                        const contentType = type ===
+                            'dotnetwasm' ? 'application/wasm' : 'application/octet-stream';
+                        return new Response(decompressedResponseArray,
+                            { headers: { 'content-type': contentType } });
+                    })();
+                }
+            }
+        });
+    </script>
+
+    <!-- Radzen Blazor Components... -->
+    <!-- <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script> -->
 </body>
 
 </html>
