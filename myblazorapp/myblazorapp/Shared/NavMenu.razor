@@ -13,58 +13,130 @@
 <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
     <nav class="flex-column">
         <div class="nav-item px-3">
+            <!--
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
                 <span class="material-icons">
                     <RadzenIcon Icon="home" />
                 </span> @localizer["navBarHomeStr"]
             </NavLink>
+            -->
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> @localizer["navBarHomeStr"]
+            </NavLink>
         </div>
 
         <div class="nav-item px-3">
+            <!--
             <NavLink class="nav-link" href="about">
                 <span class="material-icons">
                     <RadzenIcon Icon="info" />
                 </span> @localizer["navBarAboutStr"]
             </NavLink>
+            -->
+            <NavLink class="nav-link" href="about">
+                <span class="oi oi-info" aria-hidden="true"></span> @localizer["navBarAboutStr"]
+            </NavLink>
         </div>
 
         <div class="nav-item px-3">
-            <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandSubNav=!expandSubNav">
+            <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandLegalAffairsSubNav=!expandLegalAffairsSubNav">
+                <!--
                 <span class="material-icons">
                     <RadzenIcon Icon="policy" />
                 </span> @localizer["navBarLegalAffairsStr"]
+                -->
+                <span class="oi oi-briefcase" aria-hidden="true"></span> @localizer["navBarLegalAffairsStr"]
             </NavLink>
-            @if (expandSubNav)
+            @if (expandLegalAffairsSubNav)
             {
                 <div class="nav-item px-3">
                     <NavLink class="nav-link" href="privacypolicy">
+                        <!--
                         <span class="material-icons">
                             <RadzenIcon Icon="privacy_tip" />
                         </span> @localizer["navBarPrivacyPolicyStr"]
+                        -->
+                        <span class="oi oi-file" aria-hidden="true"></span> @localizer["navBarPrivacyPolicyStr"]
                     </NavLink>
                 </div>
 
                 <div class="nav-item px-3">
                     <NavLink class="nav-link" href="eulaPage">
+                        <!--
                         <span class="material-icons">
                             <RadzenIcon Icon="text_snippet" />
                         </span> @localizer["navBarEulaStr"]
+                        -->
+                        <span class="oi oi-document" aria-hidden="true"></span> @localizer["navBarEulaStr"]
                     </NavLink>
                 </div>
 
                 <div class="nav-item px-3">
                     <NavLink class="nav-link" href="tacPage">
+                        <!--
                         <span class="material-icons">
                             <RadzenIcon Icon="list_alt" />
                         </span> @localizer["navBarTaConStr"]
+                        -->
+                        <span class="oi oi-align-left" aria-hidden="true"></span> @localizer["navBarTaConStr"]
                     </NavLink>
                 </div>
 
                 <div class="nav-item px-3">
                     <NavLink class="nav-link" href="tosPage">
+                        <!--
                         <span class="material-icons">
                             <RadzenIcon Icon="checklist" />
                         </span> @localizer["navBarToServePageStr"]
+                        -->
+                        <span class="oi oi-list" aria-hidden="true"></span> @localizer["navBarToServePageStr"]
+                    </NavLink>
+                </div>
+            }
+        </div>
+
+        <div class="nav-item px-3">
+            <!-- <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandSubNav=!expandSubNav"> -->
+            <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandProjectsSubNav=!expandProjectsSubNav">
+                <!--
+                <span class="material-icons">
+                    <RadzenIcon Icon="policy" />
+                </span> @localizer["navBarProjectsStr"]
+                -->
+                <span class="oi oi-book" aria-hidden="true"></span> @localizer["navBarProjectsStr"]
+            </NavLink>
+            @if (expandProjectsSubNav)
+            {
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="project1">
+                        <!--
+                        <span class="material-icons">
+                            <RadzenIcon Icon="privacy_tip" />
+                        </span> @localizer["navBarPrivacyPolicyStr"]
+                        -->
+                        <span class="oi oi-flash" aria-hidden="true"></span> @localizer["navBarProjectOneStr"]
+                    </NavLink>
+                </div>
+
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="project2">
+                        <!--
+                        <span class="material-icons">
+                            <RadzenIcon Icon="text_snippet" />
+                        </span> @localizer["navBarEulaStr"]
+                        -->
+                        <span class="oi oi-fork" aria-hidden="true"></span> @localizer["navBarProjectTwoStr"]
+                    </NavLink>
+                </div>
+
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="project3">
+                        <!--
+                        <span class="material-icons">
+                            <RadzenIcon Icon="list_alt" />
+                        </span> @localizer["navBarTaConStr"]
+                        -->
+                        <span class="oi oi-terminal" aria-hidden="true"></span> @localizer["navBarProjectThreeStr"]
                     </NavLink>
                 </div>
             }
@@ -72,17 +144,23 @@
 
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="contact">
+                <!--
                 <span class="material-icons">
                     <RadzenIcon Icon="contact_page" />
-                </span> @localizer["navBarContactStr"]
+                </span> @localizer["navBarContactStr"] 
+                -->
+                <span class="oi oi-phone" aria-hidden="true"></span> @localizer["navBarContactStr"]
             </NavLink>
         </div>
 
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="donate">
+                <!--
                 <span class="material-icons">
                     <RadzenIcon Icon="paid" />
                 </span> @localizer["navBarDonateStr"]
+                -->
+                <span class="oi oi-dollar" aria-hidden="true"></span> @localizer["navBarDonateStr"]
             </NavLink>
         </div>
     </nav>
@@ -90,7 +168,8 @@
 
 @code {
     private bool collapseNavMenu = true;
-    private bool expandSubNav = false;
+    private bool expandLegalAffairsSubNav = false;
+    private bool expandProjectsSubNav = false;
 
     private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
 

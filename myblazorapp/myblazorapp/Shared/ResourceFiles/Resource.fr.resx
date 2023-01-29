@@ -213,6 +213,18 @@
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Confidentialité</value>
   </data>
+  <data name="navBarProjectOneStr" xml:space="preserve">
+    <value>Projet 1</value>
+  </data>
+  <data name="navBarProjectsStr" xml:space="preserve">
+    <value>Des Projets</value>
+  </data>
+  <data name="navBarProjectThreeStr" xml:space="preserve">
+    <value>Projet 3</value>
+  </data>
+  <data name="navBarProjectTwoStr" xml:space="preserve">
+    <value>Projet 2</value>
+  </data>
   <data name="navBarTaConStr" xml:space="preserve">
     <value>Termes</value>
   </data>
@@ -224,6 +236,24 @@
   </data>
   <data name="privacyPageTitleStr" xml:space="preserve">
     <value>Politique de Confidentialité</value>
+  </data>
+  <data name="project1PageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 08 Janvier, 2023</value>
+  </data>
+  <data name="project1PageTitleStr" xml:space="preserve">
+    <value>Projet 1</value>
+  </data>
+  <data name="project2PageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 08 Janvier, 2023</value>
+  </data>
+  <data name="project2PageTitleStr" xml:space="preserve">
+    <value>Projet 2</value>
+  </data>
+  <data name="project3PageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 08 Janvier, 2023</value>
+  </data>
+  <data name="project3PageTitleStr" xml:space="preserve">
+    <value>Projet 3</value>
   </data>
   <data name="TaConPageLastModStr" xml:space="preserve">
     <value>La Dernière Modification: 08 Janvier, 2023</value>

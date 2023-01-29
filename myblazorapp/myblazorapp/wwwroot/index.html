@@ -13,7 +13,7 @@
     <link href="myblazorapp.styles.css" rel="stylesheet" />
 
     <!-- Radzen Blazor Components -->
-    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css">
+    <!-- <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css"> -->
 </head>
 
 <body>
@@ -32,8 +32,17 @@
     </div>
 
     <script src="decode.js"></script>
+
     <!-- <script src="_framework/blazor.webassembly.js"></script> -->
     <script src="_framework/blazor.webassembly.js" autostart="false"></script>
+
+    <!-- Language selector... -->
+    <script>
+        window.blazorCulture = {
+            get: () => localStorage['BlazorCulture'],
+            set: (value) => localStorage['BlazorCulture'] = value
+        };
+    </script>
 
     <script type="module">
         import { BrotliDecode } from './decode.min.js';
@@ -59,15 +68,7 @@
     </script>
 
     <!-- Radzen Blazor Components... -->
-    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
-
-    <!-- Language selector... -->
-    <script>
-        window.blazorCulture = {
-            get: () => localStorage['BlazorCulture'],
-            set: (value) => localStorage['BlazorCulture'] = value
-        };
-    </script>
+    <!-- <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script> -->
 </body>
 
 </html>

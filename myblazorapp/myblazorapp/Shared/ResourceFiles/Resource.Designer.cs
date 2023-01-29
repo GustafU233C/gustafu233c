@@ -349,7 +349,43 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Terms &amp; Conditions.
+        ///   Looks up a localized string similar to Project 1.
+        /// </summary>
+        public static string navBarProjectOneStr {
+            get {
+                return ResourceManager.GetString("navBarProjectOneStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Projects.
+        /// </summary>
+        public static string navBarProjectsStr {
+            get {
+                return ResourceManager.GetString("navBarProjectsStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project 3.
+        /// </summary>
+        public static string navBarProjectThreeStr {
+            get {
+                return ResourceManager.GetString("navBarProjectThreeStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project 2.
+        /// </summary>
+        public static string navBarProjectTwoStr {
+            get {
+                return ResourceManager.GetString("navBarProjectTwoStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Conditions.
         /// </summary>
         public static string navBarTaConStr {
             get {
@@ -381,6 +417,60 @@ namespace myblazorapp.Shared.ResourceFiles {
         public static string privacyPageTitleStr {
             get {
                 return ResourceManager.GetString("privacyPageTitleStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        /// </summary>
+        public static string project1PageLastModStr {
+            get {
+                return ResourceManager.GetString("project1PageLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project 1.
+        /// </summary>
+        public static string project1PageTitleStr {
+            get {
+                return ResourceManager.GetString("project1PageTitleStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        /// </summary>
+        public static string project2PageLastModStr {
+            get {
+                return ResourceManager.GetString("project2PageLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project 2.
+        /// </summary>
+        public static string project2PageTitleStr {
+            get {
+                return ResourceManager.GetString("project2PageTitleStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        /// </summary>
+        public static string project3PageLastModStr {
+            get {
+                return ResourceManager.GetString("project3PageLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project 3.
+        /// </summary>
+        public static string project3PageTitleStr {
+            get {
+                return ResourceManager.GetString("project3PageTitleStr", resourceCulture);
             }
         }
         

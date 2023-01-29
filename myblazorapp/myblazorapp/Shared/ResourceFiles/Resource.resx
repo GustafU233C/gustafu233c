@@ -213,8 +213,20 @@
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Privacy Policy</value>
   </data>
+  <data name="navBarProjectOneStr" xml:space="preserve">
+    <value>Project 1</value>
+  </data>
+  <data name="navBarProjectsStr" xml:space="preserve">
+    <value>Projects</value>
+  </data>
+  <data name="navBarProjectThreeStr" xml:space="preserve">
+    <value>Project 3</value>
+  </data>
+  <data name="navBarProjectTwoStr" xml:space="preserve">
+    <value>Project 2</value>
+  </data>
   <data name="navBarTaConStr" xml:space="preserve">
-    <value>Terms &amp; Conditions</value>
+    <value>Conditions</value>
   </data>
   <data name="navBarToServePageStr" xml:space="preserve">
     <value>Terms of Service</value>
@@ -224,6 +236,24 @@
   </data>
   <data name="privacyPageTitleStr" xml:space="preserve">
     <value>Privacy Policy</value>
+  </data>
+  <data name="project1PageLastModStr" xml:space="preserve">
+    <value>Last Modified: January 08, 2023</value>
+  </data>
+  <data name="project1PageTitleStr" xml:space="preserve">
+    <value>Project 1</value>
+  </data>
+  <data name="project2PageLastModStr" xml:space="preserve">
+    <value>Last Modified: January 08, 2023</value>
+  </data>
+  <data name="project2PageTitleStr" xml:space="preserve">
+    <value>Project 2</value>
+  </data>
+  <data name="project3PageLastModStr" xml:space="preserve">
+    <value>Last Modified: January 08, 2023</value>
+  </data>
+  <data name="project3PageTitleStr" xml:space="preserve">
+    <value>Project 3</value>
   </data>
   <data name="TaConPageLastModStr" xml:space="preserve">
     <value>Last Modified: January 08, 2023</value>
