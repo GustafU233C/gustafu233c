@@ -6,7 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
 	  
 	<BlazorWebAssemblyLoadAllGlobalizationData>true</BlazorWebAssemblyLoadAllGlobalizationData>
-  
+
+	<BlazorEnableCompression>false</BlazorEnableCompression>
+	  
   </PropertyGroup>
 
   <ItemGroup>
