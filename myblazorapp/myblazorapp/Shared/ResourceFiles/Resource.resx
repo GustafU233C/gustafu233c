@@ -213,6 +213,36 @@
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Privacy Policy</value>
   </data>
+  <data name="navBarProj3AboutStr" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavEulaStr" xml:space="preserve">
+    <value>EULA</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavPrivacyStr" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavStr" xml:space="preserve">
+    <value>Legal</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavTandConStr" xml:space="preserve">
+    <value>Terms</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavTofServeStr" xml:space="preserve">
+    <value>Service</value>
+  </data>
+  <data name="navBarProj3PackagesSubNavPack1Str" xml:space="preserve">
+    <value>Pack</value>
+  </data>
+  <data name="navBarProj3PackagesSubNavPack2Str" xml:space="preserve">
+    <value>Pack</value>
+  </data>
+  <data name="navBarProj3PackagesSubNavPack3Str" xml:space="preserve">
+    <value>Pack</value>
+  </data>
+  <data name="navBarProject3PackagesSubNavStr" xml:space="preserve">
+    <value>Packages</value>
+  </data>
   <data name="navBarProjectOneStr" xml:space="preserve">
     <value>Project 1</value>
   </data>
@@ -236,6 +266,24 @@
   </data>
   <data name="privacyPageTitleStr" xml:space="preserve">
     <value>Privacy Policy</value>
+  </data>
+  <data name="proj3Package1LastModStr" xml:space="preserve">
+    <value>Last Modified: January 08, 2023</value>
+  </data>
+  <data name="proj3Package1TitleStr" xml:space="preserve">
+    <value>Package</value>
+  </data>
+  <data name="proj3Package2LastModStr" xml:space="preserve">
+    <value>Last Modified: January 08, 2023</value>
+  </data>
+  <data name="proj3Package2TitleStr" xml:space="preserve">
+    <value>Package</value>
+  </data>
+  <data name="proj3Package3LastModStr" xml:space="preserve">
+    <value>Last Modified: January 08, 2023</value>
+  </data>
+  <data name="proj3Package3TitleStr" xml:space="preserve">
+    <value>Package</value>
   </data>
   <data name="project1PageLastModStr" xml:space="preserve">
     <value>Last Modified: January 08, 2023</value>

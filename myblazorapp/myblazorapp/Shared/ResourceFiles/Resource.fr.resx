@@ -213,6 +213,36 @@
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Confidentialité</value>
   </data>
+  <data name="navBarProj3AboutStr" xml:space="preserve">
+    <value>À Propos</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavEulaStr" xml:space="preserve">
+    <value>Contrat</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavPrivacyStr" xml:space="preserve">
+    <value>Confidentialité</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavStr" xml:space="preserve">
+    <value>Juridiques</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavTandConStr" xml:space="preserve">
+    <value>Termes</value>
+  </data>
+  <data name="navBarProj3LegalAffSubNavTofServeStr" xml:space="preserve">
+    <value>Conditions</value>
+  </data>
+  <data name="navBarProj3PackagesSubNavPack1Str" xml:space="preserve">
+    <value>Colis</value>
+  </data>
+  <data name="navBarProj3PackagesSubNavPack2Str" xml:space="preserve">
+    <value>Colis</value>
+  </data>
+  <data name="navBarProj3PackagesSubNavPack3Str" xml:space="preserve">
+    <value>Colis</value>
+  </data>
+  <data name="navBarProject3PackagesSubNavStr" xml:space="preserve">
+    <value>Paquets</value>
+  </data>
   <data name="navBarProjectOneStr" xml:space="preserve">
     <value>Projet 1</value>
   </data>
@@ -236,6 +266,24 @@
   </data>
   <data name="privacyPageTitleStr" xml:space="preserve">
     <value>Politique de Confidentialité</value>
+  </data>
+  <data name="proj3Package1LastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 08 Janvier, 2023</value>
+  </data>
+  <data name="proj3Package1TitleStr" xml:space="preserve">
+    <value>Paquet</value>
+  </data>
+  <data name="proj3Package2LastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 08 Janvier, 2023</value>
+  </data>
+  <data name="proj3Package2TitleStr" xml:space="preserve">
+    <value>Paquet</value>
+  </data>
+  <data name="proj3Package3LastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 08 Janvier, 2023</value>
+  </data>
+  <data name="proj3Package3TitleStr" xml:space="preserve">
+    <value>Paquet</value>
   </data>
   <data name="project1PageLastModStr" xml:space="preserve">
     <value>La Dernière Modification: 08 Janvier, 2023</value>

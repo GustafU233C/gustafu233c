@@ -349,6 +349,96 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to About.
+        /// </summary>
+        public static string navBarProj3AboutStr {
+            get {
+                return ResourceManager.GetString("navBarProj3AboutStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to EULA.
+        /// </summary>
+        public static string navBarProj3LegalAffSubNavEulaStr {
+            get {
+                return ResourceManager.GetString("navBarProj3LegalAffSubNavEulaStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Privacy.
+        /// </summary>
+        public static string navBarProj3LegalAffSubNavPrivacyStr {
+            get {
+                return ResourceManager.GetString("navBarProj3LegalAffSubNavPrivacyStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Legal.
+        /// </summary>
+        public static string navBarProj3LegalAffSubNavStr {
+            get {
+                return ResourceManager.GetString("navBarProj3LegalAffSubNavStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Terms.
+        /// </summary>
+        public static string navBarProj3LegalAffSubNavTandConStr {
+            get {
+                return ResourceManager.GetString("navBarProj3LegalAffSubNavTandConStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Service.
+        /// </summary>
+        public static string navBarProj3LegalAffSubNavTofServeStr {
+            get {
+                return ResourceManager.GetString("navBarProj3LegalAffSubNavTofServeStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pack.
+        /// </summary>
+        public static string navBarProj3PackagesSubNavPack1Str {
+            get {
+                return ResourceManager.GetString("navBarProj3PackagesSubNavPack1Str", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pack.
+        /// </summary>
+        public static string navBarProj3PackagesSubNavPack2Str {
+            get {
+                return ResourceManager.GetString("navBarProj3PackagesSubNavPack2Str", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pack.
+        /// </summary>
+        public static string navBarProj3PackagesSubNavPack3Str {
+            get {
+                return ResourceManager.GetString("navBarProj3PackagesSubNavPack3Str", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Packages.
+        /// </summary>
+        public static string navBarProject3PackagesSubNavStr {
+            get {
+                return ResourceManager.GetString("navBarProject3PackagesSubNavStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Project 1.
         /// </summary>
         public static string navBarProjectOneStr {
@@ -417,6 +507,60 @@ namespace myblazorapp.Shared.ResourceFiles {
         public static string privacyPageTitleStr {
             get {
                 return ResourceManager.GetString("privacyPageTitleStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        /// </summary>
+        public static string proj3Package1LastModStr {
+            get {
+                return ResourceManager.GetString("proj3Package1LastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Package.
+        /// </summary>
+        public static string proj3Package1TitleStr {
+            get {
+                return ResourceManager.GetString("proj3Package1TitleStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        /// </summary>
+        public static string proj3Package2LastModStr {
+            get {
+                return ResourceManager.GetString("proj3Package2LastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Package.
+        /// </summary>
+        public static string proj3Package2TitleStr {
+            get {
+                return ResourceManager.GetString("proj3Package2TitleStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        /// </summary>
+        public static string proj3Package3LastModStr {
+            get {
+                return ResourceManager.GetString("proj3Package3LastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Package.
+        /// </summary>
+        public static string proj3Package3TitleStr {
+            get {
+                return ResourceManager.GetString("proj3Package3TitleStr", resourceCulture);
             }
         }
         
