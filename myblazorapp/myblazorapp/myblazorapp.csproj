@@ -7,7 +7,7 @@
 	  
 	<BlazorWebAssemblyLoadAllGlobalizationData>true</BlazorWebAssemblyLoadAllGlobalizationData>
 
-	<BlazorEnableCompression>false</BlazorEnableCompression>
+	<!-- <BlazorEnableCompression>false</BlazorEnableCompression> -->
 	  
   </PropertyGroup>
 
