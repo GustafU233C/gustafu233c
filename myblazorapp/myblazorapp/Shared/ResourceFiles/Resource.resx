@@ -213,6 +213,9 @@
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Privacy Policy</value>
   </data>
+  <data name="navBarProj2AboutStr" xml:space="preserve">
+    <value>About</value>
+  </data>
   <data name="navBarProj3AboutStr" xml:space="preserve">
     <value>About</value>
   </data>
@@ -242,6 +245,9 @@
   </data>
   <data name="navBarProject3PackagesSubNavStr" xml:space="preserve">
     <value>Packages</value>
+  </data>
+  <data name="navBarProject4Str" xml:space="preserve">
+    <value>Project 4</value>
   </data>
   <data name="navBarProjectOneStr" xml:space="preserve">
     <value>Project 1</value>
@@ -302,6 +308,12 @@
   </data>
   <data name="project3PageTitleStr" xml:space="preserve">
     <value>Project 3</value>
+  </data>
+  <data name="project4PageLastModStr" xml:space="preserve">
+    <value>Last Modified: January 08, 2023</value>
+  </data>
+  <data name="project4PageTitleStr" xml:space="preserve">
+    <value>Project</value>
   </data>
   <data name="TaConPageLastModStr" xml:space="preserve">
     <value>Last Modified: January 08, 2023</value>

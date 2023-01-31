@@ -63,27 +63,67 @@
             }
         </div>
 
+        <!-- Project Sub Navigation -->
         <div class="nav-item px-3">
             <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandProjectsSubNav=!expandProjectsSubNav">
                 <span class="oi oi-book" aria-hidden="true"></span> @localizer["navBarProjectsStr"]
             </NavLink>
             @if (expandProjectsSubNav)
             {
+                <!-- Project 1 -->
                 <div class="nav-item px-3">
                     <NavLink class="nav-link" href="project1">
                         <span class="oi oi-flash" aria-hidden="true"></span> @localizer["navBarProjectOneStr"]
                     </NavLink>
                 </div>
 
+                <!-- Project 2 -->
                 <div class="nav-item px-3">
-                    <NavLink class="nav-link" href="project2">
+                    <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandProject2SubNav=!expandProject2SubNav">
                         <span class="oi oi-fork" aria-hidden="true"></span> @localizer["navBarProjectTwoStr"]
                     </NavLink>
+                    @if (expandProject2SubNav)
+                    {
+                        <div class="nav-item px-3">
+                            <NavLink class="nav-link" href="proj2About">
+                                <span class="oi oi-info" aria-hidden="true"></span> @localizer["navBarProj2AboutStr"]
+                            </NavLink>
+                        </div>
+                        <div class="nav-item px-3">
+                            <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandProject2LegalAffSubNav=!expandProject2LegalAffSubNav">
+                                <span class="oi oi-briefcase" aria-hidden="true"></span> @localizer["navBarProj3LegalAffSubNavStr"]
+                            </NavLink>
+                            @if (expandProject2LegalAffSubNav)
+                            {
+                                <div class="nav-item px-3">
+                                    <NavLink class="nav-link" href="proj2privacypolicy">
+                                        <span class="oi oi-file" aria-hidden="true"></span> @localizer["navBarProj3LegalAffSubNavPrivacyStr"]
+                                    </NavLink>
+                                </div>
+                                <div class="nav-item px-3">
+                                    <NavLink class="nav-link" href="proj2Eula">
+                                        <span class="oi oi-document" aria-hidden="true"></span> @localizer["navBarProj3LegalAffSubNavEulaStr"]
+                                    </NavLink>
+                                </div>
+                                <div class="nav-item px-3">
+                                    <NavLink class="nav-link" href="proj2TandCon">
+                                        <span class="oi oi-align-left" aria-hidden="true"></span> @localizer["navBarProj3LegalAffSubNavTandConStr"]
+                                    </NavLink>
+                                </div>
+                                <div class="nav-item px-3">
+                                    <NavLink class="nav-link" href="proj2TofServe">
+                                        <span class="oi oi-list" aria-hidden="true"></span> @localizer["navBarProj3LegalAffSubNavTofServeStr"]
+                                    </NavLink>
+                                </div>
+                            }
+                        </div>
+                    }
                 </div>
 
+                <!-- Project 3 -->
                 <div class="nav-item px-3">
                     <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandProject3SubNav=!expandProject3SubNav">
-                        <span class="oi oi-terminal" aria-hidden="true"></span> @localizer["navBarProjectThreeStr"]
+                        <span class="oi oi-fork" aria-hidden="true"></span> @localizer["navBarProjectThreeStr"]
                     </NavLink>
                     @if (expandProject3SubNav) 
                     {
@@ -120,31 +160,14 @@
                                 </div>
                             }
                         </div>
-
-                        <div class="nav-item px-3">
-                            <NavLink class="nav-link" style="cursor:pointer" @onclick="()=>expandProject3PackagesSubNav=!expandProject3PackagesSubNav">
-                                <span class="oi oi-box" aria-hidden="true"></span> @localizer["navBarProject3PackagesSubNavStr"]
-                            </NavLink>
-                            @if (expandProject3PackagesSubNav)
-                            {
-                                <div class="nav-item px-3">
-                                    <NavLink class="nav-link" href="proj3Package1">
-                                        <span class="oi oi-folder" aria-hidden="true"></span> @localizer["navBarProj3PackagesSubNavPack1Str"]
-                                    </NavLink>
-                                </div>
-                                <div class="nav-item px-3">
-                                    <NavLink class="nav-link" href="proj3Package2">
-                                        <span class="oi oi-beaker" aria-hidden="true"></span> @localizer["navBarProj3PackagesSubNavPack2Str"]
-                                    </NavLink>
-                                </div>
-                                <div class="nav-item px-3">
-                                    <NavLink class="nav-link" href="proj3Package3">
-                                        <span class="oi oi-wrench" aria-hidden="true"></span> @localizer["navBarProj3PackagesSubNavPack3Str"]
-                                    </NavLink>
-                                </div>
-                            }
-                        </div>
                     }
+                </div>
+
+                <!-- Project 4 -->
+                <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="project4">
+                        <span class="oi oi-terminal" aria-hidden="true"></span> @localizer["navBarProject4Str"]
+                    </NavLink>
                 </div>
             }
         </div>
@@ -166,7 +189,14 @@
 @code {
     private bool collapseNavMenu = true;
     private bool expandLegalAffairsSubNav = false;
+
     private bool expandProjectsSubNav = false;
+
+    private bool expandProject2SubNav = false;
+    private bool expandProject2LegalAffSubNav = false;
+    private bool expandProject2PackagesSubNav = false;
+
+    private bool expandProjects3SubNav = false;
     private bool expandProject3SubNav = false;
     private bool expandProject3LegalAffSubNav = false;
     private bool expandProject3PackagesSubNav = false;

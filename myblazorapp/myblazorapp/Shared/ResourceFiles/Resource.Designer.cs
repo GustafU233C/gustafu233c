@@ -351,6 +351,15 @@ namespace myblazorapp.Shared.ResourceFiles {
         /// <summary>
         ///   Looks up a localized string similar to About.
         /// </summary>
+        public static string navBarProj2AboutStr {
+            get {
+                return ResourceManager.GetString("navBarProj2AboutStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to About.
+        /// </summary>
         public static string navBarProj3AboutStr {
             get {
                 return ResourceManager.GetString("navBarProj3AboutStr", resourceCulture);
@@ -435,6 +444,15 @@ namespace myblazorapp.Shared.ResourceFiles {
         public static string navBarProject3PackagesSubNavStr {
             get {
                 return ResourceManager.GetString("navBarProject3PackagesSubNavStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project 4.
+        /// </summary>
+        public static string navBarProject4Str {
+            get {
+                return ResourceManager.GetString("navBarProject4Str", resourceCulture);
             }
         }
         
@@ -615,6 +633,24 @@ namespace myblazorapp.Shared.ResourceFiles {
         public static string project3PageTitleStr {
             get {
                 return ResourceManager.GetString("project3PageTitleStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        /// </summary>
+        public static string project4PageLastModStr {
+            get {
+                return ResourceManager.GetString("project4PageLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project.
+        /// </summary>
+        public static string project4PageTitleStr {
+            get {
+                return ResourceManager.GetString("project4PageTitleStr", resourceCulture);
             }
         }
         
