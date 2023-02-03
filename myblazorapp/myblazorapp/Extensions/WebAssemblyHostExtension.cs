@@ -16,9 +16,13 @@ namespace myblazorapp.Extensions
             CultureInfo culture;
 
             if (result != null)
+            {
                 culture = new CultureInfo(result);
+            }
             else
+            {
                 culture = new CultureInfo("en-US");
+            }    
 
             CultureInfo.DefaultThreadCurrentCulture = culture;
             CultureInfo.DefaultThreadCurrentUICulture = culture;
