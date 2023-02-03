@@ -11,10 +11,10 @@
 
 @code {
     [Inject]
-    public NavigationManager NavManager { get; set; } = null!;
+    public NavigationManager NavManager { get; set; } = default!;
 
     [Inject]
-    public IJSRuntime JSRuntime { get; set; } = null!;
+    public IJSRuntime JSRuntime { get; set; } = default!;
 
     CultureInfo[] cultures = new[]
     {
