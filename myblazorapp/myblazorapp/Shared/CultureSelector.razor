@@ -2,10 +2,10 @@
 
 <b>@localizer["topRowLanguageSelectStr"]</b>
 
-<select class="form-control" @bind="Culture" style="width:80px; margin-left:10px;">
+<select aria-label="LanguageSelectorListForm" class="form-control" @bind="Culture" style="width:80px; margin-left:10px;">
     @foreach (var culture in cultures)
     {
-            <option value="@culture">@culture.DisplayName</option>
+        <option value="@culture">@culture.DisplayName</option>
     }
 </select>
 
