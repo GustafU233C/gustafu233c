@@ -219,8 +219,14 @@
   <data name="navBarProj1CommonProbsUTF8SubNavStr" xml:space="preserve">
     <value>UTF-8</value>
   </data>
+  <data name="navBarProj1HowToGenerallySubNavStr" xml:space="preserve">
+    <value>Généralement</value>
+  </data>
   <data name="navBarProj1HowToSubNavStr" xml:space="preserve">
     <value>Instructions</value>
+  </data>
+  <data name="navBarProj1OpenPackages1SubNavStr" xml:space="preserve">
+    <value>Paquet</value>
   </data>
   <data name="navBarProj1OpenPackagesSubNavStr" xml:space="preserve">
     <value>Paquets</value>
@@ -299,6 +305,18 @@
   </data>
   <data name="Proj1EulaPageLastModStr" xml:space="preserve">
     <value>La Dernière Modification: 06 Juin, 2023</value>
+  </data>
+  <data name="Proj1HowToGenerallyPageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 07 Juin, 2023</value>
+  </data>
+  <data name="Proj1HowToGenerallyTitlePageStr" xml:space="preserve">
+    <value>Instructions</value>
+  </data>
+  <data name="Proj1OpenPackages1PageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 07 Juin, 2023</value>
+  </data>
+  <data name="Proj1OpenPackages1TitlePageStr" xml:space="preserve">
+    <value>Paquet Open Source Numéro Un</value>
   </data>
   <data name="Proj1PrivacyPageLastModStr" xml:space="preserve">
     <value>La Dernière Modification: 06 Juin, 2023</value>

@@ -367,11 +367,29 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Generally.
+        /// </summary>
+        public static string navBarProj1HowToGenerallySubNavStr {
+            get {
+                return ResourceManager.GetString("navBarProj1HowToGenerallySubNavStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to How To.
         /// </summary>
         public static string navBarProj1HowToSubNavStr {
             get {
                 return ResourceManager.GetString("navBarProj1HowToSubNavStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Package.
+        /// </summary>
+        public static string navBarProj1OpenPackages1SubNavStr {
+            get {
+                return ResourceManager.GetString("navBarProj1OpenPackages1SubNavStr", resourceCulture);
             }
         }
         
@@ -606,6 +624,42 @@ namespace myblazorapp.Shared.ResourceFiles {
         public static string Proj1EulaPageLastModStr {
             get {
                 return ResourceManager.GetString("Proj1EulaPageLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: June 07, 2023.
+        /// </summary>
+        public static string Proj1HowToGenerallyPageLastModStr {
+            get {
+                return ResourceManager.GetString("Proj1HowToGenerallyPageLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How To.
+        /// </summary>
+        public static string Proj1HowToGenerallyTitlePageStr {
+            get {
+                return ResourceManager.GetString("Proj1HowToGenerallyTitlePageStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Last Modified: June 07, 2023.
+        /// </summary>
+        public static string Proj1OpenPackages1PageLastModStr {
+            get {
+                return ResourceManager.GetString("Proj1OpenPackages1PageLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Open Source Package One.
+        /// </summary>
+        public static string Proj1OpenPackages1TitlePageStr {
+            get {
+                return ResourceManager.GetString("Proj1OpenPackages1TitlePageStr", resourceCulture);
             }
         }
         
