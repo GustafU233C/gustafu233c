@@ -154,7 +154,7 @@
     <value>Last Modified: January 08, 2023</value>
   </data>
   <data name="EulaTitlePageStr" xml:space="preserve">
-    <value>End User License Agreement</value>
+    <value>End User Licence Agreement</value>
   </data>
   <data name="indexLastModStr" xml:space="preserve">
     <value>Last Modified: January 08, 2023</value>
@@ -213,6 +213,18 @@
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Privacy Policy</value>
   </data>
+  <data name="navBarProj1CommonProbsSubNavStr" xml:space="preserve">
+    <value>Problems</value>
+  </data>
+  <data name="navBarProj1CommonProbsUTF8SubNavStr" xml:space="preserve">
+    <value>UTF-8</value>
+  </data>
+  <data name="navBarProj1HowToSubNavStr" xml:space="preserve">
+    <value>How To</value>
+  </data>
+  <data name="navBarProj1OpenPackagesSubNavStr" xml:space="preserve">
+    <value>Packages</value>
+  </data>
   <data name="navBarProj2AboutStr" xml:space="preserve">
     <value>About</value>
   </data>
@@ -261,17 +273,41 @@
   <data name="navBarProjectTwoStr" xml:space="preserve">
     <value>Project 2</value>
   </data>
+  <data name="navBarProjOneAboutStr" xml:space="preserve">
+    <value>About</value>
+  </data>
   <data name="navBarTaConStr" xml:space="preserve">
     <value>Conditions</value>
   </data>
   <data name="navBarToServePageStr" xml:space="preserve">
-    <value>Terms of Service</value>
+    <value>Terms</value>
   </data>
   <data name="privacyPageLastModStr" xml:space="preserve">
     <value>Last Modified: January 08, 2023</value>
   </data>
   <data name="privacyPageTitleStr" xml:space="preserve">
     <value>Privacy Policy</value>
+  </data>
+  <data name="Proj1AboutPageLastModStr" xml:space="preserve">
+    <value>Last Modified: June 06, 2023</value>
+  </data>
+  <data name="proj1CommonProbsUtf8SubNavLastModStr" xml:space="preserve">
+    <value>Last Modified: June 06, 2023</value>
+  </data>
+  <data name="proj1CommonProbsUtf8SubNavTitleStr" xml:space="preserve">
+    <value>UTF-8 Problems</value>
+  </data>
+  <data name="Proj1EulaPageLastModStr" xml:space="preserve">
+    <value>Last Modified: June 06, 2023</value>
+  </data>
+  <data name="Proj1PrivacyPageLastModStr" xml:space="preserve">
+    <value>Last Modified: June 06, 2023</value>
+  </data>
+  <data name="Proj1TaConPageLastModStr" xml:space="preserve">
+    <value>Last Modified: June 06, 2023</value>
+  </data>
+  <data name="Proj1TofServPageLastModStr" xml:space="preserve">
+    <value>Last Modified: June 06, 2023</value>
   </data>
   <data name="proj3Package1LastModStr" xml:space="preserve">
     <value>Last Modified: January 08, 2023</value>

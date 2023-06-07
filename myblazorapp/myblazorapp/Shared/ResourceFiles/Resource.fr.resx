@@ -213,6 +213,18 @@
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Confidentialité</value>
   </data>
+  <data name="navBarProj1CommonProbsSubNavStr" xml:space="preserve">
+    <value>Problèmes</value>
+  </data>
+  <data name="navBarProj1CommonProbsUTF8SubNavStr" xml:space="preserve">
+    <value>UTF-8</value>
+  </data>
+  <data name="navBarProj1HowToSubNavStr" xml:space="preserve">
+    <value>Instructions</value>
+  </data>
+  <data name="navBarProj1OpenPackagesSubNavStr" xml:space="preserve">
+    <value>Paquets</value>
+  </data>
   <data name="navBarProj2AboutStr" xml:space="preserve">
     <value>À Propos</value>
   </data>
@@ -261,6 +273,9 @@
   <data name="navBarProjectTwoStr" xml:space="preserve">
     <value>Projet 2</value>
   </data>
+  <data name="navBarProjOneAboutStr" xml:space="preserve">
+    <value>À Propos</value>
+  </data>
   <data name="navBarTaConStr" xml:space="preserve">
     <value>Termes</value>
   </data>
@@ -272,6 +287,27 @@
   </data>
   <data name="privacyPageTitleStr" xml:space="preserve">
     <value>Politique de Confidentialité</value>
+  </data>
+  <data name="Proj1AboutPageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 06 Juin, 2023</value>
+  </data>
+  <data name="proj1CommonProbsUtf8SubNavLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 06 Juin, 2023</value>
+  </data>
+  <data name="proj1CommonProbsUtf8SubNavTitleStr" xml:space="preserve">
+    <value>Des Problèmes Avec UTF-8</value>
+  </data>
+  <data name="Proj1EulaPageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 06 Juin, 2023</value>
+  </data>
+  <data name="Proj1PrivacyPageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 06 Juin, 2023</value>
+  </data>
+  <data name="Proj1TaConPageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 06 Juin, 2023</value>
+  </data>
+  <data name="Proj1TofServPageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 06 Juin, 2023</value>
   </data>
   <data name="proj3Package1LastModStr" xml:space="preserve">
     <value>La Dernière Modification: 08 Janvier, 2023</value>
