@@ -118,13 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="aboutPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="aboutTitlePageStr" xml:space="preserve">
     <value>À Propos</value>
   </data>
+  <data name="contactPageFirstParaStr" xml:space="preserve">
+    <value>Si vous avez des questions, des préoccupations et ou souhaitez offrir des conseils, n’hésitez pas à moi envoyer un courriel à: GustafU233C@Protonmail.com.</value>
+  </data>
   <data name="contactPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 20 juillet, 2023</value>
+  </data>
+  <data name="contactPageSecondTitleStr" xml:space="preserve">
+    <value>Les Détails de Contact:</value>
   </data>
   <data name="contactPageTitleStr" xml:space="preserve">
     <value>Contact</value>
@@ -139,31 +145,31 @@
     <value>Nombre Actuel:</value>
   </data>
   <data name="counterPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="counterPageTitleStr" xml:space="preserve">
     <value>Compteur</value>
   </data>
   <data name="donatePageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="donatePageTitleStr" xml:space="preserve">
     <value>Pour Donner</value>
   </data>
   <data name="EulaPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="EulaTitlePageStr" xml:space="preserve">
     <value>Contrat de Licence Utilisateur Final</value>
   </data>
   <data name="indexLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023 </value>
+    <value>La Dernière Modification: 08 janvier, 2023 </value>
   </data>
   <data name="indexParaOneStr" xml:space="preserve">
     <value>J'utiliserai ce site pour discuter / partager mes pensées et mon travail open source sur GitHub. </value>
   </data>
   <data name="IndexParaThreeStr" xml:space="preserve">
-    <value>Pour plus d'information sur le projet .NET Blazor et / ou ses projets associés, cliquez-vous, s'il vous plaît, sur le lien intitulée: «À Propos de .NET Blazor» dans le coin supérieur droit du site!</value>
+    <value>Pour plus d'information sur le projet .NET Blazor et ou ses projets associés, cliquez-vous, s'il vous plaît, sur le lien intitulée: « À Propos de .NET Blazor » dans le coin supérieur droit du site!</value>
   </data>
   <data name="indexParaTwoStr" xml:space="preserve">
     <value>Ce site est généreusement hébergé par GitHub Pages et alimenté par .NET Blazor.</value>
@@ -178,10 +184,43 @@
     <value>La Dernière Modification:</value>
   </data>
   <data name="legalPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="legalPageTitleStr" xml:space="preserve">
     <value>Affaires Juridiques</value>
+  </data>
+  <data name="licenseEffectiveDateStr" xml:space="preserve">
+    <value>Date d'Entrée en Vigueur: 20 juillet, 2023</value>
+  </data>
+  <data name="licenseLanguageClarifyStr" xml:space="preserve">
+    <value>Cette licence (ci-après dénommée la « Licence ») a été préparée à l’origine en langue anglaise. Bien que GustafU233C puisse fournir une ou plusieurs versions traduites de cette Licence, pour votre commodité, et ou tel que requis par la loi municipale, et ou provinciale, et ou étatique, et ou fédérale, il est très important de noter que la version anglaise de cette Licence sera toujours la seule version régissant cette Licence, en cas de conflit et ou de divergence et ou de litige, de nature juridique ou autre.</value>
+  </data>
+  <data name="licensePageLastModStr" xml:space="preserve">
+    <value>La Dernière Modification: 20 juillet, 2023</value>
+  </data>
+  <data name="licenseParagraph1Str" xml:space="preserve">
+    <value>En ce qui concerne le code source sous-jacent du site présenté à l’adresse suivante: https://gustafu233c.github.io/gustafu233c/, et contenu dans le dépôt officiel à l’adresse suivante: https://github.com/GustafU233C/gustafu233c, la Licence suivante s’applique.</value>
+  </data>
+  <data name="licenseParagraph2Str" xml:space="preserve">
+    <value>MIT Licence</value>
+  </data>
+  <data name="licenseParagraph3Str" xml:space="preserve">
+    <value>Droits d’Auteur (c) 2023 GustafU233C</value>
+  </data>
+  <data name="licenseParagraph4Str" xml:space="preserve">
+    <value>Tous droits réservés.</value>
+  </data>
+  <data name="licenseParagraph5Str" xml:space="preserve">
+    <value>L’autorisation est accordée par la présente, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le « Logiciel »), de traiter le Logiciel sans restriction, y compris, sans limitation, les droits d’utiliser, de copier, de modifier, de fusionner, de publier, de distribuer, de sous-licencier et/ou de vendre des copies du Logiciel, et de permettre aux personnes à qui le Logiciel est fourni de le faire, sous réserve des conditions suivantes:</value>
+  </data>
+  <data name="licenseParagraph6Str" xml:space="preserve">
+    <value>L’avis de droit d’auteur ci-dessus et cet avis d’autorisation doivent être inclus dans toutes les copies ou parties substantielles du Logiciel.</value>
+  </data>
+  <data name="licenseParagraph7Str" xml:space="preserve">
+    <value>LE LOGICIEL EST FOURNI « EN L’ÉTAT », SANS GARANTIE D’AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S’Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER ET D’ABSENCE DE CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU LES DÉTENTEURS DES DROITS D’AUTEUR NE PEUVENT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D’UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE, HORS DE OU EN RELATION AVEC LE LOGICIEL OU L’UTILISATION OU D’AUTRES TRANSACTIONS DANS LE LOGICIEL.</value>
+  </data>
+  <data name="licenseTitlePageStr" xml:space="preserve">
+    <value>Licence</value>
   </data>
   <data name="navBarAboutStr" xml:space="preserve">
     <value>À Propos</value>
@@ -209,6 +248,9 @@
   </data>
   <data name="navBarLegalAffairsStr" xml:space="preserve">
     <value>Affaires Juridiques</value>
+  </data>
+  <data name="navBarLicenseStr" xml:space="preserve">
+    <value>Licence</value>
   </data>
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Confidentialité</value>
@@ -288,95 +330,443 @@
   <data name="navBarToServePageStr" xml:space="preserve">
     <value>Conditions</value>
   </data>
+  <data name="privacyPageEffectiveStr" xml:space="preserve">
+    <value>Date d’Entrée en Vigueur: 20 juillet, 2023</value>
+  </data>
+  <data name="privacyPageFrenchNoticeStr" xml:space="preserve">
+    <value>Malheureusement, la traduction française de la présente Politique de Confidentialité n’est pas encore disponible. Veuillez consulter la traduction anglaise de la Politique de Confidentialité actuelle ci-dessous. Nous sommes désolés pour tout inconvénient que cela pourrait causer.</value>
+  </data>
   <data name="privacyPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 20 juillet, 2023</value>
+  </data>
+  <data name="privacyPagePara10Str" xml:space="preserve">
+    <value>Comment Nous Pouvons Potentiellement Collecter et ou Utiliser Vos Informations Personnelles et ou Données:</value>
+  </data>
+  <data name="privacyPagePara11Str" xml:space="preserve">
+    <value>Pour fournir Nos Services, Nous pouvons potentiellement collecter des Données vous concernant à partir de diverses sources, comme indiqué ci-dessous. Les informations que Nous pouvons potentiellement collecter et ou utiliser varient en fonction de la façon dont vous interagissez avec Nous et ou Nos Services et ou Notre Site.</value>
+  </data>
+  <data name="privacyPagePara12Str" xml:space="preserve">
+    <value>En plus des utilisations spécifiques énoncées ci-dessous, Nous pouvons également utiliser potentiellement les Données que Nous recueillons à votre sujet pour communiquer avec vous, et ou pour fournir Nos Services, et ou Nous conformer à toute obligation légale applicable, et ou appliquer les conditions d’utilisation applicables, et ou pour protéger et ou défendre Nos Services, Notre Site,  Nos droits et ou responsabilités, et ou les droits et ou responsabilités de Nos utilisateurs et ou d’autres personnes.</value>
+  </data>
+  <data name="privacyPagePara13Str" xml:space="preserve">
+    <value>Quelles Informations Personnelles et ou Données Nous Pouvons Potentiellement Collecter auprès de Vous:</value>
+  </data>
+  <data name="privacyPagePara14Str" xml:space="preserve">
+    <value>Les types d'informations personnelles et ou de données que Nous pouvons obtenir à votre sujet dépendent de la manière dont vous interagissez avec Notre Site et ou Nos Services. Quand Nous utilisons le terme « informations personnelles », Nous faisons référence à des informations qui vous identifient, vous concernent, vous décrivent et ou peuvent vous être associées. Les sections suivantes décrivent les catégories et ou les types spécifiques d'informations personnelles et ou de Données que Nous pouvons potentiellement collecter auprès de vous.</value>
+  </data>
+  <data name="privacyPagePara15Str" xml:space="preserve">
+    <value>Informations et ou Données que Nous Pouvons Potentiellement Collecter Directement auprès de Vous:</value>
+  </data>
+  <data name="privacyPagePara16Str" xml:space="preserve">
+    <value>Les informations et ou Données que vous Nous soumettez directement par le biais de Nos Services peuvent inclure:</value>
+  </data>
+  <data name="privacyPagePara17Str" xml:space="preserve">
+    <value>Coordonnées de base: y compris, mais sans s’y limiter, potentiellement votre nom, adresse, numéro de téléphone et ou adresse e-mail.</value>
+  </data>
+  <data name="privacyPagePara18Str" xml:space="preserve">
+    <value>Informations de commande: y compris, mais sans s’y limiter, potentiellement votre nom, votre adresse de facturation, votre adresse de livraison, vos informations de paiement, votre confirmation de paiement, votre adresse e-mail et ou votre numéro de téléphone.</value>
+  </data>
+  <data name="privacyPagePara19Str" xml:space="preserve">
+    <value>Informations de compte: y compris, mais sans s’y limiter, potentiellement votre nom d’utilisateur, votre mot de passe et ou vos questions de sécurité.</value>
+  </data>
+  <data name="privacyPagePara1Str" xml:space="preserve">
+    <value>Cette politique de confidentialité décrit comment GustafU233C (ci-après dénommé « Nous », « Notre » et « Notre ») peut potentiellement collecter, utiliser et ou divulguer vos informations personnelles et ou données (ci-après dénommées « Données ») quand vous visitez et ou utilisez Nos services, et ou effectuez un achat (ci-après dénommés collectivement, « Services ») auprès de: https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site »),  et ou communiquer avec Nous de toute autre manière. Aux fins de la présente politique de confidentialité (ci-après dénommée la « Politique de Confidentialité »), « vous » et « votre » désignent vous en tant qu’utilisateur de Nos Services et ou de Notre Site, que vous soyez un client, un visiteur du Site ou toute autre personne dont Nous pouvons potentiellement collecter les informations conformément à la présente Politique de Confidentialité.</value>
+  </data>
+  <data name="privacyPagePara20Str" xml:space="preserve">
+    <value>Informations d’achat: y compris, mais sans s’y limiter, potentiellement les articles que vous consultez, mettez dans votre panier et ou ajoutez à votre liste de souhaits.</value>
+  </data>
+  <data name="privacyPagePara21Str" xml:space="preserve">
+    <value>Informations d’assistance client: y compris potentiellement toute information que vous choisissez d’inclure dans les communications avec Nous, par exemple, quand de l’envoi d’un message via Nos Services, le cas échéant.</value>
+  </data>
+  <data name="privacyPagePara22Str" xml:space="preserve">
+    <value>Il est important de noter que certaines fonctionnalités de Nos Services peuvent vous obliger à Nous fournir directement certaines informations vous concernant. Vous pouvez choisir de ne pas fournir ces informations et ou Données, mais cela peut vous empêcher d’utiliser et ou d’accéder à ces fonctionnalités.</value>
+  </data>
+  <data name="privacyPagePara23Str" xml:space="preserve">
+    <value>Informations et ou Données Susceptibles d’Étre Collectées par le biais de Cookies:</value>
+  </data>
+  <data name="privacyPagePara24Str" xml:space="preserve">
+    <value>Nous pouvons également collecter automatiquement certaines informations sur votre interaction avec Nos Services et ou Notre Site (ci-après dénommées « Données d’Utilisation »). Pour ce faire, Nous pouvons utiliser des cookies, des pixels et ou des technologies similaires (ci-après dénommés « Cookies »). Les Données d’Utilisation peuvent potentiellement inclure des informations sur la façon dont vous accédez et ou utilisez Notre Site et ou Nos Services et ou votre compte, y compris, mais sans s’y limiter: informations sur l’appareil, informations sur le navigateur, informations sur votre connexion réseau, votre adresse IP et ou d’autres informations concernant votre interaction avec Nos Services et ou Notre Site.</value>
+  </data>
+  <data name="privacyPagePara25Str" xml:space="preserve">
+    <value>Informations et ou Données Que Nous Pouvons Potentiellement Obtenir Des Partis Troisième:</value>
+  </data>
+  <data name="privacyPagePara26Str" xml:space="preserve">
+    <value>Nous pouvons également potentiellement obtenir des informations vous concernant auprès de partis troisième, y compris auprès de fournisseurs et ou de prestataires de services qui peuvent collecter des informations en Notre nom, comme:</value>
+  </data>
+  <data name="privacyPagePara27Str" xml:space="preserve">
+    <value>Les entreprises susceptibles de prendre en charge Notre Site et ou Nos Services: un exemple théorique pourrait être une entreprise comme Shopify.</value>
+  </data>
+  <data name="privacyPagePara28Str" xml:space="preserve">
+    <value>Nos processeurs de paiement potentiels: qui peuvent collecter des informations de paiement (par exemple: compte bancaire, informations de carte de crédit et ou de débit, adresse de facturation, etc.) pour traiter votre paiement afin d’exécuter vos commandes et ou de vous fournir des produits et ou services que vous avez demandés, afin d’exécuter Notre contrat ou Nos contrats avec vous.</value>
+  </data>
+  <data name="privacyPagePara29Str" xml:space="preserve">
+    <value>Quand vous visitez Notre Site, ouvrez et ou cliquez sur des e-mails que Nous pouvons vous envoyer, et ou interagir autrement avec Nos Services et ou des publicités, Nous, et ou des partis troisième avec lesquels Nous travaillons, pouvons collecter automatiquement certaines informations à l’aide de technologies de suivi en ligne comme les pixels, les balises Web, les kits de développement de logiciels, les bibliothèques de partis troisième et ou les Cookies.</value>
+  </data>
+  <data name="privacyPagePara2Str" xml:space="preserve">
+    <value>Vous devez lire attentivement cette Politique de Confidentialité. En utilisant et ou en accédant à l’un de Nos Services et ou à Notre Site, vous acceptez la collecte, l’utilisation et ou la divulgation potentielles de vos Données comme décrit dans la présente Politique de Confidentialité. Si vous n’êtes pas d’accord avec cette Politique de Confidentialité, n’utilisez pas et ou n’accédez à aucun de Nos Services et ou à Notre Site.</value>
+  </data>
+  <data name="privacyPagePara30Str" xml:space="preserve">
+    <value>Toute information que Nous obtenons de partis troisième sera traitée conformément à la présente Politique de Confidentialité. Nous ne sommes pas responsables de l’exactitude des informations qui Nous sont fournies par des partis troisième et ne sommes pas responsables des politiques et ou pratiques de partis troisième. Pour plus d’informations, consultez la section ci-dessous intitulée: Sites Web et ou Liens des Partis Troisième.</value>
+  </data>
+  <data name="privacyPagePara31Str" xml:space="preserve">
+    <value>Comment Nous Pouvons Potentiellement Utiliser Vos Informations Personnelles et ou Vos Sonnés:</value>
+  </data>
+  <data name="privacyPagePara32Str" xml:space="preserve">
+    <value>Nous pouvons potentiellement utiliser vos informations personnelles et ou vos Sonnées Quand:</value>
+  </data>
+  <data name="privacyPagePara33Str" xml:space="preserve">
+    <value>Fournir des Produits et ou des Services. Nous pouvons utiliser vos informations personnelles et ou vos Données pour vous fournir Nos Services afin d’exécuter Notre contrat et ou des contrats avec vous, y compris pour traiter vos paiements potentiels, exécuter vos commandes potentielles, vous envoyer des notifications relatives à votre compte, achats, retours, échanges et ou autres transactions, pour créer, maintenir et ou gérer votre compte,  pour organiser l’expédition, faciliter les retours et ou les échanges, et ou pour vous permettre de publier des avis.</value>
+  </data>
+  <data name="privacyPagePara34Str" xml:space="preserve">
+    <value>Marketing et ou Publicité. Nous pouvons potentiellement utiliser vos informations personnelles et ou vos Données à des fins de marketing et ou de promotion, par exemple pour envoyer des communications marketing, publicitaires et ou promotionnelles par e-mail, SMS et ou courrier postal, et ou pour vous montrer des publicités pour des produits et ou services. Cela peut inclure l’utilisation de vos informations personnelles et ou de vos Données pour mieux adapter Nos Services et ou la publicité sur Notre Site et ou d’autres sites et ou d’autres Services.</value>
+  </data>
+  <data name="privacyPagePara35Str" xml:space="preserve">
+    <value>Sécurité et ou Protection Contre la Fraude. Nous pouvons potentiellement utiliser vos informations personnelles et ou vos Données pour détecter, enquêter et ou prendre des mesures concernant d’éventuelles activités frauduleuses, illégales et ou malveillantes. Si vous choisissez d’utiliser Nos Services et ou d’enregistrer un compte, vous êtes responsable de la sécurité des informations d’identification de votre compte. Nous vous recommandons vivement de ne pas partager votre nom d’utilisateur, votre mot de passe et ou d’autres détails d’accès avec qui que ce soit. Si vous pensez que votre compte a été compromis, s'il vous plaît, nous contacter immédiatement.</value>
+  </data>
+  <data name="privacyPagePara36Str" xml:space="preserve">
+    <value>Communiquer avec Vous. Nous pouvons également utiliser vos informations personnelles et ou vos Données pour vous fournir un support client et ou améliorer Nos Services et ou Notre Site. Ceci est dans Notre intérêt légitime afin d’être à votre écoute, de vous fournir des services efficaces et ou de maintenir Notre relation commerciale avec vous.</value>
+  </data>
+  <data name="privacyPagePara37Str" xml:space="preserve">
+    <value>Comment Nous Pouvons Potentiellement Divulguer Vos Informations Personnelles et ou Vos Donnés:</value>
+  </data>
+  <data name="privacyPagePara38Str" xml:space="preserve">
+    <value>Dans certaines circonstances, Nous pouvons potentiellement divulguer vos informations personnelles et ou vos Données à des partis troisième à des fins légitimes, sous réserve de la présente Politique de Confidentialité. Ces circonstances peuvent inclure, sans toutefois s’y limiter:</value>
+  </data>
+  <data name="privacyPagePara39Str" xml:space="preserve">
+    <value>Avec des fournisseurs et ou d’autres partis troisième qui fournissent des services en Notre nom (par exemple, la gestion informatique, le traitement des paiements, l’analyse des données, le support client, le stockage en nuage, l’exécution et ou l’expédition).</value>
+  </data>
+  <data name="privacyPagePara3Str" xml:space="preserve">
+    <value>Loi Applicable:</value>
+  </data>
+  <data name="privacyPagePara40Str" xml:space="preserve">
+    <value>Avec des partenaires commerciaux et ou marketing, par exemple, avec une entreprise comme Shopify, pour vous fournir des services et ou des publicités. Nos partenaires commerciaux et ou marketing peuvent potentiellement utiliser vos informations conformément à leurs propres politiques de confidentialité.</value>
+  </data>
+  <data name="privacyPagePara41Str" xml:space="preserve">
+    <value>Quand vous Nous ordonnez, Nous demandez et ou consentez autrement à ce que Nous divulguions certaines informations à des partis troisième, par exemple pour vous expédier des produits et ou par le biais de votre utilisation de widgets de médias sociaux et ou d’intégration de connexion, avec votre consentement.</value>
+  </data>
+  <data name="privacyPagePara42Str" xml:space="preserve">
+    <value>Avec Nos sociétés affiliées et ou autrement au sein de Notre groupe de sociétés, dans Notre intérêt légitime à gérer une entreprise prospère.</value>
+  </data>
+  <data name="privacyPagePara43Str" xml:space="preserve">
+    <value>Dans le cadre d’une transaction commerciale, comme une fusion et ou une faillite, pour se conformer à toute obligation légale applicable (y compris pour répondre à des citations à comparaître, des mandats de perquisition ou des demandes similaires), pour faire respecter les conditions d’utilisation applicables, et ou pour protéger et ou défendre Nos Services, Notre Site, Nos droits et ou les droits de Nos utilisateurs et ou d’autres personnes.</value>
+  </data>
+  <data name="privacyPagePara44Str" xml:space="preserve">
+    <value>Contenu Généré Par l’Utilisateur:</value>
+  </data>
+  <data name="privacyPagePara45Str" xml:space="preserve">
+    <value>Nos Services peuvent vous permettre de publier des critiques de produits et ou d’autres contenus générés par les utilisateurs. Si vous choisissez de soumettre du contenu généré par l’utilisateur à une zone publique de Nos Services et ou de Notre Site, ce contenu sera public et ou accessible à tous.</value>
+  </data>
+  <data name="privacyPagePara46Str" xml:space="preserve">
+    <value>Nous ne contrôlons pas qui aura accès aux informations et ou aux Données que vous choisissez de mettre à la disposition d’autrui, et Nous ne pouvons pas garantir que les parties qui ont accès à ces informations et ou Données respecteront votre vie privée et ou la garderont en sécurité. Nous ne sommes pas responsables de la confidentialité et ou de la sécurité des informations et ou des Données que vous choisissez de rendre publiques, ni de l’exactitude, de l’utilisation et ou de la mauvaise utilisation de toute information que vous pouvez divulguer et ou recevoir de partis troisième.</value>
+  </data>
+  <data name="privacyPagePara47Str" xml:space="preserve">
+    <value>Sites Web et ou Liens des Partis Troisième:</value>
+  </data>
+  <data name="privacyPagePara48Str" xml:space="preserve">
+    <value>Notre Site et ou Nos Services peuvent fournir des liens vers des sites et ou d’autres plateformes en ligne exploitées par des partis troisième. Si vous suivez des liens vers des sites non affiliés ou contrôlés par Nous, vous devez consulter leurs politiques de confidentialité et ou de sécurité et ou d’autres termes et conditions. Nous ne garantissons pas et ne sommes pas responsables de la confidentialité et ou de la sécurité de ces sites, y compris l’exactitude, l’exhaustivité et ou la fiabilité des informations trouvées sur ces sites. Les informations que vous pouvez fournir sur des lieux publics et ou semi-publics, y compris les informations que vous pouvez partager sur des plateformes de réseaux sociaux de partis troisième, peuvent également être consultées par d’autres utilisateurs de Nos Services et ou les utilisateurs de ces plateformes de partis troisième sans limitation quant à leur utilisation potentielle par Nous et ou par un parti troisième. Notre inclusion de ces liens n’implique pas, en soi, une approbation des plates-formes et ou du contenu de ces plateformes et ou de leurs propriétaires et ou opérateurs, sauf indication contraire dans Nos Services et ou sur Notre Site.</value>
+  </data>
+  <data name="privacyPagePara49Str" xml:space="preserve">
+    <value>Informations Personnelles et ou Données des Enfants:</value>
+  </data>
+  <data name="privacyPagePara4Str" xml:space="preserve">
+    <value>La loi régissant cette Politique de Confidentialité et ou tout litige relatif à cette Politique de Confidentialité sera le droit substantiel de la province de l’Ontario, Canada, sans égard aux principes de choix de lois. Dans le contexte de la présente Politique de Confidentialité, un litige est défini comme, mais sans s’y limiter, un désaccord et ou l’absence d’accord entre les parties, qui peut entraîner toute sorte d’action, qu’elle soit de nature juridique ou autre.</value>
+  </data>
+  <data name="privacyPagePara50Str" xml:space="preserve">
+    <value>Nos Services et ou Notre Site ne sont pas destinés à être utilisés par des enfants, et Nous ne recueillons pas sciemment d’informations personnelles et ou de Données sur les enfants. Si vous êtes le parent et ou le tuteur d’un enfant qui Nous a potentiellement fourni ses informations personnelles et ou ses Données, vous pouvez Nous contacter en utilisant les détails de contact indiquées ci-dessous pour demander que les informations personnelles et ou les Données soient supprimées.</value>
+  </data>
+  <data name="privacyPagePara51Str" xml:space="preserve">
+    <value>À la « Date d’Entrée en Vigueur » de la présente Politique de Confidentialité, Nous ne savons pas réellement que Nous « recueillons », « partageons » et ou « vendons » (comme ces termes sont définis dans la loi applicable) les renseignements personnels des personnes de moins de 16 ans.</value>
+  </data>
+  <data name="privacyPagePara52Str" xml:space="preserve">
+    <value>Sécurité et ou Conservation de Vos Informations Personnelles et ou Données:</value>
+  </data>
+  <data name="privacyPagePara53Str" xml:space="preserve">
+    <value>S'il vous plaît noter qu’aucune mesure de sécurité n’est parfaite et ou impénétrable, et Nous ne pouvons pas garantir une « sécurité parfaite ». En outre, toute information que vous Nous envoyez peut ne pas être sécurisée pendant le transit. Nous vous recommandons de ne pas utiliser de canaux non sécurisés pour Nous communiquer des informations sensibles et ou confidentielles.</value>
+  </data>
+  <data name="privacyPagePara54Str" xml:space="preserve">
+    <value>La durée pendant laquelle Nous conservons vos informations personnelles et ou vos Données dépend de différents facteurs, tels que le fait que Nous ayons besoin des informations et ou des Données pour maintenir votre compte, pour fournir Nos Services, Nous conformer aux obligations légales, résoudre les litiges et ou appliquer d’autres contrats et ou politiques applicables.</value>
+  </data>
+  <data name="privacyPagePara55Str" xml:space="preserve">
+    <value>Vos Droits et ou Responsabilités et ou Choix:</value>
+  </data>
+  <data name="privacyPagePara56Str" xml:space="preserve">
+    <value>Selon l’endroit où vous habitez, vous pouvez avoir tout ou partie des droits énumérés ci-dessous en ce qui concerne vos informations personnelles et ou vos Données. Par contre, ces droits ne sont pas absolus et ou ne peuvent s’appliquer que dans certaines circonstances, et ou, dans certains cas, Nous pouvons refuser votre demande dans la mesure permise par la loi.</value>
+  </data>
+  <data name="privacyPagePara57Str" xml:space="preserve">
+    <value>Droit d’Accès et ou de Savoir. Vous pouvez avoir le droit de demander l’accès aux informations personnelles et ou aux Données que Nous pouvons potentiellement détenir à votre sujet, y compris les détails relatifs à la manière dont Nous utilisons et ou partageons vos informations personnelles et ou Données.</value>
+  </data>
+  <data name="privacyPagePara58Str" xml:space="preserve">
+    <value>Droit de Suppression. Vous pouvez avoir le droit de demander que Nous supprimions les informations personnelles et ou les Données que Nous conservons à votre sujet.</value>
+  </data>
+  <data name="privacyPagePara59Str" xml:space="preserve">
+    <value>Droit de Rectification. Vous pouvez avoir le droit de Nous demander de corriger des informations personnelles potentiellement inexactes et ou des Données que Nous pouvons potentiellement conserver à votre sujet.</value>
+  </data>
+  <data name="privacyPagePara5Str" xml:space="preserve">
+    <value>Interprétation Linguistique de la Présente Politique de Confidentialité:</value>
+  </data>
+  <data name="privacyPagePara60Str" xml:space="preserve">
+    <value>Droit de Portabilité. Vous pouvez avoir le droit de recevoir une copie des informations personnelles et ou des Données que Nous pouvons potentiellement détenir à votre sujet et ou de demander que Nous les transférions à un parti troisième, dans certaines circonstances et ou avec certaines exceptions.</value>
+  </data>
+  <data name="privacyPagePara61Str" xml:space="preserve">
+    <value>Droit de Refuser la Vente et ou le Partage et ou la Publicité Ciblée. Vous pouvez avoir le droit de Nous ordonner de ne pas « vendre » et ou « partager » vos informations personnelles et ou Données, et ou de refuser le traitement de vos informations personnelles et ou Données à des fins considérées comme de la « publicité ciblée », telles que définies dans les lois applicables en matière de protection de la vie privée. S'il vous plaît noter que si vous visitez Notre Site avec le signal de préférence de désactivation de Global Privacy Control activé, selon l’endroit où vous vous trouvez, Nous traiterons automatiquement cela comme une demande de refus de la « vente » et ou du « partage » potentiel d’informations pour l’appareil et ou le navigateur que vous utilisez pour visiter Notre Site.</value>
+  </data>
+  <data name="privacyPagePara62Str" xml:space="preserve">
+    <value>Droit de Limiter et ou de Refuser l’Utilisation et ou la Divulgation d’Informations Personnelles Sensibles. Vous pouvez avoir le droit de Nous demander de limiter Notre utilisation et ou divulgation d’informations personnelles sensibles et ou de Données à ce qui est nécessaire pour exécuter Nos Services et ou fournir les biens raisonnablement attendus par une personne moyenne.</value>
+  </data>
+  <data name="privacyPagePara63Str" xml:space="preserve">
+    <value>Restriction du Traitement. Vous pouvez avoir le droit de Nous demander d’arrêter et ou de restreindre Notre traitement de vos informations personnelles et ou Données.</value>
+  </data>
+  <data name="privacyPagePara64Str" xml:space="preserve">
+    <value>Retrait du Consentement. Quand Nous Nous appuyons sur le consentement pour traiter vos informations personnelles et ou vos Données, vous pouvez avoir le droit de retirer ce consentement.</value>
+  </data>
+  <data name="privacyPagePara65Str" xml:space="preserve">
+    <value>Appel. Vous pouvez avoir le droit de faire appel de Notre décision et ou de Nos décisions si Nous refusons de traiter votre demande. Vous pouvez le faire en répondant directement à Notre refus.</value>
+  </data>
+  <data name="privacyPagePara66Str" xml:space="preserve">
+    <value>Gestion des Préférences de Communication. Nous pouvons vous envoyer des e-mails promotionnels, et vous pouvez choisir de ne pas les recevoir à tout moment en utilisant l’option de désabonnement affichée dans Nos e-mails à vous. Si vous vous désabonnez, Nous pouvons toujours vous envoyer des e-mails non promotionnels, tels que ceux concernant votre compte et ou les commandes que vous avez passées.</value>
+  </data>
+  <data name="privacyPagePara67Str" xml:space="preserve">
+    <value>Vous pouvez potentiellement exercer l’un de ces droits lorsqu’il est indiqué sur Notre Site et ou en Nous contactant à l’aide des détails de contact fournies ci-dessous.</value>
+  </data>
+  <data name="privacyPagePara68Str" xml:space="preserve">
+    <value>Nous ne ferons aucune discrimination à votre encontre pour avoir exercé l’un de ces droits. Nous pouvons avoir besoin de recueillir des informations auprès de vous pour vérifier votre identité, telles que votre adresse e-mail et ou les informations de votre compte, avant de fournir une réponse substantielle à une demande. Conformément aux lois applicables, vous pouvez désigner un agent autorisé pour faire des demandes en votre nom afin d’exercer vos droits. Avant d’accepter une telle demande d’un agent, Nous exigerons que l’agent fournisse la preuve que vous l’avez autorisé à agir en votre nom, et Nous pouvons toujours avoir besoin que vous vérifiiez votre identité directement auprès de Nous. Nous répondrons à votre demande en temps opportun, comme l’exige la loi applicable.</value>
+  </data>
+  <data name="privacyPagePara69Str" xml:space="preserve">
+    <value>Informations Personnelles et ou Données de l’Utilisateur International:</value>
+  </data>
+  <data name="privacyPagePara6Str" xml:space="preserve">
+    <value>Cette Politique de Confidentialité a été préparée à l’origine en anglais. Bien que GustafU233C puisse fournir une ou plusieurs versions traduites de cette Politique de Confidentialité, pour votre commodité, et ou tel que requis par la loi municipale, et ou provinciale, et ou étatique, et ou fédérale, il est très important de noter que la version anglaise de cette Politique de Confidentialité sera toujours la seule version régissant cette Politique de Confidentialité, en cas de conflit et ou de divergence et ou de litige, de nature juridique ou autre. Dans le cas où une ambiguïté et ou une question d’intention et ou d’interprétation survient, dans toute procédure judiciaire, de nature juridique ou autre, les termes de la présente Politique de Confidentialité seront interprétés comme ayant été rédigés conjointement par les parties concernées, et aucune présomption ou charge de la preuve ne sera en faveur ou en défaveur d’une partie en vertu de la paternité de toute disposition de la présente Politique de Confidentialité.</value>
+  </data>
+  <data name="privacyPagePara70Str" xml:space="preserve">
+    <value>Vous devez noter que Nous pouvons transférer, stocker et ou traiter vos informations personnelles et ou vos Données en dehors du pays dans lequel vous habitez actuellement, y compris les États-Unis d’Amérique. Vos informations personnelles et ou Données peuvent également être traitées par le personnel et ou des prestataires de services de partis troisième et ou Nos partenaires dans ces pays.</value>
+  </data>
+  <data name="privacyPagePara71Str" xml:space="preserve">
+    <value>Si Nous transférons vos informations personnelles et ou vos Données hors d’Europe, Nous Nous appuierons sur des mécanismes de transfert reconnus tels que les Clauses Contractuelles Types de la Commission Européenne et ou tout contrat équivalent émis par l’autorité compétente du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, le cas échéant, sauf si le transfert de données est effectué vers un pays qui a été déterminé pour fournir un niveau de protection adéquat.</value>
+  </data>
+  <data name="privacyPagePara72Str" xml:space="preserve">
+    <value>Politique Actuelle en Matière d’Informations Personnelles et ou de Collecte de Données, et ou de Cookies:</value>
+  </data>
+  <data name="privacyPagePara73Str" xml:space="preserve">
+    <value>Nonobstant tout et ou partie des informations au-dessus dans la présente Politique de Confidentialité, à compter de la « Date d’Entrée en Vigueur » indiquée au-dessus, Nous ne recueillons ni n’utilisons sciemment aucune Données provenant d’utilisateurs et ou d’utilisateurs potentiels de Notre Site et ou de Nos Services. De plus, à compter de la « Date d’Entrée en Vigueur » indiquée au-dessus, nous n’utilisons pas de Cookies sur Notre Site. Si Nous apprenons que Nous avons collecté des Données auprès d’un utilisateur et ou d’un utilisateur potentiel, en violation de la présente Politique de Confidentialité, les Données seront supprimées dès que possible, comme l’exige la loi applicable.</value>
+  </data>
+  <data name="privacyPagePara74Str" xml:space="preserve">
+    <value>Plaintes:</value>
+  </data>
+  <data name="privacyPagePara75Str" xml:space="preserve">
+    <value>Si vous avez des plaintes concernant la façon dont Nous pouvons potentiellement traiter vos informations personnelles et ou vos Données, n’hésitez pas à Nous contacter en utilisant les détails de contact fournies ci-dessous. Si vous n’êtes pas satisfait de Notre réponse à votre plainte, selon votre lieu de résidence, vous pouvez avoir le droit de faire appel de Notre décision en Nous contactant à nouveau en utilisant les détails de contact indiquées ci-dessous pour plus de précisions, et ou, vous pouvez également avoir le droit de déposer votre plainte auprès de votre autorité locale de protection des données.</value>
+  </data>
+  <data name="privacyPagePara76Str" xml:space="preserve">
+    <value>Divisibilité:</value>
+  </data>
+  <data name="privacyPagePara77Str" xml:space="preserve">
+    <value>Si, à tout moment, l’une des dispositions énoncées dans la présente Politique de Confidentialité s’avère incompatible ou invalide en vertu des lois applicables, ces dispositions seront considérées comme nulles et seront supprimées de la présente Politique de Confidentialité. Toutes les autres dispositions ne seront pas affectées par la suppression, et le reste de cette Politique de Confidentialité sera toujours considéré comme valide.</value>
+  </data>
+  <data name="privacyPagePara78Str" xml:space="preserve">
+    <value>Les Détails de Contact:</value>
+  </data>
+  <data name="privacyPagePara79Str" xml:space="preserve">
+    <value>Si vous avez des questions ou des préoccupations concernant Notre Politique de Confidentialité et ou Nos pratiques en matière de confidentialité, ou si vous souhaitez exercer l’un des droits potentiellement disponibles, veuillez Nous envoyer un courriel à l’adresse suivante: GustafU233C@Protonmail.com.</value>
+  </data>
+  <data name="privacyPagePara7Str" xml:space="preserve">
+    <value>Avec regarde au genre en relation avec la langue utilisée dans cette Politique de Confidentialité, vous voulez noter que les titres utilisés dans cette Politique de Confidentialité n’affectent pas son interprétation. L’utilisation de n’importe quel genre inclut tous les genres. Le singulier inclut le pluriel et vice-versa. Lorsqu’un mot et ou une phrase est défini, son autre forme grammaticale et ou ses formes ont une signification égale et ou correspondante. Si un genre a été utilisé n’importe où dans cette Politique de Confidentialité, c’est juste pour des fins de simplicité seulement.</value>
+  </data>
+  <data name="privacyPagePara8Str" xml:space="preserve">
+    <value>Changements et ou Modifications de la Présente Politique de Confidentialité:</value>
+  </data>
+  <data name="privacyPagePara9Str" xml:space="preserve">
+    <value>Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autre, y compris pour refléter les changements apportés à nos pratiques actuelles et ou pour d’autres raisons opérationnelles, juridiques et ou réglementaires. Nous publierons la Politique de Confidentialité révisée sur Notre Site, mettrons à jour la « Date d’Entrée en Vigueur » et ou prendrons toute autre mesure requise par toute autre loi et ou lois applicables.</value>
+  </data>
+  <data name="privacyPageTitle2Str" xml:space="preserve">
+    <value>Politique de Confidentialité de GustafU233C:</value>
   </data>
   <data name="privacyPageTitleStr" xml:space="preserve">
     <value>Politique de Confidentialité</value>
   </data>
   <data name="Proj1AboutPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 06 Juin, 2023</value>
+    <value>La Dernière Modification: 06 juin, 2023</value>
   </data>
   <data name="proj1CommonProbsUtf8SubNavLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 06 Juin, 2023</value>
+    <value>La Dernière Modification: 06 juin, 2023</value>
   </data>
   <data name="proj1CommonProbsUtf8SubNavTitleStr" xml:space="preserve">
     <value>Des Problèmes Avec UTF-8</value>
   </data>
   <data name="Proj1EulaPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 06 Juin, 2023</value>
+    <value>La Dernière Modification: 06 juin, 2023</value>
   </data>
   <data name="Proj1HowToGenerallyPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 07 Juin, 2023</value>
+    <value>La Dernière Modification: 07 juin, 2023</value>
   </data>
   <data name="Proj1HowToGenerallyTitlePageStr" xml:space="preserve">
     <value>Instructions</value>
   </data>
   <data name="Proj1OpenPackages1PageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 07 Juin, 2023</value>
+    <value>La Dernière Modification: 07 juin, 2023</value>
   </data>
   <data name="Proj1OpenPackages1TitlePageStr" xml:space="preserve">
     <value>Paquet Open Source Numéro Un</value>
   </data>
   <data name="Proj1PrivacyPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 06 Juin, 2023</value>
+    <value>La Dernière Modification: 06 juin, 2023</value>
   </data>
   <data name="Proj1TaConPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 06 Juin, 2023</value>
+    <value>La Dernière Modification: 06 juin, 2023</value>
   </data>
   <data name="Proj1TofServPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 06 Juin, 2023</value>
+    <value>La Dernière Modification: 06 juin, 2023</value>
   </data>
   <data name="proj3Package1LastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="proj3Package1TitleStr" xml:space="preserve">
     <value>Paquet</value>
   </data>
   <data name="proj3Package2LastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="proj3Package2TitleStr" xml:space="preserve">
     <value>Paquet</value>
   </data>
   <data name="proj3Package3LastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="proj3Package3TitleStr" xml:space="preserve">
     <value>Paquet</value>
   </data>
   <data name="project1PageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="project1PageTitleStr" xml:space="preserve">
     <value>Projet 1</value>
   </data>
   <data name="project2PageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="project2PageTitleStr" xml:space="preserve">
     <value>Projet 2</value>
   </data>
   <data name="project3PageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="project3PageTitleStr" xml:space="preserve">
     <value>Projet 3</value>
   </data>
   <data name="project4PageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="project4PageTitleStr" xml:space="preserve">
     <value>Projet 4</value>
   </data>
+  <data name="TaConPageEffectiveStr" xml:space="preserve">
+    <value>Date d’Entrée en Vigueur: 20 juillet, 2023</value>
+  </data>
   <data name="TaConPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 20 juillet, 2023</value>
+  </data>
+  <data name="TaConPagePara10Str" xml:space="preserve">
+    <value>Tout le contenu publié et mis à disposition sur Notre Site est la propriété de GustafU233C et ou des créateurs du Site. Cela inclut, mais sans s’y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés et ou tout ce qui contribue à la composition ou à Notre Site. En ce qui concerne le code source de Notre Site, veuillez consulter la section Licence applicable de Notre Site pour plus de précisions.</value>
+  </data>
+  <data name="TaConPagePara11Str" xml:space="preserve">
+    <value>Changements et ou Modifications des Termes et Conditions:</value>
+  </data>
+  <data name="TaConPagePara12Str" xml:space="preserve">
+    <value>Nous pouvons mettre à jour ces Termes et Conditions de temps à autre, y compris pour refléter les changements apportés à Nos pratiques actuelles et ou pour d’autres raisons opérationnelles, juridiques et ou réglementaires. Nous publierons les Termes et Conditions révisées sur Notre Site, mettrons à jour la « Date d’Entré en Vigueur » et ou prendrons toute autre mesure requise par toute autre loi et ou lois applicables.</value>
+  </data>
+  <data name="TaConPagePara13Str" xml:space="preserve">
+    <value>Utilisation Acceptable:</value>
+  </data>
+  <data name="TaConPagePara14Str" xml:space="preserve">
+    <value>En tant qu’utilisateur de Notre Site, vous acceptez d’utiliser Notre Site légalement, de ne pas utiliser Notre Site à des fins illégales et de ne pas:</value>
+  </data>
+  <data name="TaConPagePara15Str" xml:space="preserve">
+    <value>Harceler ou maltraiter d’autres utilisateurs de Notre Site;</value>
+  </data>
+  <data name="TaConPagePara16Str" xml:space="preserve">
+    <value>Violer les droits des autres utilisateurs de Notre Site;</value>
+  </data>
+  <data name="TaConPagePara17Str" xml:space="preserve">
+    <value>Violer les droits de propriété intellectuelle des propriétaires du Site et ou de tout tiers au Site;</value>
+  </data>
+  <data name="TaConPagePara18Str" xml:space="preserve">
+    <value>Pirater le compte d’un autre utilisateur du Site, et ou le Site lui-même;</value>
+  </data>
+  <data name="TaConPagePara19Str" xml:space="preserve">
+    <value>Agir d’une manière qui pourrait être considérée comme frauduleuse; et ou</value>
+  </data>
+  <data name="TaConPagePara1Str" xml:space="preserve">
+    <value>Les présentes termes et conditions (ci-après dénommées les « Termes et Conditions ») régissent l’utilisation du site: https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site »). Le Site est détenu et exploité par GustafU233C (ci-après dénommé « Nous », « Notre » et ou « Nos »). Ce Site est une sorte de blog.</value>
+  </data>
+  <data name="TaConPagePara20Str" xml:space="preserve">
+    <value>Publiez tout matériel qui peut être jugé inapproprié, offensant et ou illégal.</value>
+  </data>
+  <data name="TaConPagePara21Str" xml:space="preserve">
+    <value>Si Nous pensons que vous utilisez Notre Site illégalement et ou d’une manière qui viole les présentes Termes et Conditions, Nous Nous réservons le droit de limiter, suspendre et ou résilier votre accès à Notre Site. Nous Nous réservons également le droit de prendre toutes les mesures légales nécessaires pour vous empêcher d’accéder à Notre Site.</value>
+  </data>
+  <data name="TaConPagePara22Str" xml:space="preserve">
+    <value>Limitation de Responsabilité:</value>
+  </data>
+  <data name="TaConPagePara23Str" xml:space="preserve">
+    <value>GustafU233C et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées ne seront pas responsables des actions, réclamations, pertes, dommages, responsabilités et ou dépenses, y compris les frais juridiques, découlant de votre utilisation de notre site.</value>
+  </data>
+  <data name="TaConPagePara24Str" xml:space="preserve">
+    <value>Indemnité:</value>
+  </data>
+  <data name="TaConPagePara25Str" xml:space="preserve">
+    <value>Sauf là où la loi l’interdit, en utilisant Notre Site, vous indemnisez et dégagez de toute responsabilité GustafU233C et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées contre toute action, réclamation, perte, dommage, responsabilité et ou dépense, y compris les frais juridiques, découlant de votre utilisation de Notre Site et ou de votre violation des présentes Termes et Conditions.</value>
+  </data>
+  <data name="TaConPagePara26Str" xml:space="preserve">
+    <value>Résolution des Litiges:</value>
+  </data>
+  <data name="TaConPagePara27Str" xml:space="preserve">
+    <value>Sous réserve des exceptions spécifiées dans les présentes Termes et Conditions, si vous et GustafU233C n’êtes pas en mesure de résoudre un différend par des discussions informelles, vous et GustafU233C acceptez de soumettre cette question à un médiateur. La décision du médiateur ne sera pas contraignante. Tout médiateur doit être une partie neutre acceptable à la fois pour vous et pour GustafU233C.</value>
+  </data>
+  <data name="TaConPagePara28Str" xml:space="preserve">
+    <value>Nonobstant toute autre disposition des présentes Termes et Conditions, vous et GustafU233C convenez que vous conservez tous deux le droit d’intenter une action devant la cour des petites créances et ou d’intenter une action en injonction et ou en violation de la propriété intellectuelle.</value>
+  </data>
+  <data name="TaConPagePara29Str" xml:space="preserve">
+    <value>Clause de Sauvegarde:</value>
+  </data>
+  <data name="TaConPagePara2Str" xml:space="preserve">
+    <value>Veuillez lire ces Termes et Conditions. En utilisant ce Site, vous indiquez que vous avez lu et compris ces Termes et Conditions et acceptez de les respecter en tout temps. Si vous n’êtes pas d’accord avec les conditions énoncées dans les présentes Termes et Conditions, n’utilisez pas et n’accédez pas à Notre Site.</value>
+  </data>
+  <data name="TaConPagePara30Str" xml:space="preserve">
+    <value>Si, à tout moment, l’une des dispositions énoncées dans les présentes Termes et Conditions est jugée incompatible ou invalide en vertu des lois applicables, ces dispositions seront considérées comme nulles et seront supprimées des présentes Termes et Conditions. Toutes les autres dispositions ne seront pas affectées par la suppression, et le reste de ces Termes et Conditions sera toujours considéré comme valide.</value>
+  </data>
+  <data name="TaConPagePara31Str" xml:space="preserve">
+    <value>Les Détails de Contact:</value>
+  </data>
+  <data name="TaConPagePara32Str" xml:space="preserve">
+    <value>Si vous avez des questions ou des préoccupations concernant Nos Termes et Conditions et ou Nos pratiques en matière de confidentialité, ou si vous souhaitez exercer l’un des droits potentiellement disponibles, veuillez Nous envoyer un courriel à l’adresse suivante: GustafU233C@Protonmail.com.</value>
+  </data>
+  <data name="TaConPagePara3Str" xml:space="preserve">
+    <value>CES TERMES ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÈGLEMENT DES LITIGES QUI A UNE INCIDENCE SUR VOS DROITS SUR LA FAÇON DE RÉSOUDRE LES LITIGES. VEUILLEZ LES LIRE ATTENTIVEMENT!</value>
+  </data>
+  <data name="TaConPagePara4Str" xml:space="preserve">
+    <value>Loi Applicable:</value>
+  </data>
+  <data name="TaConPagePara5Str" xml:space="preserve">
+    <value>La loi régissant les présentes Termes et Conditions et ou tout litige relatif aux présentes Termes et Conditions sera le droit substantiel de la province de l’Ontario, au Canada, sans égard aux principes de choix de lois. Dans le contexte des Termes et Conditions, un litige est défini comme, mais sans s’y limiter, un désaccord et ou l’absence d’accord entre les parties, qui peut entraîner toute sorte d’action, qu’elle soit de nature juridique ou autre.</value>
+  </data>
+  <data name="TaConPagePara6Str" xml:space="preserve">
+    <value>Interprétation Linguistique des Présentes Termes et Conditions:</value>
+  </data>
+  <data name="TaConPagePara7Str" xml:space="preserve">
+    <value>Ces Termes et Conditions ont été préparés à l’origine en langue anglaise. Bien que GustafU233C puisse fournir une ou plusieurs versions traduites de ces Termes et Conditions, pour votre commodité, et ou tel que requis par la loi municipale, et ou provinciale, et ou étatique, et ou fédérale, il est très important de noter que la version anglaise de ces Termes et Conditions sera toujours la seule version régissant ces Termes et Conditions, en cas de conflit et ou de divergence et ou litige, de nature juridique ou autre. Dans le cas où une ambiguïté et ou une question d’intention et ou d’interprétation survient, dans toute procédure judiciaire, de nature juridique ou autre, les termes des présentes Termes et Conditions seront interprétés comme ayant été rédigés conjointement par les parties concernées, et aucune présomption ou charge de la preuve ne sera en faveur ou en défaveur d’une partie en vertu de la paternité de toute disposition des présentes Termes et Conditions.</value>
+  </data>
+  <data name="TaConPagePara8Str" xml:space="preserve">
+    <value>En ce qui concerne le genre en relation avec le langage utilisé dans les présentes Termes et Conditions, veuillez noter que les titres utilisés dans ces Terms et Conditions n’affectent pas leur interprétation. L’utilisation de n’importe quel genre inclut tous les genres. Le singulier inclut le pluriel et vice-versa. Lorsqu’un mot et ou une phrase est défini, son autre forme grammaticale et ou ses formes ont une signification égale et ou correspondante. Si un genre a été utilisé n’importe où dans les présentes Termes et Conditions, c’est juste à des fins de simplicité seulement.</value>
+  </data>
+  <data name="TaConPagePara9Str" xml:space="preserve">
+    <value>Propriété Intellectuelle:</value>
+  </data>
+  <data name="TaConPageTitle2Str" xml:space="preserve">
+    <value>GustafU233C Termes et Conditions:</value>
   </data>
   <data name="TaConTitlePageStr" xml:space="preserve">
     <value>Termes et Conditions</value>
   </data>
   <data name="TofServPageLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 Janvier, 2023</value>
+    <value>La Dernière Modification: 08 janvier, 2023</value>
   </data>
   <data name="TofServTitlePageStr" xml:space="preserve">
     <value>Conditions d’Utilisation</value>
