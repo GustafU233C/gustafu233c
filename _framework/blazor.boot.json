@@ -23,7 +23,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-eXvGx2jcjpTPEJoAHBsW\/VuMPbNyyU+AsuhPmkzSSRY=",
       "Microsoft.JSInterop.dll": "sha256-dOW+7VugGpGHZ0xvdorVybdL7oNWK8dze0xGeC8qmho=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-rCEiCTvZ4q9Hh8faiYWMd8w8UxYteM1bNxGJ376zsmU=",
-      "myblazorapp.dll": "sha256-e4UvdiSJqzEmveR5EByPtghUOroyi3mwglrwPg5H4cA=",
+      "myblazorapp.dll": "sha256-z+cb6i0p\/r1x6o\/HWuw6mirxoQj1NDBdA1zgdrkOW7g=",
       "System.Collections.Concurrent.dll": "sha256-VOZckjS\/hteK+VwoPvTR1DliS\/Wn3RUj2frMSA0jH5s=",
       "System.Collections.dll": "sha256-rxEFViCLNHLfGwnlUysY\/OQlZ8ZsO+NIWeaj\/OsujlQ=",
       "System.Collections.NonGeneric.dll": "sha256-+LhwT8X46bBlUp+0eU5ZPKVUDx8tjMJULZiuEjjI3ME=",
@@ -65,7 +65,7 @@
     },
     "satelliteResources": {
       "fr": {
-        "fr\/myblazorapp.resources.dll": "sha256-dGHjJ0993pMpwlKsiP2MwjmA9IVFg7eNRSydQRBwP48="
+        "fr\/myblazorapp.resources.dll": "sha256-ahxUlMLPx45Mi9x9BbmxuXGPLNqmbMlQptRo2W44wZs="
       }
     }
   }
