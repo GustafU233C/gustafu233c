@@ -163,7 +163,10 @@
     <value>Contrat de Licence Utilisateur Final</value>
   </data>
   <data name="indexLastModStr" xml:space="preserve">
-    <value>La Dernière Modification: 08 janvier, 2023 </value>
+    <value>La Dernière Modification: 09 octobre, 2023 </value>
+  </data>
+  <data name="IndexParaFourStr" xml:space="preserve">
+    <value>Si vous voyez ce site sur un téléphone portable et ou un autre appareil cellulaire, vous devrez considérer de modifier l'orientation de l'appareil en mode paysage. Cela vous permettra d'utiliser plus pleinement tout ce que le site a à offrir!</value>
   </data>
   <data name="indexParaOneStr" xml:space="preserve">
     <value>J'utiliserai ce site pour discuter / partager mes pensées et mon travail open source sur GitHub. </value>

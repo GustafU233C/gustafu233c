@@ -163,7 +163,10 @@
     <value>End User Licence Agreement</value>
   </data>
   <data name="indexLastModStr" xml:space="preserve">
-    <value>Last Modified: January 08, 2023</value>
+    <value>Last Modified: October 09, 2023</value>
+  </data>
+  <data name="IndexParaFourStr" xml:space="preserve">
+    <value>If you are viewing this website on a smartphone and or other related cellular device, please consider changing the device's orientation into landscape mode. This will allow you to more fully utilize all that the website has to offer!</value>
   </data>
   <data name="indexParaOneStr" xml:space="preserve">
     <value>I will be using this website to discuss / share my thoughts and open source work on GitHub.</value>

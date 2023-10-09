@@ -196,11 +196,20 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Last Modified: January 08, 2023.
+        ///   Looks up a localized string similar to Last Modified: October 09, 2023.
         /// </summary>
         public static string indexLastModStr {
             get {
                 return ResourceManager.GetString("indexLastModStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to If you are viewing this website on a smartphone and or other related cellular device, please consider changing the device&apos;s orientation into landscape mode. This will allow you to more fully utilize all that the website has to offer!.
+        /// </summary>
+        public static string IndexParaFourStr {
+            get {
+                return ResourceManager.GetString("IndexParaFourStr", resourceCulture);
             }
         }
         
