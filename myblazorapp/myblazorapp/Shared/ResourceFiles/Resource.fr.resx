@@ -252,6 +252,9 @@
   <data name="navBarLicenseStr" xml:space="preserve">
     <value>Licence</value>
   </data>
+  <data name="navBarMenuExpandStr" xml:space="preserve">
+    <value>Menu</value>
+  </data>
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Confidentialité</value>
   </data>
@@ -262,7 +265,7 @@
     <value>UTF-8</value>
   </data>
   <data name="navBarProj1HowToGenerallySubNavStr" xml:space="preserve">
-    <value>Généralement</value>
+    <value>Usage</value>
   </data>
   <data name="navBarProj1HowToSubNavStr" xml:space="preserve">
     <value>Instructions</value>
@@ -664,7 +667,7 @@
     <value>La Dernière Modification: 20 juillet, 2023</value>
   </data>
   <data name="TaConPagePara10Str" xml:space="preserve">
-    <value>Tout le contenu publié et mis à disposition sur Notre Site est la propriété de GustafU233C et ou des créateurs du Site. Cela inclut, mais sans s’y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés et ou tout ce qui contribue à la composition ou à Notre Site. En ce qui concerne le code source de Notre Site, veuillez consulter la section Licence applicable de Notre Site pour plus de précisions.</value>
+    <value>Tout le contenu publié et mis à disposition sur Notre Site est la propriété de GustafU233C et ou des créateurs du Site. Cela inclut, mais sans s’y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés et ou tout ce qui contribue à la composition de Notre Site. En ce qui concerne le code source de Notre Site, veuillez consulter la section Licence applicable de Notre Site pour plus de précisions.</value>
   </data>
   <data name="TaConPagePara11Str" xml:space="preserve">
     <value>Changements et ou Modifications des Termes et Conditions:</value>
@@ -706,7 +709,7 @@
     <value>Limitation de Responsabilité:</value>
   </data>
   <data name="TaConPagePara23Str" xml:space="preserve">
-    <value>GustafU233C et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées ne seront pas responsables des actions, réclamations, pertes, dommages, responsabilités et ou dépenses, y compris les frais juridiques, découlant de votre utilisation de notre site.</value>
+    <value>GustafU233C et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées ne seront pas responsables des actions, réclamations, pertes, dommages, responsabilités et ou dépenses, y compris les frais juridiques, découlant de votre utilisation de Notre Site.</value>
   </data>
   <data name="TaConPagePara24Str" xml:space="preserve">
     <value>Indemnité:</value>

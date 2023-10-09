@@ -466,6 +466,15 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Menu.
+        /// </summary>
+        public static string navBarMenuExpandStr {
+            get {
+                return ResourceManager.GetString("navBarMenuExpandStr", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Privacy Policy.
         /// </summary>
         public static string navBarPrivacyPolicyStr {
@@ -493,7 +502,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Generally.
+        ///   Looks up a localized string similar to Usage.
         /// </summary>
         public static string navBarProj1HowToGenerallySubNavStr {
             get {
@@ -1699,7 +1708,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All content published and made available on Our Site is the property of GustafU233C and or the Site’s creators. This includes, but is not not limited to images, text, logos, documents, downloaded files and or anything that contributes to the composition or Our Site. With regard to the source code of Our Site, please see the applicable Licence section of Our Site for further clarification..
+        ///   Looks up a localized string similar to All content published and made available on Our Site is the property of GustafU233C and or the Site’s creators. This includes, but is not not limited to images, text, logos, documents, downloaded files and or anything that contributes to the composition of Our Site. With regard to the source code of Our Site, please see the applicable Licence section of Our Site for further clarification..
         /// </summary>
         public static string TaConPagePara10Str {
             get {

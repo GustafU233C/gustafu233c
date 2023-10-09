@@ -252,6 +252,9 @@
   <data name="navBarLicenseStr" xml:space="preserve">
     <value>License</value>
   </data>
+  <data name="navBarMenuExpandStr" xml:space="preserve">
+    <value>Menu</value>
+  </data>
   <data name="navBarPrivacyPolicyStr" xml:space="preserve">
     <value>Privacy Policy</value>
   </data>
@@ -262,7 +265,7 @@
     <value>UTF-8</value>
   </data>
   <data name="navBarProj1HowToGenerallySubNavStr" xml:space="preserve">
-    <value>Generally</value>
+    <value>Usage</value>
   </data>
   <data name="navBarProj1HowToSubNavStr" xml:space="preserve">
     <value>How To</value>
@@ -664,7 +667,7 @@
     <value>Last Modified: July 20, 2023</value>
   </data>
   <data name="TaConPagePara10Str" xml:space="preserve">
-    <value>All content published and made available on Our Site is the property of GustafU233C and or the Site’s creators. This includes, but is not not limited to images, text, logos, documents, downloaded files and or anything that contributes to the composition or Our Site. With regard to the source code of Our Site, please see the applicable Licence section of Our Site for further clarification.</value>
+    <value>All content published and made available on Our Site is the property of GustafU233C and or the Site’s creators. This includes, but is not not limited to images, text, logos, documents, downloaded files and or anything that contributes to the composition of Our Site. With regard to the source code of Our Site, please see the applicable Licence section of Our Site for further clarification.</value>
   </data>
   <data name="TaConPagePara11Str" xml:space="preserve">
     <value>Changes and or Modifications to these Terms and Conditions:</value>
