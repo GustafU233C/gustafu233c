@@ -397,10 +397,10 @@
     <value>Information and or Data We May Potentially Obtain from Third Parties:</value>
   </data>
   <data name="privacyPagePara26Str" xml:space="preserve">
-    <value>We may also potentially obtain information about you from third parties, including from vendors and or service providers who may collect information on Our behalf, such as:</value>
+    <value>We may also potentially obtain information about you from third parties, including from vendors and or service providers who may collect information on Our behalf and or for themselves, such as:</value>
   </data>
   <data name="privacyPagePara27Str" xml:space="preserve">
-    <value>Companies who may potentially support Our Site and or Our Services: a theoretical example could be a company such as Shopify.</value>
+    <value>Companies who may potentially support Our Site and or Our Services: an example being a company such as Microsoft, who currently hosts Our Site.</value>
   </data>
   <data name="privacyPagePara28Str" xml:space="preserve">
     <value>Our potential payment processors: who may collect payment information (for example: bank account, credit and or debit card information, billing address, etc.) to process your payment in order to fulfill your orders and or provide you with products and or services you may have requested, in order to perform Our contract or contracts with you.</value>
@@ -445,7 +445,7 @@
     <value>Governing Law:</value>
   </data>
   <data name="privacyPagePara40Str" xml:space="preserve">
-    <value>With business and or marketing partners, for example, with a company such as Shopify, to provide services and or advertisements to you. Our business and or marketing partners may potentially use your information in accordance with their own privacy policies.</value>
+    <value>With business and or marketing partners, for example, with a company such as Google, to provide services and or advertisements to you. Our business and or marketing partners may potentially use your information in accordance with their own privacy policies.</value>
   </data>
   <data name="privacyPagePara41Str" xml:space="preserve">
     <value>When you direct, request Us and or otherwise consent to Our disclosure of certain information to third parties, such as to ship you products and or through your use of social media widgets and or login integration's, with your consent.</value>
@@ -481,7 +481,7 @@
     <value>Our Services and or Our Site are not intended to be used by children, and We do not knowingly collect any personal information and or Data about children. If you are the parent and or guardian of a child who has potentially provided Us with their personal information and or Data, you may contact Us using the contact information details set out below to request that the personal information and or Data be deleted.</value>
   </data>
   <data name="privacyPagePara51Str" xml:space="preserve">
-    <value>As of the “Effective Date” of this Privacy Policy, We do not have actual knowledge that We “collect”, "share" and or "sell" (as those terms are defined in applicable law) personal information of individuals under 16 years of age.</value>
+    <value>As of the “Effective Date” of this Privacy Policy, We do not have actual knowledge that We “collect”, "share" and or "sell" (as those terms are defined in applicable law) personal information of individuals under 13 years of age.</value>
   </data>
   <data name="privacyPagePara52Str" xml:space="preserve">
     <value>Security and or Retention of Your Personal Information and or Data:</value>
@@ -553,7 +553,7 @@
     <value>Current Personal Information and or Data Collection, and or Cookie Policy:</value>
   </data>
   <data name="privacyPagePara73Str" xml:space="preserve">
-    <value>Notwithstanding any and or all of the above information in this Privacy Policy, as of the “Effective Date” listed above, We do not knowingly collect and or use any Data from users and or potential users of Our Site and or Services. We also, as of the “Effective Date” listed above, do not use Cookies on Our Site. If we learn that We have collected any Data from an user and or a potential user, in breach of this Privacy Policy, the data will be deleted as soon as is possible, as required under applicable law.</value>
+    <value>Notwithstanding any and or all of the above information in this Privacy Policy, as of the “Effective Date” listed above, We do not knowingly collect and or use any Data from users and or potential users of Our Site and or Services. We also, as of the “Effective Date” listed above, do not use Cookies on Our Site. If We learn that We have collected any Data from a user and or a potential user, in breach of this Privacy Policy, the data will be deleted as soon as is possible, as required under applicable law.</value>
   </data>
   <data name="privacyPagePara74Str" xml:space="preserve">
     <value>Complaints:</value>
@@ -673,10 +673,10 @@
     <value>All content published and made available on Our Site is the property of GustafU233C and or the Site’s creators. This includes, but is not not limited to images, text, logos, documents, downloaded files and or anything that contributes to the composition of Our Site. With regard to the source code of Our Site, please see the applicable Licence section of Our Site for further clarification.</value>
   </data>
   <data name="TaConPagePara11Str" xml:space="preserve">
-    <value>Changes and or Modifications to these Terms and Conditions:</value>
+    <value>Changes and or Modifications to these Terms of Service and Conditions:</value>
   </data>
   <data name="TaConPagePara12Str" xml:space="preserve">
-    <value>We may update these Terms and Conditions from time to time, including to reflect changes to Our current practices and or for other operational, legal, and or regulatory reasons. We will post the revised Terms and Conditions on Our Site, update the "Effective Date", and or take any other steps as required by any other applicable law and or laws.</value>
+    <value>We may update these Terms of Service and Conditions from time to time, including to reflect changes to Our current practices and or for other operational, legal, and or regulatory reasons. We will post the revised Terms of Service and Conditions on Our Site, update the "Effective Date", and or take any other steps as required by any other applicable law and or laws.</value>
   </data>
   <data name="TaConPagePara13Str" xml:space="preserve">
     <value>Acceptable Use:</value>
@@ -700,13 +700,13 @@
     <value>Act in any way that could be considered fraudulent; and or</value>
   </data>
   <data name="TaConPagePara1Str" xml:space="preserve">
-    <value>These terms and conditions (hereinafter referred to as the “Terms and Conditions”) govern the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the “Site”). The Site is owned and operated by GustafU233C (hereinafter referred to as “We”, “Us”, and or “Our”). This Site is a blog, of sorts.</value>
+    <value>These terms of service and conditions (hereinafter referred to as the “Terms of Service and Conditions”) govern the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the “Site”). The Site is owned and operated by GustafU233C (hereinafter referred to as “We”, “Us”, and or “Our”). This Site is a blog, of sorts.</value>
   </data>
   <data name="TaConPagePara20Str" xml:space="preserve">
     <value>Post any material that may be deemed inappropriate, offensive, and or illegal.</value>
   </data>
   <data name="TaConPagePara21Str" xml:space="preserve">
-    <value>If We believe you are using Our Site illegally and or in a manner that violates these Terms and Conditions, We reserve the right to limit, suspend and or terminate your access to Our Site. We also reserve the right to take any legal steps necessary to prevent you from accessing Our Site.</value>
+    <value>If We believe you are using Our Site illegally and or in a manner that violates these Terms of Service and Conditions, We reserve the right to limit, suspend and or terminate your access to Our Site. We also reserve the right to take any legal steps necessary to prevent you from accessing Our Site.</value>
   </data>
   <data name="TaConPagePara22Str" xml:space="preserve">
     <value>Limitation of Liability:</value>
@@ -724,52 +724,52 @@
     <value>Dispute Resolution:</value>
   </data>
   <data name="TaConPagePara27Str" xml:space="preserve">
-    <value>Subject to any exceptions specified in these Terms and Conditions, if you and GustafU233C are unable to resolve any dispute through informal discussions, then you and GustafU233C agree to submit this issue before a mediator. The decision of the mediator will not be binding. Any mediator must be a neutral party acceptable to both you and GustafU233C.</value>
+    <value>Subject to any exceptions specified in these Terms of Service and Conditions, if you and GustafU233C are unable to resolve any dispute through informal discussions, then you and GustafU233C agree to submit this issue before a mediator. The decision of the mediator will not be binding. Any mediator must be a neutral party acceptable to both you and GustafU233C.</value>
   </data>
   <data name="TaConPagePara28Str" xml:space="preserve">
-    <value>Notwithstanding any other provision in these Terms and Conditions, you and GustafU233C agree that you both retain the right to bring an action in small claims court and or to bring an action for injunctive relief and or intellectual property infringement.</value>
+    <value>Notwithstanding any other provision in these Terms of Service and Conditions, you and GustafU233C agree that you both retain the right to bring an action in small claims court and or to bring an action for injunctive relief and or intellectual property infringement.</value>
   </data>
   <data name="TaConPagePara29Str" xml:space="preserve">
     <value>Severability:</value>
   </data>
   <data name="TaConPagePara2Str" xml:space="preserve">
-    <value>Please read these Terms and Conditions. By using this Site, you indicate that you have read and understand these Terms and Conditions and agree to abide by them at all times. If you do not agree with the terms set out in these Terms and Conditions, do not use and or access Our Site.</value>
+    <value>Please read these Terms of Service and Conditions. By using this Site, you indicate that you have read and understand these Terms of Service and Conditions and agree to abide by them at all times. If you do not agree with the terms set out in these Terms of Service and Conditions, do not use and or access Our Site.</value>
   </data>
   <data name="TaConPagePara30Str" xml:space="preserve">
-    <value>If at any time any of the provisions set forth in these Terms and Conditions are found to be inconsistent and or invalid under applicable laws, those provisions will be deemed void and will be removed from these Terms and Conditions. All other provisions will not be affected by the removal, and the rest of these Terms and Conditions will still be considered valid.</value>
+    <value>If at any time any of the provisions set forth in these Terms of Service and Conditions are found to be inconsistent and or invalid under applicable laws, those provisions will be deemed void and will be removed from these Terms of Service and Conditions. All other provisions will not be affected by the removal, and the rest of these Terms of Service and Conditions will still be considered valid.</value>
   </data>
   <data name="TaConPagePara31Str" xml:space="preserve">
     <value>Contact Information Details:</value>
   </data>
   <data name="TaConPagePara32Str" xml:space="preserve">
-    <value>Should you have any questions and or concerns about Our Terms and Conditions and or privacy practices, and or if you would like to exercise any of the rights potentially available to you, please email Us at: GustafU233C@Protonmail.com.</value>
+    <value>Should you have any questions and or concerns about Our Terms of Service and Conditions and or privacy practices, and or if you would like to exercise any of the rights potentially available to you, please email Us at: GustafU233C@Protonmail.com.</value>
   </data>
   <data name="TaConPagePara3Str" xml:space="preserve">
-    <value>THESE TERMS AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT IMPACTS YOUR RIGHTS ABOUT HOW TO RESOLVE DISPUTES. PLEASE READ THEM CAREFULLY!</value>
+    <value>THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT IMPACTS YOUR RIGHTS ABOUT HOW TO RESOLVE DISPUTES. PLEASE READ THEM CAREFULLY!</value>
   </data>
   <data name="TaConPagePara4Str" xml:space="preserve">
     <value>Governing Law:</value>
   </data>
   <data name="TaConPagePara5Str" xml:space="preserve">
-    <value>The law governing these Terms and Conditions and or any dispute in relation to these Terms and Conditions will be the substantive law of the Province of Ontario, Canada, without regard to the choice of laws principles. In the context of these Terms and Conditions, a dispute is defined as, but not solely limited to, a disagreement and or lacking of agreement between parties, that may result in any sort of action, be that action legal in nature or otherwise.</value>
+    <value>The law governing these Terms of Service and Conditions and or any dispute in relation to these Terms of Service and Conditions will be the substantive law of the Province of Ontario, Canada, without regard to the choice of laws principles. In the context of these Terms of Service and Conditions, a dispute is defined as, but not solely limited to, a disagreement and or lacking of agreement between parties, that may result in any sort of action, be that action legal in nature or otherwise.</value>
   </data>
   <data name="TaConPagePara6Str" xml:space="preserve">
-    <value>Linguistic Interpretation of these Terms and Conditions:</value>
+    <value>Linguistic Interpretation of these Terms of Service and Conditions:</value>
   </data>
   <data name="TaConPagePara7Str" xml:space="preserve">
-    <value>These Terms and Conditions were originally prepared in the English language. Although GustafU233C may provide one or more translated versions of these Terms and Conditions, for your convenience, and or as required by municipal, and or provincial, and or state, and or federal law, it is very important to note that the English language version of these Terms and Conditions will always be the sole governing version of these Terms and Conditions, in the case of any conflict and or discrepancy and or dispute, legal in nature or otherwise. In the event that an ambiguity and or question of intent and or interpretation arises, in any judicial proceeding, legal in nature or otherwise, the terms of these Terms and Conditions will be construed as having been drafted jointly by the parties involved, and no presumption and or burden of proof will arise favouring and or disfavouring any party by virtue of the authorship of any provisions of these Terms and Conditions.</value>
+    <value>These Terms of Service and Conditions were originally prepared in the English language. Although GustafU233C may provide one or more translated versions of these Terms of Service and Conditions, for your convenience, and or as required by municipal, and or provincial, and or state, and or federal law, it is very important to note that the English language version of these Terms of Service and Conditions will always be the sole governing version of these Terms of Service and Conditions, in the case of any conflict and or discrepancy and or dispute, legal in nature or otherwise. In the event that an ambiguity and or question of intent and or interpretation arises, in any judicial proceeding, legal in nature or otherwise, the terms of these Terms of Service and Conditions will be construed as having been drafted jointly by the parties involved, and no presumption and or burden of proof will arise favouring and or disfavouring any party by virtue of the authorship of any provisions of these Terms of Service and Conditions.</value>
   </data>
   <data name="TaConPagePara8Str" xml:space="preserve">
-    <value>With regard to gender in relation to the language used in these Terms and Conditions, please note that the headings used in these Terms and Conditions do not affect their interpretation. The use of any gender includes all genders. The singular includes the plural and vice-versa. Where a word and or phrase is defined, its’ other grammatical form and or forms have an equal and or corresponding meaning. If one gender has been utilized anywhere in these Terms and Conditions, this is just for simplicity purposes only.</value>
+    <value>With regard to gender in relation to the language used in these Terms of Service and Conditions, please note that the headings used in these Terms of Service and Conditions do not affect their interpretation. The use of any gender includes all genders. The singular includes the plural and vice-versa. Where a word and or phrase is defined, its’ other grammatical form and or forms have an equal and or corresponding meaning. If one gender has been utilized anywhere in these Terms of Service and Conditions, this is just for simplicity purposes only.</value>
   </data>
   <data name="TaConPagePara9Str" xml:space="preserve">
     <value>Intellectual Property:</value>
   </data>
   <data name="TaConPageTitle2Str" xml:space="preserve">
-    <value>GustafU233C Terms and Conditions:</value>
+    <value>GustafU233C Terms of Service and Conditions:</value>
   </data>
   <data name="TaConTitlePageStr" xml:space="preserve">
-    <value>Terms and Conditions</value>
+    <value>Terms of Service and Conditions</value>
   </data>
   <data name="TofServPageLastModStr" xml:space="preserve">
     <value>Last Modified: January 08, 2023</value>

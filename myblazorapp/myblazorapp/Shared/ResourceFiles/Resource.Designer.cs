@@ -898,7 +898,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We may also potentially obtain information about you from third parties, including from vendors and or service providers who may collect information on Our behalf, such as:.
+        ///   Looks up a localized string similar to We may also potentially obtain information about you from third parties, including from vendors and or service providers who may collect information on Our behalf and or for themselves, such as:.
         /// </summary>
         public static string privacyPagePara26Str {
             get {
@@ -907,7 +907,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Companies who may potentially support Our Site and or Our Services: a theoretical example could be a company such as Shopify..
+        ///   Looks up a localized string similar to Companies who may potentially support Our Site and or Our Services: an example being a company such as Microsoft, who currently hosts Our Site..
         /// </summary>
         public static string privacyPagePara27Str {
             get {
@@ -1042,7 +1042,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to With business and or marketing partners, for example, with a company such as Shopify, to provide services and or advertisements to you. Our business and or marketing partners may potentially use your information in accordance with their own privacy policies..
+        ///   Looks up a localized string similar to With business and or marketing partners, for example, with a company such as Google, to provide services and or advertisements to you. Our business and or marketing partners may potentially use your information in accordance with their own privacy policies..
         /// </summary>
         public static string privacyPagePara40Str {
             get {
@@ -1150,7 +1150,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to As of the “Effective Date” of this Privacy Policy, We do not have actual knowledge that We “collect”, &quot;share&quot; and or &quot;sell&quot; (as those terms are defined in applicable law) personal information of individuals under 16 years of age..
+        ///   Looks up a localized string similar to As of the “Effective Date” of this Privacy Policy, We do not have actual knowledge that We “collect”, &quot;share&quot; and or &quot;sell&quot; (as those terms are defined in applicable law) personal information of individuals under 13 years of age..
         /// </summary>
         public static string privacyPagePara51Str {
             get {
@@ -1366,7 +1366,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Notwithstanding any and or all of the above information in this Privacy Policy, as of the “Effective Date” listed above, We do not knowingly collect and or use any Data from users and or potential users of Our Site and or Services. We also, as of the “Effective Date” listed above, do not use Cookies on Our Site. If we learn that We have collected any Data from an user and or a potential user, in breach of this Privacy Policy, the data will be deleted as soon as is possible, as required under applicable law..
+        ///   Looks up a localized string similar to Notwithstanding any and or all of the above information in this Privacy Policy, as of the “Effective Date” listed above, We do not knowingly collect and or use any Data from users and or potential users of Our Site and or Services. We also, as of the “Effective Date” listed above, do not use Cookies on Our Site. If We learn that We have collected any Data from a user and or a potential user, in breach of this Privacy Policy, the data will be deleted as soon as is possible, as required under applicable law..
         /// </summary>
         public static string privacyPagePara73Str {
             get {
@@ -1726,7 +1726,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Changes and or Modifications to these Terms and Conditions:.
+        ///   Looks up a localized string similar to Changes and or Modifications to these Terms of Service and Conditions:.
         /// </summary>
         public static string TaConPagePara11Str {
             get {
@@ -1735,7 +1735,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to We may update these Terms and Conditions from time to time, including to reflect changes to Our current practices and or for other operational, legal, and or regulatory reasons. We will post the revised Terms and Conditions on Our Site, update the &quot;Effective Date&quot;, and or take any other steps as required by any other applicable law and or laws..
+        ///   Looks up a localized string similar to We may update these Terms of Service and Conditions from time to time, including to reflect changes to Our current practices and or for other operational, legal, and or regulatory reasons. We will post the revised Terms of Service and Conditions on Our Site, update the &quot;Effective Date&quot;, and or take any other steps as required by any other applicable law and or laws..
         /// </summary>
         public static string TaConPagePara12Str {
             get {
@@ -1807,7 +1807,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These terms and conditions (hereinafter referred to as the “Terms and Conditions”) govern the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the “Site”). The Site is owned and operated by GustafU233C (hereinafter referred to as “We”, “Us”, and or “Our”). This Site is a blog, of sorts..
+        ///   Looks up a localized string similar to These terms of service and conditions (hereinafter referred to as the “Terms of Service and Conditions”) govern the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the “Site”). The Site is owned and operated by GustafU233C (hereinafter referred to as “We”, “Us”, and or “Our”). This Site is a blog, of sorts..
         /// </summary>
         public static string TaConPagePara1Str {
             get {
@@ -1825,7 +1825,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If We believe you are using Our Site illegally and or in a manner that violates these Terms and Conditions, We reserve the right to limit, suspend and or terminate your access to Our Site. We also reserve the right to take any legal steps necessary to prevent you from accessing Our Site..
+        ///   Looks up a localized string similar to If We believe you are using Our Site illegally and or in a manner that violates these Terms of Service and Conditions, We reserve the right to limit, suspend and or terminate your access to Our Site. We also reserve the right to take any legal steps necessary to prevent you from accessing Our Site..
         /// </summary>
         public static string TaConPagePara21Str {
             get {
@@ -1879,7 +1879,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Subject to any exceptions specified in these Terms and Conditions, if you and GustafU233C are unable to resolve any dispute through informal discussions, then you and GustafU233C agree to submit this issue before a mediator. The decision of the mediator will not be binding. Any mediator must be a neutral party acceptable to both you and GustafU233C..
+        ///   Looks up a localized string similar to Subject to any exceptions specified in these Terms of Service and Conditions, if you and GustafU233C are unable to resolve any dispute through informal discussions, then you and GustafU233C agree to submit this issue before a mediator. The decision of the mediator will not be binding. Any mediator must be a neutral party acceptable to both you and GustafU233C..
         /// </summary>
         public static string TaConPagePara27Str {
             get {
@@ -1888,7 +1888,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Notwithstanding any other provision in these Terms and Conditions, you and GustafU233C agree that you both retain the right to bring an action in small claims court and or to bring an action for injunctive relief and or intellectual property infringement..
+        ///   Looks up a localized string similar to Notwithstanding any other provision in these Terms of Service and Conditions, you and GustafU233C agree that you both retain the right to bring an action in small claims court and or to bring an action for injunctive relief and or intellectual property infringement..
         /// </summary>
         public static string TaConPagePara28Str {
             get {
@@ -1906,7 +1906,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please read these Terms and Conditions. By using this Site, you indicate that you have read and understand these Terms and Conditions and agree to abide by them at all times. If you do not agree with the terms set out in these Terms and Conditions, do not use and or access Our Site..
+        ///   Looks up a localized string similar to Please read these Terms of Service and Conditions. By using this Site, you indicate that you have read and understand these Terms of Service and Conditions and agree to abide by them at all times. If you do not agree with the terms set out in these Terms of Service and Conditions, do not use and or access Our Site..
         /// </summary>
         public static string TaConPagePara2Str {
             get {
@@ -1915,7 +1915,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to If at any time any of the provisions set forth in these Terms and Conditions are found to be inconsistent and or invalid under applicable laws, those provisions will be deemed void and will be removed from these Terms and Conditions. All other provisions will not be affected by the removal, and the rest of these Terms and Conditions will still be considered valid..
+        ///   Looks up a localized string similar to If at any time any of the provisions set forth in these Terms of Service and Conditions are found to be inconsistent and or invalid under applicable laws, those provisions will be deemed void and will be removed from these Terms of Service and Conditions. All other provisions will not be affected by the removal, and the rest of these Terms of Service and Conditions will still be considered valid..
         /// </summary>
         public static string TaConPagePara30Str {
             get {
@@ -1933,7 +1933,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Should you have any questions and or concerns about Our Terms and Conditions and or privacy practices, and or if you would like to exercise any of the rights potentially available to you, please email Us at: GustafU233C@Protonmail.com..
+        ///   Looks up a localized string similar to Should you have any questions and or concerns about Our Terms of Service and Conditions and or privacy practices, and or if you would like to exercise any of the rights potentially available to you, please email Us at: GustafU233C@Protonmail.com..
         /// </summary>
         public static string TaConPagePara32Str {
             get {
@@ -1942,7 +1942,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to THESE TERMS AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT IMPACTS YOUR RIGHTS ABOUT HOW TO RESOLVE DISPUTES. PLEASE READ THEM CAREFULLY!.
+        ///   Looks up a localized string similar to THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT IMPACTS YOUR RIGHTS ABOUT HOW TO RESOLVE DISPUTES. PLEASE READ THEM CAREFULLY!.
         /// </summary>
         public static string TaConPagePara3Str {
             get {
@@ -1960,7 +1960,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The law governing these Terms and Conditions and or any dispute in relation to these Terms and Conditions will be the substantive law of the Province of Ontario, Canada, without regard to the choice of laws principles. In the context of these Terms and Conditions, a dispute is defined as, but not solely limited to, a disagreement and or lacking of agreement between parties, that may result in any sort of action, be that action legal in nature or otherwise..
+        ///   Looks up a localized string similar to The law governing these Terms of Service and Conditions and or any dispute in relation to these Terms of Service and Conditions will be the substantive law of the Province of Ontario, Canada, without regard to the choice of laws principles. In the context of these Terms of Service and Conditions, a dispute is defined as, but not solely limited to, a disagreement and or lacking of agreement between parties, that may result in any sort of action, be that action legal in nature or otherwise..
         /// </summary>
         public static string TaConPagePara5Str {
             get {
@@ -1969,7 +1969,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Linguistic Interpretation of these Terms and Conditions:.
+        ///   Looks up a localized string similar to Linguistic Interpretation of these Terms of Service and Conditions:.
         /// </summary>
         public static string TaConPagePara6Str {
             get {
@@ -1978,7 +1978,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These Terms and Conditions were originally prepared in the English language. Although GustafU233C may provide one or more translated versions of these Terms and Conditions, for your convenience, and or as required by municipal, and or provincial, and or state, and or federal law, it is very important to note that the English language version of these Terms and Conditions will always be the sole governing version of these Terms and Conditions, in the case of any conflict and or discrepancy and or dispute, le [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to These Terms of Service and Conditions were originally prepared in the English language. Although GustafU233C may provide one or more translated versions of these Terms of Service and Conditions, for your convenience, and or as required by municipal, and or provincial, and or state, and or federal law, it is very important to note that the English language version of these Terms of Service and Conditions will always be the sole governing version of these Terms of Service and Conditions, in the case of any co [rest of string was truncated]&quot;;.
         /// </summary>
         public static string TaConPagePara7Str {
             get {
@@ -1987,7 +1987,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to With regard to gender in relation to the language used in these Terms and Conditions, please note that the headings used in these Terms and Conditions do not affect their interpretation. The use of any gender includes all genders. The singular includes the plural and vice-versa. Where a word and or phrase is defined, its’ other grammatical form and or forms have an equal and or corresponding meaning. If one gender has been utilized anywhere in these Terms and Conditions, this is just for simplicity purposes [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to With regard to gender in relation to the language used in these Terms of Service and Conditions, please note that the headings used in these Terms of Service and Conditions do not affect their interpretation. The use of any gender includes all genders. The singular includes the plural and vice-versa. Where a word and or phrase is defined, its’ other grammatical form and or forms have an equal and or corresponding meaning. If one gender has been utilized anywhere in these Terms of Service and Conditions, thi [rest of string was truncated]&quot;;.
         /// </summary>
         public static string TaConPagePara8Str {
             get {
@@ -2005,7 +2005,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to GustafU233C Terms and Conditions:.
+        ///   Looks up a localized string similar to GustafU233C Terms of Service and Conditions:.
         /// </summary>
         public static string TaConPageTitle2Str {
             get {
@@ -2014,7 +2014,7 @@ namespace myblazorapp.Shared.ResourceFiles {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Terms and Conditions.
+        ///   Looks up a localized string similar to Terms of Service and Conditions.
         /// </summary>
         public static string TaConTitlePageStr {
             get {

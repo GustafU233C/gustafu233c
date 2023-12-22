@@ -397,10 +397,10 @@
     <value>Informations et ou Données Que Nous Pouvons Potentiellement Obtenir Des Partis Troisième:</value>
   </data>
   <data name="privacyPagePara26Str" xml:space="preserve">
-    <value>Nous pouvons également potentiellement obtenir des informations vous concernant auprès de partis troisième, y compris auprès de fournisseurs et ou de prestataires de services qui peuvent collecter des informations en Notre nom, comme:</value>
+    <value>Nous pouvons également potentiellement obtenir des informations vous concernant auprès de partis troisième, y compris auprès de fournisseurs et ou de prestataires de services qui peuvent collecter des informations en Notre nom et ou pour eux-mêmes, comme:</value>
   </data>
   <data name="privacyPagePara27Str" xml:space="preserve">
-    <value>Les entreprises susceptibles de prendre en charge Notre Site et ou Nos Services: un exemple théorique pourrait être une entreprise comme Shopify.</value>
+    <value>Les entreprises susceptibles de prendre en charge Notre Site et ou Nos Services: un exemple étant une entreprise telle que Microsoft, qui héberge actuellement notre site.</value>
   </data>
   <data name="privacyPagePara28Str" xml:space="preserve">
     <value>Nos processeurs de paiement potentiels: qui peuvent collecter des informations de paiement (par exemple: compte bancaire, informations de carte de crédit et ou de débit, adresse de facturation, etc.) pour traiter votre paiement afin d’exécuter vos commandes et ou de vous fournir des produits et ou services que vous avez demandés, afin d’exécuter Notre contrat ou Nos contrats avec vous.</value>
@@ -445,7 +445,7 @@
     <value>Loi Applicable:</value>
   </data>
   <data name="privacyPagePara40Str" xml:space="preserve">
-    <value>Avec des partenaires commerciaux et ou marketing, par exemple, avec une entreprise comme Shopify, pour vous fournir des services et ou des publicités. Nos partenaires commerciaux et ou marketing peuvent potentiellement utiliser vos informations conformément à leurs propres politiques de confidentialité.</value>
+    <value>Avec des partenaires commerciaux et ou marketing, par exemple, avec une entreprise comme Google, pour vous fournir des services et ou des publicités. Nos partenaires commerciaux et ou marketing peuvent potentiellement utiliser vos informations conformément à leurs propres politiques de confidentialité.</value>
   </data>
   <data name="privacyPagePara41Str" xml:space="preserve">
     <value>Quand vous Nous ordonnez, Nous demandez et ou consentez autrement à ce que Nous divulguions certaines informations à des partis troisième, par exemple pour vous expédier des produits et ou par le biais de votre utilisation de widgets de médias sociaux et ou d’intégration de connexion, avec votre consentement.</value>
@@ -481,7 +481,7 @@
     <value>Nos Services et ou Notre Site ne sont pas destinés à être utilisés par des enfants, et Nous ne recueillons pas sciemment d’informations personnelles et ou de Données sur les enfants. Si vous êtes le parent et ou le tuteur d’un enfant qui Nous a potentiellement fourni ses informations personnelles et ou ses Données, vous pouvez Nous contacter en utilisant les détails de contact indiquées ci-dessous pour demander que les informations personnelles et ou les Données soient supprimées.</value>
   </data>
   <data name="privacyPagePara51Str" xml:space="preserve">
-    <value>À la « Date d’Entrée en Vigueur » de la présente Politique de Confidentialité, Nous ne savons pas réellement que Nous « recueillons », « partageons » et ou « vendons » (comme ces termes sont définis dans la loi applicable) les renseignements personnels des personnes de moins de 16 ans.</value>
+    <value>À la « Date d’Entrée en Vigueur » de la présente Politique de Confidentialité, Nous ne savons pas réellement que Nous « recueillons », « partageons » et ou « vendons » (comme ces termes sont définis dans la loi applicable) les renseignements personnels des personnes de moins de 13 ans de l'âge.</value>
   </data>
   <data name="privacyPagePara52Str" xml:space="preserve">
     <value>Sécurité et ou Conservation de Vos Informations Personnelles et ou Données:</value>
@@ -673,10 +673,10 @@
     <value>Tout le contenu publié et mis à disposition sur Notre Site est la propriété de GustafU233C et ou des créateurs du Site. Cela inclut, mais sans s’y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés et ou tout ce qui contribue à la composition de Notre Site. En ce qui concerne le code source de Notre Site, veuillez consulter la section Licence applicable de Notre Site pour plus de précisions.</value>
   </data>
   <data name="TaConPagePara11Str" xml:space="preserve">
-    <value>Changements et ou Modifications des Termes et Conditions:</value>
+    <value>Changements et ou Modifications des Termes de Service et Conditions:</value>
   </data>
   <data name="TaConPagePara12Str" xml:space="preserve">
-    <value>Nous pouvons mettre à jour ces Termes et Conditions de temps à autre, y compris pour refléter les changements apportés à Nos pratiques actuelles et ou pour d’autres raisons opérationnelles, juridiques et ou réglementaires. Nous publierons les Termes et Conditions révisées sur Notre Site, mettrons à jour la « Date d’Entré en Vigueur » et ou prendrons toute autre mesure requise par toute autre loi et ou lois applicables.</value>
+    <value>Nous pouvons mettre à jour ces Termes de Service et Conditions de temps à autre, y compris pour refléter les changements apportés à Nos pratiques actuelles et ou pour d’autres raisons opérationnelles, juridiques et ou réglementaires. Nous publierons les Termes de Service et Conditions révisées sur Notre Site, mettrons à jour la « Date d’Entré en Vigueur » et ou prendrons toute autre mesure requise par toute autre loi et ou lois applicables.</value>
   </data>
   <data name="TaConPagePara13Str" xml:space="preserve">
     <value>Utilisation Acceptable:</value>
@@ -700,13 +700,13 @@
     <value>Agir d’une manière qui pourrait être considérée comme frauduleuse; et ou</value>
   </data>
   <data name="TaConPagePara1Str" xml:space="preserve">
-    <value>Les présentes termes et conditions (ci-après dénommées les « Termes et Conditions ») régissent l’utilisation du site: https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site »). Le Site est détenu et exploité par GustafU233C (ci-après dénommé « Nous », « Notre » et ou « Nos »). Ce Site est une sorte de blog.</value>
+    <value>Les présentes termes de service et conditions (ci-après dénommées les « Termes de Service et Conditions ») régissent l’utilisation du site: https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site »). Le Site est détenu et exploité par GustafU233C (ci-après dénommé « Nous », « Notre » et ou « Nos »). Ce Site est une sorte de blog.</value>
   </data>
   <data name="TaConPagePara20Str" xml:space="preserve">
     <value>Publiez tout matériel qui peut être jugé inapproprié, offensant et ou illégal.</value>
   </data>
   <data name="TaConPagePara21Str" xml:space="preserve">
-    <value>Si Nous pensons que vous utilisez Notre Site illégalement et ou d’une manière qui viole les présentes Termes et Conditions, Nous Nous réservons le droit de limiter, suspendre et ou résilier votre accès à Notre Site. Nous Nous réservons également le droit de prendre toutes les mesures légales nécessaires pour vous empêcher d’accéder à Notre Site.</value>
+    <value>Si Nous pensons que vous utilisez Notre Site illégalement et ou d’une manière qui viole les présentes Termes de Service et Conditions, Nous Nous réservons le droit de limiter, suspendre et ou résilier votre accès à Notre Site. Nous Nous réservons également le droit de prendre toutes les mesures légales nécessaires pour vous empêcher d’accéder à Notre Site.</value>
   </data>
   <data name="TaConPagePara22Str" xml:space="preserve">
     <value>Limitation de Responsabilité:</value>
@@ -718,58 +718,58 @@
     <value>Indemnité:</value>
   </data>
   <data name="TaConPagePara25Str" xml:space="preserve">
-    <value>Sauf là où la loi l’interdit, en utilisant Notre Site, vous indemnisez et dégagez de toute responsabilité GustafU233C et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées contre toute action, réclamation, perte, dommage, responsabilité et ou dépense, y compris les frais juridiques, découlant de votre utilisation de Notre Site et ou de votre violation des présentes Termes et Conditions.</value>
+    <value>Sauf là où la loi l’interdit, en utilisant Notre Site, vous indemnisez et dégagez de toute responsabilité GustafU233C et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées contre toute action, réclamation, perte, dommage, responsabilité et ou dépense, y compris les frais juridiques, découlant de votre utilisation de Notre Site et ou de votre violation des présentes Termes de Service et Conditions.</value>
   </data>
   <data name="TaConPagePara26Str" xml:space="preserve">
     <value>Résolution des Litiges:</value>
   </data>
   <data name="TaConPagePara27Str" xml:space="preserve">
-    <value>Sous réserve des exceptions spécifiées dans les présentes Termes et Conditions, si vous et GustafU233C n’êtes pas en mesure de résoudre un différend par des discussions informelles, vous et GustafU233C acceptez de soumettre cette question à un médiateur. La décision du médiateur ne sera pas contraignante. Tout médiateur doit être une partie neutre acceptable à la fois pour vous et pour GustafU233C.</value>
+    <value>Sous réserve des exceptions spécifiées dans les présentes Termes de Service et Conditions, si vous et GustafU233C n’êtes pas en mesure de résoudre un différend par des discussions informelles, vous et GustafU233C acceptez de soumettre cette question à un médiateur. La décision du médiateur ne sera pas contraignante. Tout médiateur doit être une partie neutre acceptable à la fois pour vous et pour GustafU233C.</value>
   </data>
   <data name="TaConPagePara28Str" xml:space="preserve">
-    <value>Nonobstant toute autre disposition des présentes Termes et Conditions, vous et GustafU233C convenez que vous conservez tous deux le droit d’intenter une action devant la cour des petites créances et ou d’intenter une action en injonction et ou en violation de la propriété intellectuelle.</value>
+    <value>Nonobstant toute autre disposition des présentes Termes de Service et Conditions, vous et GustafU233C convenez que vous conservez tous deux le droit d’intenter une action devant la cour des petites créances et ou d’intenter une action en injonction et ou en violation de la propriété intellectuelle.</value>
   </data>
   <data name="TaConPagePara29Str" xml:space="preserve">
     <value>Clause de Sauvegarde:</value>
   </data>
   <data name="TaConPagePara2Str" xml:space="preserve">
-    <value>Veuillez lire ces Termes et Conditions. En utilisant ce Site, vous indiquez que vous avez lu et compris ces Termes et Conditions et acceptez de les respecter en tout temps. Si vous n’êtes pas d’accord avec les conditions énoncées dans les présentes Termes et Conditions, n’utilisez pas et n’accédez pas à Notre Site.</value>
+    <value>Veuillez lire ces Termes de Service et Conditions. En utilisant ce Site, vous indiquez que vous avez lu et compris ces Termes de Service et Conditions et acceptez de les respecter en tout temps. Si vous n’êtes pas d’accord avec les conditions énoncées dans les présentes Termes de Service et Conditions, n’utilisez pas et n’accédez pas à Notre Site.</value>
   </data>
   <data name="TaConPagePara30Str" xml:space="preserve">
-    <value>Si, à tout moment, l’une des dispositions énoncées dans les présentes Termes et Conditions est jugée incompatible ou invalide en vertu des lois applicables, ces dispositions seront considérées comme nulles et seront supprimées des présentes Termes et Conditions. Toutes les autres dispositions ne seront pas affectées par la suppression, et le reste de ces Termes et Conditions sera toujours considéré comme valide.</value>
+    <value>Si, à tout moment, l’une des dispositions énoncées dans les présentes Termes de Service et Conditions est jugée incompatible ou invalide en vertu des lois applicables, ces dispositions seront considérées comme nulles et seront supprimées des présentes Termes de Service et Conditions. Toutes les autres dispositions ne seront pas affectées par la suppression, et le reste de ces Termes de Service et Conditions sera toujours considéré comme valide.</value>
   </data>
   <data name="TaConPagePara31Str" xml:space="preserve">
     <value>Les Détails de Contact:</value>
   </data>
   <data name="TaConPagePara32Str" xml:space="preserve">
-    <value>Si vous avez des questions ou des préoccupations concernant Nos Termes et Conditions et ou Nos pratiques en matière de confidentialité, ou si vous souhaitez exercer l’un des droits potentiellement disponibles, veuillez Nous envoyer un courriel à l’adresse suivante: GustafU233C@Protonmail.com.</value>
+    <value>Si vous avez des questions ou des préoccupations concernant Nos Termes de Service et Conditions et ou Nos pratiques en matière de confidentialité, ou si vous souhaitez exercer l’un des droits potentiellement disponibles, veuillez Nous envoyer un courriel à l’adresse suivante: GustafU233C@Protonmail.com.</value>
   </data>
   <data name="TaConPagePara3Str" xml:space="preserve">
-    <value>CES TERMES ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÈGLEMENT DES LITIGES QUI A UNE INCIDENCE SUR VOS DROITS SUR LA FAÇON DE RÉSOUDRE LES LITIGES. VEUILLEZ LES LIRE ATTENTIVEMENT!</value>
+    <value>CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÈGLEMENT DES LITIGES QUI A UNE INCIDENCE SUR VOS DROITS SUR LA FAÇON DE RÉSOUDRE LES LITIGES. VEUILLEZ LES LIRE ATTENTIVEMENT!</value>
   </data>
   <data name="TaConPagePara4Str" xml:space="preserve">
     <value>Loi Applicable:</value>
   </data>
   <data name="TaConPagePara5Str" xml:space="preserve">
-    <value>La loi régissant les présentes Termes et Conditions et ou tout litige relatif aux présentes Termes et Conditions sera le droit substantiel de la province de l’Ontario, au Canada, sans égard aux principes de choix de lois. Dans le contexte des Termes et Conditions, un litige est défini comme, mais sans s’y limiter, un désaccord et ou l’absence d’accord entre les parties, qui peut entraîner toute sorte d’action, qu’elle soit de nature juridique ou autre.</value>
+    <value>La loi régissant les présentes Termes de Service et Conditions et ou tout litige relatif aux présentes Termes de Service et Conditions sera le droit substantiel de la province de l’Ontario, au Canada, sans égard aux principes de choix de lois. Dans le contexte des Termes de Service et Conditions, un litige est défini comme, mais sans s’y limiter, un désaccord et ou l’absence d’accord entre les parties, qui peut entraîner toute sorte d’action, qu’elle soit de nature juridique ou autre.</value>
   </data>
   <data name="TaConPagePara6Str" xml:space="preserve">
-    <value>Interprétation Linguistique des Présentes Termes et Conditions:</value>
+    <value>Interprétation Linguistique des Présentes Termes de Service et Conditions:</value>
   </data>
   <data name="TaConPagePara7Str" xml:space="preserve">
-    <value>Ces Termes et Conditions ont été préparés à l’origine en langue anglaise. Bien que GustafU233C puisse fournir une ou plusieurs versions traduites de ces Termes et Conditions, pour votre commodité, et ou tel que requis par la loi municipale, et ou provinciale, et ou étatique, et ou fédérale, il est très important de noter que la version anglaise de ces Termes et Conditions sera toujours la seule version régissant ces Termes et Conditions, en cas de conflit et ou de divergence et ou litige, de nature juridique ou autre. Dans le cas où une ambiguïté et ou une question d’intention et ou d’interprétation survient, dans toute procédure judiciaire, de nature juridique ou autre, les termes des présentes Termes et Conditions seront interprétés comme ayant été rédigés conjointement par les parties concernées, et aucune présomption ou charge de la preuve ne sera en faveur ou en défaveur d’une partie en vertu de la paternité de toute disposition des présentes Termes et Conditions.</value>
+    <value>Ces Termes de Service et Conditions ont été préparés à l’origine en langue anglaise. Bien que GustafU233C puisse fournir une ou plusieurs versions traduites de ces Termes de Service et Conditions, pour votre commodité, et ou tel que requis par la loi municipale, et ou provinciale, et ou étatique, et ou fédérale, il est très important de noter que la version anglaise de ces Termes de Service et Conditions sera toujours la seule version régissant ces Termes de Service et Conditions, en cas de conflit et ou de divergence et ou litige, de nature juridique ou autre. Dans le cas où une ambiguïté et ou une question d’intention et ou d’interprétation survient, dans toute procédure judiciaire, de nature juridique ou autre, les termes des présentes Termes de Service et Conditions seront interprétés comme ayant été rédigés conjointement par les parties concernées, et aucune présomption ou charge de la preuve ne sera en faveur ou en défaveur d’une partie en vertu de la paternité de toute disposition des présentes Termes de Service et Conditions.</value>
   </data>
   <data name="TaConPagePara8Str" xml:space="preserve">
-    <value>En ce qui concerne le genre en relation avec le langage utilisé dans les présentes Termes et Conditions, veuillez noter que les titres utilisés dans ces Terms et Conditions n’affectent pas leur interprétation. L’utilisation de n’importe quel genre inclut tous les genres. Le singulier inclut le pluriel et vice-versa. Lorsqu’un mot et ou une phrase est défini, son autre forme grammaticale et ou ses formes ont une signification égale et ou correspondante. Si un genre a été utilisé n’importe où dans les présentes Termes et Conditions, c’est juste à des fins de simplicité seulement.</value>
+    <value>En ce qui concerne le genre en relation avec le langage utilisé dans les présentes Termes de Service et Conditions, veuillez noter que les titres utilisés dans ces Terms de Service et Conditions n’affectent pas leur interprétation. L’utilisation de n’importe quel genre inclut tous les genres. Le singulier inclut le pluriel et vice-versa. Lorsqu’un mot et ou une phrase est défini, son autre forme grammaticale et ou ses formes ont une signification égale et ou correspondante. Si un genre a été utilisé n’importe où dans les présentes Termes de Service et Conditions, c’est juste à des fins de simplicité seulement.</value>
   </data>
   <data name="TaConPagePara9Str" xml:space="preserve">
     <value>Propriété Intellectuelle:</value>
   </data>
   <data name="TaConPageTitle2Str" xml:space="preserve">
-    <value>GustafU233C Termes et Conditions:</value>
+    <value>GustafU233C Termes de Service et Conditions:</value>
   </data>
   <data name="TaConTitlePageStr" xml:space="preserve">
-    <value>Termes et Conditions</value>
+    <value>Termes de Service et Conditions</value>
   </data>
   <data name="TofServPageLastModStr" xml:space="preserve">
     <value>La Dernière Modification: 08 janvier, 2023</value>
