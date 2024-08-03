@@ -85,24 +85,24 @@ web_modules/
 .parcel-cache
 
 # Next.js build output
-.next
-out
+#.next
+#out
 
 # Nuxt.js build / generate output
-.nuxt
-dist
+#.nuxt
+#dist
 
 # Gatsby files
-.cache/
+#.cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
 # Addition... August 03, 2024...
 # vuepress build output
-.vuepress/dist
+#.vuepress/dist
 # vitepress build output
-.vitepress/dist
+#.vitepress/dist
 docs/.vitepress/dist
 docs/.vitepress/cache
 
@@ -111,7 +111,7 @@ docs/.vitepress/cache
 .cache
 
 # Docusaurus cache and generated files
-.docusaurus
+#.docusaurus
 
 # Serverless directories
 .serverless/
