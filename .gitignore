@@ -366,8 +366,8 @@ FodyWeavers.xsd
 
 # VSCode things...
 # VitePress specific files... July 27, 2024...
-*.vitepress/dist
-*.vitepress/cache
+# *.vitepress/dist
+# *.vitepress/cache
 # Dependency directories... July 27, 2024...
 node_modules/
 
@@ -406,12 +406,12 @@ TODOs.md
 .temp
 # Docs dist directory
 /vuepress
-/vitepress
+# /vitepress
 # Typescript build dist
 packages/@vuepress/shared-utils/lib/
 packages/@vuepress/shared-utils/types/
-packages/@vitepress/shared-utils/lib/
-packages/@vitepress/shared-utils/types/
+# packages/@vitepress/shared-utils/lib/
+# packages/@vitepress/shared-utils/types/
 
 # https://github.com/github/gitignore/blob/main/Node.gitignore
 # Logs

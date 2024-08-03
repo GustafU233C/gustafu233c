@@ -17,7 +17,6 @@ export default defineConfig({
 
   title: "gustafu233c",
   description: "A VitePress Pages Site",
-  base: '/gustafu233c/',
 
   //https://vitepress.dev/reference/default-theme-config#i18nrouting
   //https://vitepress.dev/guide/i18n
