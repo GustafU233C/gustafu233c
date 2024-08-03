@@ -1,6 +1,3 @@
----
----
-
 # Politique de Confidentialité
 
 ::: tip Important
