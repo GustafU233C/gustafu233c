@@ -489,7 +489,7 @@ dist
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 # vuepress build output / VitePress... August 02, 2024...
-.vitepress/dist
+# .vitepress/dist
 .vuepress/dist
 # vuepress v2.x temp and cache directory
 .temp
