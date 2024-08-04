@@ -16,7 +16,7 @@ export default defineConfig({
     ],
   },
   */
-
+  base: '/gustafu233c/',
   title: "gustafu233c",
   description: "A VitePress Pages Site",
 
@@ -52,7 +52,7 @@ export default defineConfig({
         ],
     
         socialLinks: [
-          { icon: 'github', link: 'https://gustafu233c.github.io/gustafu233c/' }
+          { icon: 'github', link: 'https://github.com/GustafU233C/gustafu233c' }
         ],
 
         footer: {
