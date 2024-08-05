@@ -14,7 +14,7 @@ hero:
 features:
   - title: GustafU233c
     details: For more information on GustafU233c, click here...
-    link: /
+    link: https://github.com/GustafU233C/gustafu233c
   - title: VitePress
     details: For more information on VitePress, click here...
     link: https://vitepress.dev

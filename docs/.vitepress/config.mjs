@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress';
-//import legacy from '@vitejs/plugin-legacy';
+import legacy from '@vitejs/plugin-legacy';
 
 // https://vitepress.dev/reference/site-config
 //https://vitepress.dev/reference/site-
@@ -7,7 +7,6 @@ import { defineConfig } from 'vitepress';
 //https://www.npmjs.com/package/@vitejs/plugin-legacy
 //https://vitejs.dev/guide/using-plugins#:~:text=To%20use%20a%20plugin%2C%20it%20needs%20to%20be,npm%20add%20-D%20%40vitejs%2Fplugin-legacy%20js%20%2F%2F%20vite.config.js%20import
 export default defineConfig({
-  /*
   vite: {
     plugins: [
       legacy({
@@ -15,7 +14,7 @@ export default defineConfig({
       }),
     ],
   },
-  */
+  
   base: '/gustafu233c/',
   title: "gustafu233c",
   description: "A VitePress Pages Site",
@@ -90,7 +89,7 @@ export default defineConfig({
         ],
     
         socialLinks: [
-          { icon: 'github', link: 'https://gustafu233c.github.io/gustafu233c/' }
+          { icon: 'github', link: 'https://github.com/GustafU233C/gustafu233c' }
         ],
 
         footer: {
