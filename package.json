@@ -12,8 +12,6 @@
   "author": "gustafu233c",
   "license": "MIT",
   "devDependencies": {
-    "@vitejs/plugin-legacy": "^5.4.1",
-    "terser": "^5.31.3",
     "vitepress": "^1.3.1"
   }
 }
