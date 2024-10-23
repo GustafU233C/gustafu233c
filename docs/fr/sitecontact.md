@@ -1,3 +1,7 @@
+---
+
+---
+
 # Contact
 
 ::: tip Important
@@ -7,4 +11,4 @@ Date d'Entrée en Vigueur : 28 juillet 2024
 :::
 
 ## Les Détails de Contact :
-Si Vous avez des questions, des préoccupations ou souhaitez offrir des conseils, n'hésitez pas à m'envoyer un e-mail à : GustafU233c@Protonmail.com.
+Si Vous avez des questions, des préoccupations ou souhaitez offrir des conseils, n'hésitez pas à m'envoyer un e-mail à : GustafU233C@Protonmail.com.

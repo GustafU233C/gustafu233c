@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 //import legacy from '@vitejs/plugin-legacy';
 
-// https://vitepress.dev/reference/site-config
+//https://vitepress.dev/reference/site-config
 //https://vitepress.dev/reference/site-
 //https://vitejs.dev/config/
 //https://www.npmjs.com/package/@vitejs/plugin-legacy
@@ -16,9 +16,8 @@ export default defineConfig({
     ],
   },
   */
-  
   base: '/gustafu233c/',
-  title: "gustafu233c",
+  title: "GustafU233C",
   description: "A VitePress Pages Site",
 
   //https://vitepress.dev/reference/default-theme-config#i18nrouting
@@ -57,7 +56,7 @@ export default defineConfig({
         ],
 
         footer: {
-          copyright: 'Copyright © 2024-present GustafU233c'
+          copyright: 'Copyright © 2024-present GustafU233C'
         }
       }
     },
@@ -65,9 +64,18 @@ export default defineConfig({
       label: 'Français',
       lang: 'fr',
       /*link: '/fr/index', */
-
+      
+      //https://vitepress.dev/reference/default-theme-config
       themeConfig: { 
-        // https://vitepress.dev/reference/default-theme-config
+        //https://github.com/vuejs/vitepress/discussions/3240 other framework parts in English...
+        docFooter: {
+          prev: "Page précédente",
+          next: "Page suivante"
+        },
+        darkModeSwitchLabel: "L'apparence",
+        returnToTopLabel: "Retour en haut",
+        outlineTitle: "Sur cette page",
+
         nav: [
           { text: 'Acceuil', link: '/fr/index' },
           { text: 'La Documentation de Site du Web', link: '/fr/siteprivacypolicy' },
@@ -95,7 +103,7 @@ export default defineConfig({
         ],
 
         footer: {
-          copyright: 'Copyright © 2024-présent GustafU233c'
+          copyright: "Le Droit d'Auteur (Copyright) © 2024-présent GustafU233C"
         }
       }
     }

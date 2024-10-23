@@ -6,8 +6,8 @@ Last Modified: July 28, 2024
 Effective Date: July 28, 2024
 :::
 
-## GustafU233c Privacy Policy:
-This privacy policy (hereinafter referred to as the ‘Privacy Policy’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) describes how GustafU233c (hereinafter referred to as the ‘Licensor’, ‘GustafU233c’, ‘We’, ‘Us’, and or ‘Our’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) may potentially collect, use, and or disclose your personal information and or data (hereinafter referred to as ‘Data’ and or ‘Personal Information’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) when you, the user (hereinafter referred to as the ‘Licensee’, ‘Your’ and or ‘You’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) visit, load, and or use Our services, and or make a purchase (hereinafter referred to collectively, as ‘Services’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) in relation to the website named: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the ‘Site’, ‘Software’ and or ‘It’, and further defined in the Standard Terms and Definitions section of this Privacy Policy), and or otherwise interact with Us.
+## GustafU233C Privacy Policy:
+This privacy policy (hereinafter referred to as the ‘Privacy Policy’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) describes how GustafU233C (hereinafter referred to as the ‘Licensor’, ‘GustafU233C’, ‘We’, ‘Us’, and or ‘Our’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) may potentially collect, use, and or disclose your personal information and or data (hereinafter referred to as ‘Data’ and or ‘Personal Information’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) when you, the user (hereinafter referred to as the ‘Licensee’, ‘Your’ and or ‘You’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) visit, load, and or use Our services, and or make a purchase (hereinafter referred to collectively, as ‘Services’, and further defined in the Standard Terms and Definitions section of this Privacy Policy) in relation to the website named: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the ‘Site’, ‘Software’ and or ‘It’, and further defined in the Standard Terms and Definitions section of this Privacy Policy), and or otherwise interact with Us.
 
 ::: warning
 Please read this Privacy Policy carefully. By using and or accessing any of Our Services and or Our Site, You agree to the potential collection, use, and or disclosure of Your Data and or Personal Information, as described in this Privacy Policy. If You do not agree with this Privacy Policy, do not use and or access any of Our Services, and or Our Site.
@@ -18,7 +18,7 @@ Please read this Privacy Policy carefully. By using and or accessing any of Our 
 
 1.a.i) The term: ‘Privacy Policy’; shall refer to this privacy policy contract, including any potential past and or future amendment to this privacy policy contract.
 
-1.a.ii) The terms: ‘Licensor’, ‘GustafU233c’, ‘We’, ‘Us’, and or ‘Our’; shall, in the context of this Privacy Policy, refer to the current owner and operator of the Site, be that owner a company, corporate group, and or Its’ original author. 
+1.a.ii) The terms: ‘Licensor’, ‘GustafU233C’, ‘We’, ‘Us’, and or ‘Our’; shall, in the context of this Privacy Policy, refer to the current owner and operator of the Site, be that owner a company, corporate group, and or Its’ original author. 
 
 1.a.iii) The terms: ‘Licensee’, ‘Your’, ‘Yourself’ and or ‘You’; shall, in the context of this Privacy Policy, refer to an individual that visits, and or attempts to visit, and or uses, and or attempts to use, Our Site, and or Our Services, whether You are a Site user, visitor, and or any other individual whose information We may potentially collect pursuant to this Privacy Policy.
 
@@ -42,7 +42,7 @@ Please read this Privacy Policy carefully. By using and or accessing any of Our 
 ## 3. Linguistic Interpretation of this Privacy Policy:
 3.a) Current Linguistic Interpretation of this Privacy Policy:
 
-3.a.i) This Privacy Policy was originally written in the English language. Although GustafU233c may provide one or more translated versions of this Privacy Policy, for Your convenience, and or as required by municipal, and or provincial, and or federal law, it is very important to note that the English language version of this Privacy Policy will always be the sole governing version of this Privacy Policy, in the case of any Dispute, legal in nature or otherwise. In the event that an ambiguity, and or question of intent, and or interpretation arises, in any judicial proceeding, legal in nature or otherwise, the terms of this Privacy Policy will be construed as having been drafted jointly by the parties involved, and no presumption and or burden of proof will arise favouring and or disfavouring any party by virtue of the authorship of any provision of this Privacy Policy.
+3.a.i) This Privacy Policy was originally written in the English language. Although GustafU233C may provide one or more translated versions of this Privacy Policy, for Your convenience, and or as required by municipal, and or provincial, and or federal law, it is very important to note that the English language version of this Privacy Policy will always be the sole governing version of this Privacy Policy, in the case of any Dispute, legal in nature or otherwise. In the event that an ambiguity, and or question of intent, and or interpretation arises, in any judicial proceeding, legal in nature or otherwise, the terms of this Privacy Policy will be construed as having been drafted jointly by the parties involved, and no presumption and or burden of proof will arise favouring and or disfavouring any party by virtue of the authorship of any provision of this Privacy Policy.
 
 3.a.ii) With regard to gender in relation to the language used in this Privacy Policy, please note that the use of any specific gender, includes all genders. The singular includes the plural and vice-versa. Where a word and or phrase is defined, its’ other grammatical form, and or forms, have an equal and or corresponding meaning. If one gender has been utilized anywhere in this Privacy Policy, this was just for simplicity purposes only.
 
@@ -206,7 +206,7 @@ Please read this Privacy Policy carefully. By using and or accessing any of Our 
 ## 21. Contact Information Details:
 21.a) Current Contact Information Details:
 
-21.a.i) Should You have any questions and or concerns about Our Privacy Policy and or privacy practices, and or if You would like to exercise any of the rights potentially available to You, please email us at: GustafU233c@Protonmail.com.
+21.a.i) Should You have any questions and or concerns about Our Privacy Policy and or privacy practices, and or if You would like to exercise any of the rights potentially available to You, please email us at: GustafU233C@Protonmail.com.
 
 ## 22. Privacy Policy Document Creation:
 22.a) Privacy Policy Document Creation Assistance:

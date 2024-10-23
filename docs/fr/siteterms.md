@@ -1,3 +1,7 @@
+---
+
+---
+
 # Termes de Service et Conditions
 
 ::: tip Important
@@ -6,8 +10,8 @@ Dernière Modification : 28 juillet 2024
 Date d'Entrée en Vigueur : 28 juillet 2024
 :::
 
-## Termes de Service et Conditions de GustafU233c :
-Les présentes termes de service et conditions (ci-après dénommées « Termes de Service et Conditions » et définies plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) constituent un accord juridiquement contraignant entre Vous, l'utilisateur (ci-après dénommé le « Licencié », « Votre », « Vos » et ou « Vous », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) et GustafU233c (ci-après dénommé le « Concédant de Licence », « GustafU233c », « Nous », « Notre », et ou « Nos », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) qui régit l'utilisation du site Web : https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site », le « Logiciel », « Son » et ou « Il », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions). Le Site appartient et est exploité par GustafU233c, et est une sorte de blog.
+## Termes de Service et Conditions de GustafU233C :
+Les présentes termes de service et conditions (ci-après dénommées « Termes de Service et Conditions » et définies plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) constituent un accord juridiquement contraignant entre Vous, l'utilisateur (ci-après dénommé le « Licencié », « Votre », « Vos » et ou « Vous », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) et GustafU233C (ci-après dénommé le « Concédant de Licence », « GustafU233C », « Nous », « Notre », et ou « Nos », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) qui régit l'utilisation du site Web : https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site », le « Logiciel », « Son » et ou « Il », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions). Le Site appartient et est exploité par GustafU233C, et est une sorte de blog.
 
 Veuillez lire ces Termes de Service et Conditions. En visitant et ou en tentant de visiter Notre Site, Vous indiquez que Vous avez lu et compris ces Termes de Service et Conditions et que Vous acceptez de les respecter à tout moment. Si Vous n'êtes pas d'accord avec les termes et conditions énoncés dans ces Termes de Service et Conditions, n'utilisez pas, et ou n'essayez pas d'utiliser, et ou d'accéder, et ou d'essayer d'accéder à Notre Site de quelque manière que ce soit.
 
@@ -43,7 +47,7 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 ## 4. Propriété Intellectuelle :
 4.a) Propriété Intellectuelle ; Pratiques Actuelles :
 
-4.a.i) Tout le contenu publié et ou rendu disponible sur Notre Site est la propriété de GustafU233c et ou des propriétaires actuels du Site. Cela inclut, sans toutefois s'y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés, le code source et ou tout autre élément contribuant à la composition de Notre site.
+4.a.i) Tout le contenu publié et ou rendu disponible sur Notre Site est la propriété de GustafU233C et ou des propriétaires actuels du Site. Cela inclut, sans toutefois s'y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés, le code source et ou tout autre élément contribuant à la composition de Notre site.
 
 ## 5. Changements et ou Modifications de ces Termes de Service et Conditions :
 5.a) Changements et ou Modifications des présentes Termes de Service et Conditions ; Pratiques Actuelles :
@@ -74,7 +78,7 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 ## 7. Limitation de Responsabilité :
 7.a) Limitation de Responsabilité ; Pratiques Actuelles :
 
-7.a.i) GustafU233c et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées ne seront pas responsables des actions, réclamations, pertes, dommages, responsabilités, et ou dépenses, y compris les frais juridiques, résultant de Votre utilisation de, et ou l'incapacité d'utiliser Notre Site.
+7.a.i) GustafU233C et ou Nos administrateurs, dirigeants, agents, employés, filiales et ou sociétés affiliées ne seront pas responsables des actions, réclamations, pertes, dommages, responsabilités, et ou dépenses, y compris les frais juridiques, résultant de Votre utilisation de, et ou l'incapacité d'utiliser Notre Site.
 
 ## 8. Indemnisation :
 8.a) Indemnité ; Pratiques Actuelles :
@@ -84,9 +88,9 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 ## 9. Résolution des Différends :
 9.a) Procédure Actuelle de Résolution des Différends :
 
-9.a.i) Sous réserve de toute exception spécifiée dans les présentes Termes de Service et Conditions, si Vous et GustafU233C ne parvenez pas à résoudre un Différend par le biais de discussions informelles, Vous et GustafU233C acceptez de soumettre ce problème à un médiateur. La décision du médiateur ne sera pas contraignante. Tout médiateur doit être une partie neutre acceptable à la fois par Vous et par GustafU233c.
+9.a.i) Sous réserve de toute exception spécifiée dans les présentes Termes de Service et Conditions, si Vous et GustafU233C ne parvenez pas à résoudre un Différend par le biais de discussions informelles, Vous et GustafU233C acceptez de soumettre ce problème à un médiateur. La décision du médiateur ne sera pas contraignante. Tout médiateur doit être une partie neutre acceptable à la fois par Vous et par GustafU233C.
 
-9.a.ii) Nonobstant toute autre disposition des présentes Termes de Service et Conditions, Vous et GustafU233c acceptez que Vous conserviez tous les deux le droit d'intenter une action devant le tribunal des petites créances, et ou d'intenter une action en injonction, et ou d'intenter une action concernant toute violation potentielle des droits de propriété intellectuelle.
+9.a.ii) Nonobstant toute autre disposition des présentes Termes de Service et Conditions, Vous et GustafU233C acceptez que Vous conserviez tous les deux le droit d'intenter une action devant le tribunal des petites créances, et ou d'intenter une action en injonction, et ou d'intenter une action concernant toute violation potentielle des droits de propriété intellectuelle.
 
 ## 10. Divisibilité :
 10.a) Divisibilité ; Pratiques Actuelles ;
@@ -96,7 +100,7 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 ## 11. Détails de Contact :
 11.a) Les Détails de Contact Actuels :
 
-11.a.i) Si Vous avez des questions et ou des préoccupations concernant Notre Termes de Service et Conditions, et ou Nos pratiques en matière de confidentialité, et ou si Vous souhaitez exercer l'un des droits potentiellement disponibles pour Vous, veuillez Nous envoyer un e-mail à : GustafU233c@Protonmail.com.
+11.a.i) Si Vous avez des questions et ou des préoccupations concernant Notre Termes de Service et Conditions, et ou Nos pratiques en matière de confidentialité, et ou si Vous souhaitez exercer l'un des droits potentiellement disponibles pour Vous, veuillez Nous envoyer un e-mail à : GustafU233C@Protonmail.com.
 
 ## 12. Création de ce Document de Termes de Service et Conditions :
 12.a) Assistance à la Création de ce Document de Termes de Service et Conditions  :

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "GustafU233c"
+  name: "GustafU233C"
   text: "A VitePress Pages site dedicated to documentation."
   tagline: Proudly built with VitePress
   actions:
@@ -12,8 +12,8 @@ hero:
       link: /siteprivacypolicy
 
 features:
-  - title: GustafU233c
-    details: For more information on GustafU233c, click here...
+  - title: GustafU233C
+    details: For more information on GustafU233C, click here...
     link: https://github.com/GustafU233C/gustafu233c
   - title: VitePress
     details: For more information on VitePress, click here...
