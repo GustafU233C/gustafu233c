@@ -86,7 +86,9 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 
 9.a.i) Subject to any exceptions specified in these Terms of Service and Conditions, if You and GustafU233C are unable to resolve any Dispute through informal discussions, then You and GustafU233C agree to submit this issue before a mediator. The decision of the mediator will not be binding. Any mediator must be a neutral party acceptable to both You and GustafU233C.
 
-9.a.ii) Notwithstanding any other provision in these Terms of Service and Conditions, You and GustafU233C agree that You both retain the right to bring an action in small claims court, and or to bring an action for injunctive relief, and or to bring an action with regard to any potential intellectual property rights infringement.
+9.a.ii) In the event that You and GustafU233C continue to be unable to resolve a Dispute after attempting both informal discussions, as well as non-binding mediation, then arbitration will be the final solution to any such Dispute. The decision of the arbitrator will be binding and final. Any arbitrator must be a neutral party acceptable to both You and GustafU233C. Both you and GustafU233C also agree that any such arbitration process will be conducted on an individual basis, and not in, for example, a class action of some sort.
+
+9.a.iii) Notwithstanding any other provision in these Terms of Service and Conditions, You and GustafU233C agree that you both retain the right to bring an action in small claims court, and or to bring an action for injunctive relief, and or to bring an action with regard to any potential intellectual property rights infringement.
 
 ## 10. Severability:
 10.a) Severability; Current Practices;

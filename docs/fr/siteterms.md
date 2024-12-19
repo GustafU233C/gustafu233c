@@ -90,7 +90,9 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 
 9.a.i) Sous réserve de toute exception spécifiée dans les présentes Termes de Service et Conditions, si Vous et GustafU233C ne parvenez pas à résoudre un Différend par le biais de discussions informelles, Vous et GustafU233C acceptez de soumettre ce problème à un médiateur. La décision du médiateur ne sera pas contraignante. Tout médiateur doit être une partie neutre acceptable à la fois par Vous et par GustafU233C.
 
-9.a.ii) Nonobstant toute autre disposition des présentes Termes de Service et Conditions, Vous et GustafU233C acceptez que Vous conserviez tous les deux le droit d'intenter une action devant le tribunal des petites créances, et ou d'intenter une action en injonction, et ou d'intenter une action concernant toute violation potentielle des droits de propriété intellectuelle.
+9.a.ii) Dans le cas où Vous et GustafU233C continuez à ne pas parvenir à résoudre un Différend après avoir tenté à la fois des discussions informelles et une médiation non contraignante, puis l'arbitrage sera la solution finale à tout Différend de ce type. La décision de l'arbitre sera contraignante et définitive. Tout arbitre doit être une partie neutre acceptable pour Vous et GustafU233C. Vous et GustafU233C acceptez également que tout processus d'arbitrage de ce type soit mené sur une base individuelle et non dans le cadre, par exemple, d'une action collective de quelque sorte que ce soit.
+
+9.a.iii) Nonobstant toute autre disposition des présentes Termes de Service et Conditions, Vous et GustafU233C acceptez que vous conserviez tous les deux le droit d'intenter une action devant le tribunal des petites créances, et ou d'intenter une action en injonction, et ou de intenter une action concernant toute violation potentielle des droits de propriété intellectuelle.
 
 ## 10. Divisibilité :
 10.a) Divisibilité ; Pratiques Actuelles ;
