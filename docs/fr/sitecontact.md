@@ -5,9 +5,9 @@
 # Contact
 
 ::: tip Important
-Dernière Modification : 28 juillet 2024
+Dernière Modification : 28 décembre 2024
 
-Date d'Entrée en Vigueur : 28 juillet 2024
+Date d'Entrée en Vigueur : 28 décembre 2024
 :::
 
 ## Les Détails de Contact :

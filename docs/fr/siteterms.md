@@ -5,9 +5,9 @@
 # Termes de Service et Conditions
 
 ::: tip Important
-Dernière Modification : 28 juillet 2024
+Dernière Modification : 28 décembre 2024
 
-Date d'Entrée en Vigueur : 28 juillet 2024
+Date d'Entrée en Vigueur : 28 décembre 2024
 :::
 
 ## Termes de Service et Conditions de GustafU233C :
