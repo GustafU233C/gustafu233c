@@ -28,10 +28,13 @@ export default defineConfig({
       lang: 'en',
 
       themeConfig: { 
+        
+        //ENGLISH
         // https://vitepress.dev/reference/default-theme-config
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Website Documentation', link: 'siteprivacypolicy' },
+          { text: 'Website Documentation', link: '/siteprivacypolicy' },
+          { text: 'Project Documentation', link: '/projecteula' },
           { text: 'Contact', link: '/sitecontact' }
         ],
     
@@ -41,6 +44,12 @@ export default defineConfig({
             items: [
               { text: 'Website Privacy Policy', link: '/siteprivacypolicy' },
               { text: 'Website Terms of Service and Conditions', link: '/siteterms' }
+            ]
+          },
+          {
+            text: 'Project Documentation',
+            items: [
+              { text: 'Project EULA', link: '/projecteula'}
             ]
           },
           {
@@ -60,6 +69,8 @@ export default defineConfig({
         }
       }
     },
+
+    //FRENCH
     fr: {
       label: 'Français',
       lang: 'fr',
@@ -79,6 +90,7 @@ export default defineConfig({
         nav: [
           { text: 'Acceuil', link: '/fr/index' },
           { text: 'La Documentation de Site du Web', link: '/fr/siteprivacypolicy' },
+          { text: 'La Documentation du Projet', link: '/fr/projecteula' },
           { text: 'Contact', link: '/fr/sitecontact' }
         ],
     
@@ -88,6 +100,12 @@ export default defineConfig({
             items: [
               { text: 'La Politique de Confidentialité', link: '/fr/siteprivacypolicy' },
               { text: 'Les Termes de Service et Conditions', link: '/fr/siteterms' }
+            ]
+          },
+          {
+            text: 'La Documentation du Projet',
+            items: [
+              { text: "CLUF du Projet", link: '/fr/projecteula'}
             ]
           },
           {

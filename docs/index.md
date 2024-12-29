@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Website Documentation
       link: /siteprivacypolicy
+    - theme: brand
+      text: Project Documentation
+      link: /projecteula
 
 features:
   - title: GustafU233C
