@@ -34,7 +34,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Website Documentation', link: '/siteprivacypolicy' },
-          { text: 'Project Documentation', link: '/projecteula' },
+          { text: 'Project 1 Information', link: '/project1eula' },
           { text: 'Contact', link: '/sitecontact' }
         ],
     
@@ -47,9 +47,24 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Project Documentation',
+            text: 'Projects',
             items: [
-              { text: 'Project EULA', link: '/projecteula'}
+              { text: 'Project 1 Information:', 
+                items: [
+                  {
+                    text: 'Project 1, Legal Affairs:',
+                    items: [
+                      { text: 'Project 1, EULA', link: '/project1eula' }
+                    ]
+                  },
+                  {
+                    text: 'Project 1, Documentation:',
+                    items: [
+                      { text: 'Project 1, How To', link: '/project1howto' }
+                    ]
+                  }
+                ]
+              }
             ]
           },
           {
@@ -90,7 +105,7 @@ export default defineConfig({
         nav: [
           { text: 'Acceuil', link: '/fr/index' },
           { text: 'La Documentation de Site du Web', link: '/fr/siteprivacypolicy' },
-          { text: 'La Documentation du Projet', link: '/fr/projecteula' },
+          { text: "L'Information du Projet 1", link: '/fr/project1eula' },
           { text: 'Contact', link: '/fr/sitecontact' }
         ],
     
@@ -103,9 +118,24 @@ export default defineConfig({
             ]
           },
           {
-            text: 'La Documentation du Projet',
+            text: 'Les Projets',
             items: [
-              { text: "CLUF du Projet", link: '/fr/projecteula'}
+              { text: "L'Information du Projet 1 :", 
+                items: [
+                  {
+                    text: 'Projet 1, Les Affaires Juridiques :',
+                    items: [
+                      { text: 'CLUF du Projet 1', link: '/fr/project1eula' }
+                    ]
+                  },
+                  {
+                    text: 'Projet 1, La Documentation :',
+                    items: [
+                      { text: 'Projet 1, Comment Utiliser', link: '/fr/project1howto' }
+                    ]
+                  }
+                ]
+              }
             ]
           },
           {

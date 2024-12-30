@@ -11,8 +11,8 @@ hero:
       text: La Documentation de Site du Web
       link: /fr/siteprivacypolicy
     - theme: brand
-      text: La Documentation du Projet
-      link: /fr/projecteula
+      text: L'Information du Projet 1
+      link: /fr/project1eula
 
 features:
   - title: GustafU233c
