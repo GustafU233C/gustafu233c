@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress';
 //import legacy from '@vitejs/plugin-legacy';
 
+//COOKIES... April 10, 2025...
+//Typically use, vue-cookies NPM package, OR document.cookie...
+
 //https://vitepress.dev/reference/site-config
 //https://vitepress.dev/reference/site-
 //https://vitejs.dev/config/
