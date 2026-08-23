@@ -1,13 +1,13 @@
 # Terms of Service and Conditions
 
 ::: tip Important
-Last Modified: December 28, 2024
+Last Modified: August 22, 2026
 
-Effective Date: December 28, 2024
+Effective Date: August 22, 2026
 :::
 
 ## GustafU233C Terms of Service and Conditions:
-These terms of service and conditions (hereinafter referred to as the ‘Terms of Service and Conditions’, and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions contract) is a legally binding agreement between you, the user (hereinafter referred to as the ‘Licensee’, ‘Your’ and or ‘You’, and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions contract) and GustafU233C (hereinafter referred to as the ‘Licensor’, ‘GustafU233C’, ‘We’, ‘Us’, and or ‘Our’, and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions contract) that governs the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the ‘Site’, Software’ and or ‘It’, and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions contract). The Site is owned and operated by GustafU233C, and is a blog, of sorts.
+These terms of service and conditions (hereinafter referred to as the 'Terms of Service and Conditions', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) is a legally binding agreement between you, the user (hereinafter referred to as the 'Licensee', 'Your' and or 'You', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) and GustafU233C (hereinafter referred to as the 'Licensor', 'GustafU233C', 'We', 'Us', and or 'Our', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) that governs the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the 'Site', 'Software' and or 'It', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions). The Site is owned and operated by GustafU233C.
 
 Please read these Terms of Service and Conditions. By visiting, and or attempting to visit Our Site, You indicate that You have read and understand these Terms of Service and Conditions, and agree to abide by them at all times. If You do not agree with the terms and conditions set out in these Terms of Service and Conditions, do not use, and or attempt to use, and or access, and or attempt to access, Our Site in any way, shape and or form.
 
@@ -18,15 +18,15 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 ## 1. Standard Terms and Definitions:
 1.a) Current List of Standard Terms and Definitions:
 
-1.a.i) The term: ‘Terms of Service and Conditions’; shall refer to this Terms of Service and Conditions contract, including any potential past and or future amendment to this Terms of Service and Conditions contract.
+1.a.i) The term: 'Terms of Service and Conditions'; shall refer to this Terms of Service and Conditions contract, including any potential past and or future amendment to this Terms of Service and Conditions contract.
 
-1.a.ii) The terms: ‘Licensor’, ‘GustafU233C’, ‘We’, ‘Us’, and or ‘Our’; shall, in the context of this Terms of Service and Conditions, refer to the current owner and operator of the Site, be that owner a company, corporate group, and or Its’ original author. 
+1.a.ii) The terms: 'Licensor', 'GustafU233C', 'We', 'Us', and or 'Our'; shall, in the context of this Terms of Service and Conditions, refer to the current owner and operator of the Site, be that owner a company, corporate group, and or Its original author. 
 
-1.a.iii) The terms: ‘Licensee’, ‘Your’, and or ‘You’; shall, in the context of these Terms of Service and Conditions, refer to the individual that downloads, and or attempts to download, and uses, and or attempts to use, Our Site.
+1.a.iii) The terms: 'Licensee', 'Your', and or 'You'; shall, in the context of these Terms of Service and Conditions, refer to the individual that downloads, and or attempts to download, and uses, and or attempts to use, Our Site.
 
-1.a.iv) The terms: ‘Site’, ‘Software’ and or ‘It’; shall, in the context of this Terms of Service and Conditions, refer to the website, named ‘https://gustafu233c.github.io/gustafu233c/’, that is potentially being licensed to the Licensee, from the Licensor, pursuant to this Terms of Service and Conditions. This definition includes all XAML files, XML files, C files, C++ files, CMake files, PowerShell files, JavaScript files, TypeScript files, Visual Basic files, Assembly files, Docker files, graphics files, animation files, data files, technology, scripts and or programs, both in object code and or source code, as well as all associated media, printed and or saved materials and or documentation, be that documentation found online, in electronic format, and or in any other format. 
+1.a.iv) The terms: 'Site', 'Software' and or 'It'; shall, in the context of this Terms of Service and Conditions, refer to the website, named ‘https://gustafu233c.github.io/gustafu233c/’, that is potentially being licensed to the Licensee, from the Licensor, pursuant to this Terms of Service and Conditions. This definition includes all XAML files, XML files, C files, C++ files, CMake files, PowerShell files, JavaScript files, TypeScript files, Visual Basic files, Assembly files, Docker files, graphics files, animation files, data files, technology, scripts and or programs, both in object code and or source code, as well as all associated media, printed and or saved materials and or documentation, be that documentation found online, in electronic format, and or in any other format. 
 
-1.a.v) The term: ‘Dispute’; shall, in the context of these Terms of Service and Conditions, refer to a disagreement, that is defined as, but not solely limited to, a conflict of opinion, a discrepancy, and or a lacking of agreement between relevant parties, that may result in any sort of action, be that action legal in nature or otherwise.
+1.a.v) The term: 'Dispute'; shall, in the context of these Terms of Service and Conditions, refer to a disagreement, that is defined as, but not solely limited to, a conflict of opinion, a discrepancy, and or a lacking of agreement between relevant parties, that may result in any sort of action, be that action legal in nature or otherwise.
 
 ## 2. Governing Law:
 2.a) Current Governing Law:
@@ -38,17 +38,17 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 
 3.a.i) These Terms of Service and Conditions were originally written in the English language. Although GustafU233C may provide one or more translated versions of these Terms of Service and Conditions, for Your convenience, and or as required by municipal, and or provincial, and or federal law, it is very important to note that the English language version of these Terms of Service and Conditions will always be the sole governing version of these Terms of Service and Conditions, in the case of any Dispute, legal in nature or otherwise. In the event that an ambiguity, and or question of intent, and or interpretation arises, in any judicial proceeding, legal in nature or otherwise, the terms and conditions of these Terms of Service and Conditions will be construed as having been drafted jointly by the parties involved, and no presumption and or burden of proof will arise favouring and or disfavouring any party by virtue of the authorship of any provision of these Terms of Service and Conditions.
 
-3.a.ii) With regard to gender in relation to the language used in these Terms of Service and Conditions, please note that the use of any specific gender, includes all genders. The singular includes the plural, and vice-versa. Where a word and or phrase is defined, its’ other grammatical form and or forms have an equal and or corresponding meaning. If one gender has been utilized anywhere in these Terms of Service and Conditions, this was just for simplicity purposes only.
+3.a.ii) With regard to gender in relation to the language used in these Terms of Service and Conditions, please note that the use of any specific gender, includes all genders. The singular includes the plural, and vice-versa. Where a word and or phrase is defined, its other grammatical form and or forms have an equal and or corresponding meaning. If one gender has been utilized anywhere in these Terms of Service and Conditions, this was just for simplicity purposes only.
 
 ## 4. Intellectual Property:
 4.a) Intellectual Property; Current Practices:
 
-4.a.i) All content published and or made available on Our Site is the property of GustafU233C and or the Site’s current owners. This includes, but is not not limited to images, text, logos, documents, downloaded files, source code and or anything else that contributes to the composition of Our Site. 
+4.a.i) All content published and or made available on Our Site is the property of GustafU233C and or the Site's current owners, if applicable. This includes, but is not not limited to images, text, logos, documents, downloaded files, source code and or anything else that contributes to the composition of Our Site. 
 
 ## 5. Changes and or Modifications to these Terms of Service and Conditions:
 5.a) Changes and or Modifications to These Terms of Service and Conditions; Current Practices:
 
-5.a.i) We may update these Terms of Service and Conditions from time to time, including to reflect changes to Our current practices and or for other operational, legal, and or regulatory reasons. We will post the revised Terms of Service and Conditions on Our Site, update the ‘Effective Date’, and or take any other steps as required by any other applicable law and or laws.
+5.a.i) We may update these Terms of Service and Conditions from time to time, including to reflect changes to Our current practices and or for other operational, legal, and or regulatory reasons. We will post the revised Terms of Service and Conditions on Our Site, update the 'Effective Date', and or take any other steps as required by any other applicable law and or laws.
 
 ## 6. Acceptable Use:
 6.a) Acceptable Use; Current List;
@@ -69,7 +69,7 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 
 6.a.viii) (7) use Our Site if the current user is under the age of 18 years old.
 
-6.a.viv) If We believe You are using Our Site illegally, and or in a manner that violates these Terms of Service and Conditions, We reserve the right to limit, suspend and or terminate Your access to Our Site. We also reserve the right to take any legal steps necessary to prevent You from accessing Our Site.
+6.a.ix) If We believe You are using Our Site illegally, and or in a manner that violates these Terms of Service and Conditions, We reserve the right to limit, suspend and or terminate Your access to Our Site. We also reserve the right to take any legal steps necessary to prevent You from accessing Our Site.
 
 ## 7. Limitation of Liability:
 7.a) Limitation of Liability; Current Practices:
@@ -86,7 +86,7 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 
 9.a.i) Subject to any exceptions specified in these Terms of Service and Conditions, if You and GustafU233C are unable to resolve any Dispute through informal discussions, then You and GustafU233C agree to submit this issue before a mediator. The decision of the mediator will not be binding. Any mediator must be a neutral party acceptable to both You and GustafU233C.
 
-9.a.ii) In the event that You and GustafU233C continue to be unable to resolve a Dispute after attempting both informal discussions, as well as non-binding mediation, then arbitration will be the final solution to any such Dispute. The decision of the arbitrator will be binding and final. Any arbitrator must be a neutral party acceptable to both You and GustafU233C. Both you and GustafU233C also agree that any such arbitration process will be conducted on an individual basis, and not in, for example, a class action of some sort.
+9.a.ii) In the event that You and GustafU233C continue to be unable to resolve a Dispute after attempting both informal discussions, as well as non-binding mediation, then arbitration will be the final solution to any such Dispute. The decision of the arbitrator will be binding and final. Any arbitrator must be a neutral party acceptable to both You and GustafU233C. Both you and GustafU233C also agree that any such arbitration process will be conducted on an individual basis, and not in, for example, a class action legal format of some sort.
 
 9.a.iii) Notwithstanding any other provision in these Terms of Service and Conditions, You and GustafU233C agree that you both retain the right to bring an action in small claims court, and or to bring an action for injunctive relief, and or to bring an action with regard to any potential intellectual property rights infringement.
 
