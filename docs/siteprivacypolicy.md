@@ -1,13 +1,13 @@
 # Privacy Policy
 
 ::: tip Important
-Last Modified: August 27, 2026
+Last Modified: September 01, 2026
 
-Effective Date: August 27, 2026
+Effective Date: September 01, 2026
 :::
 
 ## GustafU233C Privacy Policy:
-This privacy policy (hereinafter referred to as the 'Privacy Policy', and further defined in the Standard Terms and Definitions section of this Privacy Policy) describes how GustafU233C (hereinafter referred to as the 'Proprietor', 'GustafU233C', 'We', 'Us', and or 'Our', and further defined in the Standard Terms and Definitions section of this Privacy Policy) may potentially collect, use, and or disclose your personal information and or data (hereinafter referred to as 'Data' and or 'Personal Information', and further defined in the Standard Terms and Definitions section of this Privacy Policy) when you, the user (hereinafter referred to as the 'User', 'Your' and or 'You', and further defined in the Standard Terms and Definitions section of this Privacy Policy) visit, load, and or use Our services (hereinafter referred to collectively, as 'Services', and further defined in the Standard Terms and Definitions section of this Privacy Policy) in relation to the website named: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the 'Site', 'Software' and or 'It', and further defined in the Standard Terms and Definitions section of this Privacy Policy), and or otherwise interact with Us.
+This privacy policy (hereinafter referred to as the 'Privacy Policy', and further defined in the Standard Terms and Definitions section of this Privacy Policy) describes how GustafU233C (hereinafter referred to as the 'Service Provider', 'GustafU233C', 'We', 'Us', and or 'Our', and further defined in the Standard Terms and Definitions section of this Privacy Policy) may potentially collect, use, and or disclose your personal information and or data (hereinafter referred to as 'Data' and or 'Personal Information', and further defined in the Standard Terms and Definitions section of this Privacy Policy) when you, the user (hereinafter referred to as the 'User', 'Your' and or 'You', and further defined in the Standard Terms and Definitions section of this Privacy Policy) visit, load, and or use Our services (hereinafter referred to collectively, as 'Services', and further defined in the Standard Terms and Definitions section of this Privacy Policy) in relation to the website named: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the 'Site', 'Software' and or 'It', and further defined in the Standard Terms and Definitions section of this Privacy Policy), and or otherwise interact with Us.
 
 ::: warning
 Please read this Privacy Policy carefully. By using and or accessing any of Our Services and or Our Site, You agree to the potential collection, use, and or disclosure of Your Data and or Personal Information, as described in this Privacy Policy. If You do not agree with this Privacy Policy, do not use and or access any of Our Services, and or Our Site.
@@ -18,13 +18,13 @@ Please read this Privacy Policy carefully. By using and or accessing any of Our 
 
 1.a.i) The term: 'Privacy Policy'; shall refer to this privacy policy contract, including any potential past and or future amendment to this privacy policy contract.
 
-1.a.ii) The terms: 'Proprietor', 'GustafU233C', 'We', 'Us', and or 'Our'; shall, in the context of this Privacy Policy, refer to the current owner and or operator of the Site and or Services, be that owner a company, corporate group, and or Its original author. 
+1.a.ii) The terms: 'Service Provider', 'GustafU233C', 'We', 'Us', and or 'Our'; shall, in the context of this Privacy Policy, refer to the current owner and or operator of the Site and or Services, be that owner a company, corporate group, and or Its original author. 
 
 1.a.iii) The terms: 'User', 'Your', 'Yourself' and or 'You'; shall, in the context of this Privacy Policy, refer to an individual that visits, and or attempts to visit, and or uses, and or attempts to use, Our Site, and or Our Services, whether You are a Site and or Services User, visitor, and or any other individual whose information We may potentially collect pursuant to this Privacy Policy.
 
 1.a.iv) The term: 'Data' and or 'Personal Information'; shall, in the context of this Privacy Policy, refer to, but not be limited to, information that identifies, relates to, describes, and or can be associated with You, such as Your name, address, phone number, email address, and or customer support information including potentially any information that You choose to include in communications with Us.
 
-1.a.v) The terms: 'Site', 'Software' and or 'It'; shall, in the context of this Privacy Policy, refer to the website, named 'https://gustafu233c.github.io/gustafu233c/', that is potentially being made available to the User, from the Proprietor, pursuant to this Privacy Policy. This definition includes all XAML files, XML files, C files, C++ files, CMake files, PowerShell files, JavaScript files, TypeScript files, Vue files, Vite files, Visual Basic files, Assembly files, Docker files, graphics files, animation files, data files, technology, scripts and or programs, both in object code and or source code, as well as all associated media, printed and or saved materials and or documentation, be that documentation found online, in electronic format, and or in any other format. 
+1.a.v) The terms: 'Site', 'Software' and or 'It'; shall, in the context of this Privacy Policy, refer to the website, named 'https://gustafu233c.github.io/gustafu233c/', that is potentially being made available to the User, from the Service Provider, pursuant to this Privacy Policy. This definition includes all XAML files, XML files, C files, C++ files, CMake files, PowerShell files, JavaScript files, TypeScript files, Vue files, Vite files, Visual Basic files, Assembly files, Docker files, graphics files, animation files, data files, technology, scripts and or programs, both in object code and or source code, as well as all associated media, printed and or saved materials and or documentation, be that documentation found online, in electronic format, and or in any other format. 
 
 1.a.vi) The term: 'Services'; shall, in the context of this Privacy Policy, refer to Our Site's, associated documentation, media, GitHub repository, and or any communication between You and Us. 
 

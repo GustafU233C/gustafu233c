@@ -1,13 +1,13 @@
 # Terms of Service and Conditions
 
 ::: tip Important
-Last Modified: August 27, 2026
+Last Modified: September 01, 2026
 
-Effective Date: August 27, 2026
+Effective Date: September 01, 2026
 :::
 
 ## GustafU233C Terms of Service and Conditions:
-These terms of service and conditions (hereinafter referred to as the 'Terms of Service and Conditions', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) is a legally binding agreement between you, the user (hereinafter referred to as the 'User', 'Your' and or 'You', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) and GustafU233C (hereinafter referred to as the 'Proprietor', 'GustafU233C', 'We', 'Us', and or 'Our', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) that governs the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the 'Site', 'Software' and or 'It', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) and associated services (hereinafter referred to as the 'Services', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions). The Site is owned and operated by GustafU233C.
+These terms of service and conditions (hereinafter referred to as the 'Terms of Service and Conditions', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) is a legally binding agreement between you, the user (hereinafter referred to as the 'User', 'Your' and or 'You', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) and GustafU233C (hereinafter referred to as the 'Service Provider', 'GustafU233C', 'We', 'Us', and or 'Our', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) that governs the use of the website: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the 'Site', 'Software' and or 'It', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) and associated services (hereinafter referred to as the 'Services', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions). The Site is owned and operated by GustafU233C.
 
 Please read these Terms of Service and Conditions. By visiting, and or attempting to visit Our Site and or Our Services, You indicate that You have read and understand these Terms of Service and Conditions, and agree to abide by them at all times. If You do not agree with the terms and conditions set out in these Terms of Service and Conditions, do not use, and or attempt to use, and or access, and or attempt to access, Our Site and or Our Services, in any way, shape and or form.
 
@@ -20,11 +20,11 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 
 1.a.i) The term: 'Terms of Service and Conditions'; shall refer to this Terms of Service and Conditions contract, including any potential past and or future amendment to this Terms of Service and Conditions contract.
 
-1.a.ii) The terms: 'Proprietor', 'GustafU233C', 'We', 'Us', and or 'Our'; shall, in the context of this Terms of Service and Conditions, refer to the current owner and or operator of the Site and or associated Services, be that owner a company, corporate group, and or Its original author. 
+1.a.ii) The terms: 'Service Provider', 'GustafU233C', 'We', 'Us', and or 'Our'; shall, in the context of this Terms of Service and Conditions, refer to the current owner and or operator of the Site and or associated Services, be that owner a company, corporate group, and or Its original author. 
 
 1.a.iii) The terms: 'User', 'Your', and or 'You'; shall, in the context of these Terms of Service and Conditions, refer to the individual that uses, and or attempts to use, Our Site and or Our Services.
 
-1.a.iv) The terms: 'Site', 'Software' and or 'It'; shall, in the context of this Terms of Service and Conditions, refer to the website, named 'https://gustafu233c.github.io/gustafu233c/', that is potentially being made available to the User, from the Proprietor, pursuant to this Terms of Service and Conditions. This definition includes all XAML files, XML files, C files, C++ files, CMake files, PowerShell files, JavaScript files, TypeScript files, Vue files, Vite files, Visual Basic files, Assembly files, Docker files, graphics files, animation files, data files, technology, scripts and or programs, both in object code and or source code, as well as all associated media, printed and or saved materials and or documentation, whether that media and or documentation be found online, in electronic format, and or in any other format. 
+1.a.iv) The terms: 'Site', 'Software' and or 'It'; shall, in the context of this Terms of Service and Conditions, refer to the website, named 'https://gustafu233c.github.io/gustafu233c/', that is potentially being made available to the User, from the Service Provider, pursuant to this Terms of Service and Conditions. This definition includes all XAML files, XML files, C files, C++ files, CMake files, PowerShell files, JavaScript files, TypeScript files, Vue files, Vite files, Visual Basic files, Assembly files, Docker files, graphics files, animation files, data files, technology, scripts and or programs, both in object code and or source code, as well as all associated media, printed and or saved materials and or documentation, whether that media and or documentation be found online, in electronic format, and or in any other format. 
 
 1.a.v) The term: 'Services'; shall, in the context of these Terms of Service and Conditions, refer to Our Site's, associated documentation, media, GitHub repository, and or any communication between You and Us.
 

@@ -5,13 +5,13 @@
 # Termes de Service et Conditions
 
 ::: tip Important
-Dernière Modification : 28 août 2026
+Dernière Modification : 01 septembre 2026
 
-Date d'Entrée en Vigueur : 28 août 2026
+Date d'Entrée en Vigueur : 01 septembre 2026
 :::
 
 ## Termes de Service et Conditions de GustafU233C :
-Les présentes termes de service et conditions (ci-après dénommées « Termes de Service et Conditions » et définies plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) constituent un accord juridiquement contraignant entre Vous, l'utilisateur (ci-après dénommé le « Utilisateur », « Votre », « Vos » et ou « Vous », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) et GustafU233C (ci-après dénommé le « Propriétaire », « GustafU233C », « Nous », « Notre », et ou « Nos », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) qui régit l'utilisation du site Web : https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site », le « Logiciel », « Son » et ou « Il », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) et les services associés (ci-après dénommé le « Services », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions). Le Site appartient et est exploité par GustafU233C.
+Les présentes termes de service et conditions (ci-après dénommées « Termes de Service et Conditions » et définies plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) constituent un accord juridiquement contraignant entre Vous, l'utilisateur (ci-après dénommé le « Utilisateur », « Votre », « Vos » et ou « Vous », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) et GustafU233C (ci-après dénommé le « Prestataire de Services », « GustafU233C », « Nous », « Notre », et ou « Nos », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) qui régit l'utilisation du site Web : https://gustafu233c.github.io/gustafu233c/ (ci-après dénommé le « Site », le « Logiciel », « Son » et ou « Il », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions) et les services associés (ci-après dénommé le « Services », et défini plus en détail dans la section des Termes et Définitions Standard du présent contrat de Termes de Service et Conditions). Le Site appartient et est exploité par GustafU233C.
 
 Veuillez lire ces Termes de Service et Conditions. En visitant, et ou en tentant de visiter Notre Site et ou Nos Services, Vous indiquez que Vous avez lu et compris ces Termes de Service et Conditions et que Vous acceptiez de les respecter à tout moment. Si Vous n'êtes pas d'accord avec les termes et conditions énoncés dans ces Termes de Service et Conditions, n'utilisez pas, et ou n'essayez pas d'utiliser, et ou d'accéder, et ou d'essayer d'accéder à Notre Site et ou Nos Services, de quelque manière que ce soit.
 
@@ -24,11 +24,11 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 
 1.a.i) Le terme : « Termes de Service et Conditions » ; désigne le présent contrat de Termes de Service et Conditions, y compris toute modification potentielle passée et ou future du présent contrat de Termes de Service et Conditions.
 
-1.a.ii) Les termes : « Propriétaire », « GustavU233c », « Nous », « Nos » et ou « Notre » ; désignent, dans le contexte des présentes Termes de Service et Conditions, faire référence au propriétaire et exploitant actuel du Site et ou des Services associés, que ce propriétaire soit une société, un groupe d'entreprises, et ou Son auteur original.
+1.a.ii) Les termes : « Prestataire de Services », « GustavU233c », « Nous », « Nos » et ou « Notre » ; désignent, dans le contexte des présentes Termes de Service et Conditions, faire référence au Prestataire de Services et exploitant actuel du Site et ou des Services associés, que ce Prestataire de Services soit une société, un groupe d'entreprises, et ou Son auteur original.
 
 1.a.iii) Les termes : « Utilisateur », « Votre », « Vos » et ou « Vous » ; désignent, dans le contexte des présentes Termes de Service et Conditions, faire référence à la personne qui utilise, et ou tente d'utiliser, Notre Site et ou Nos Services.
 
-1.a.iv) Les termes : « Site », « Logiciel », « Son », et ou « Il » ; désignent, dans le contexte de la présente Termes de Service et Conditions, faire référence au site Web, nommé : « https://gustafu233c.github.io/gustafu233c/ », qui est potentiellement mis à la disposition de l'Utilisateur, par le Propriétaire, conformément à la présente Termes de Service et Conditions. Cette définition inclut tous les fichiers XAML, fichiers XML, fichiers C, fichiers C++, fichiers CMake, fichiers PowerShell, fichiers JavaScript, fichiers TypeScript, fichiers Vue, fichiers Vite, fichiers Visual Basic, fichiers Assembly, fichiers Docker, fichiers graphiques, fichiers d'animation, fichiers de données, technologie, scripts et ou programmes, à la fois en code objet et ou en code source, ainsi que tous les médias associés, les documents imprimés et ou enregistrés et ou la documentation, que cette documentation soit trouvée en ligne, au format électronique et ou dans tout autre format.
+1.a.iv) Les termes : « Site », « Logiciel », « Son », et ou « Il » ; désignent, dans le contexte de la présente Termes de Service et Conditions, faire référence au site Web, nommé : « https://gustafu233c.github.io/gustafu233c/ », qui est potentiellement mis à la disposition de l'Utilisateur, par le Prestataire de Services, conformément à la présente Termes de Service et Conditions. Cette définition inclut tous les fichiers XAML, fichiers XML, fichiers C, fichiers C++, fichiers CMake, fichiers PowerShell, fichiers JavaScript, fichiers TypeScript, fichiers Vue, fichiers Vite, fichiers Visual Basic, fichiers Assembly, fichiers Docker, fichiers graphiques, fichiers d'animation, fichiers de données, technologie, scripts et ou programmes, à la fois en code objet et ou en code source, ainsi que tous les médias associés, les documents imprimés et ou enregistrés et ou la documentation, que cette documentation soit trouvée en ligne, au format électronique et ou dans tout autre format.
 
 1.a.v) Le terme : « Services » ; dans le contexte des présentes Termes de Service et Conditions, désigne les services du notre Site, la documentation associée, les médias, le dépôt GitHub et ou toute communication entre Vous et Nous.
 
@@ -49,7 +49,7 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 ## 4. Propriété Intellectuelle :
 4.a) Propriété Intellectuelle ; Pratiques Actuelles :
 
-4.a.i) Tout le contenu publié et ou rendu disponible sur Notre Site et ou Nos Services associèe, sont la propriété de GustafU233C et ou des propriétaires actuels du Site et Services, si applicable. Cela inclut, sans toutefois s'y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés, le code source et ou tout autre élément contribuant à la composition de Notre site et ou Nos Services.
+4.a.i) Tout le contenu publié et ou rendu disponible sur Notre Site et ou Nos Services associèe, sont la propriété de GustafU233C et ou des prestataire de services actuels du Site et Services, si applicable. Cela inclut, sans toutefois s'y limiter, les images, le texte, les logos, les documents, les fichiers téléchargés, le code source et ou tout autre élément contribuant à la composition de Notre site et ou Nos Services.
 
 ## 5. Changements et ou Modifications de ces Termes de Service et Conditions :
 5.a) Changements et ou Modifications des présentes Termes de Service et Conditions ; Pratiques Actuelles :
@@ -65,7 +65,7 @@ CES TERMES DE SERVICE ET CONDITIONS CONTIENNENT UNE CLAUSE DE RÉSOLUTION DES LI
 
 6.a.iii) (2) violer les droits d'autres personnes, et ou d'autres Utilisateurs de Notre Site et ou Nos Services, et ou avec Notre Site et ou Nos Services;
 
-6.a.iv) (3) violer les droits de propriété intellectuelle des Propriétaires du Site et ou des Services, et ou de toutes tiers au Site et ou des Services, et ou avec Notre Site et ou Nos Services;
+6.a.iv) (3) violer les droits de propriété intellectuelle des Prestataire de Services du Site et ou des Services, et ou de toutes tiers au Site et ou des Services, et ou avec Notre Site et ou Nos Services;
 
 6.a.v) (4) pirater le compte d'un autre Utilisateur de Notre Site et ou Nos Services, et ou du Site et ou Services Lui-mêmes ;
 
