@@ -33,7 +33,7 @@ export default defineConfig({
       themeConfig: { 
         
         //ENGLISH
-        // https://vitepress.dev/reference/default-theme-config
+        //https://vitepress.dev/reference/default-theme-config
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Website Documentation', link: '/siteprivacypolicy' },
@@ -90,7 +90,7 @@ export default defineConfig({
 
     //FRENCH
     fr: {
-      label: 'Français',
+      label: 'Français (bientôt disponible)',
       lang: 'fr',
       /*link: '/fr/index', */
       
