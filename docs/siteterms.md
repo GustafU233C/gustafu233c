@@ -76,7 +76,9 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 ## 7. Limitation of Liability:
 7.a) Limitation of Liability; Current Practices:
 
-7.a.i) GustafU233C and/or Our directors, officers, agents, employees, subsidiaries, and/or affiliates will not be liable for any actions, claims, losses, damages, liabilities, and/or expenses, including legal fees, from Your use of, and/or the inability to use, Our Service.
+7.a.i) TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GUSTAFU233C AND/OR OUR DIRECTORS, OFFICERS, AGENTS, EMPLOYEES, SUBSIDIARIES, AND/OR AFFILIATES WILL NOT BE LIABLE FOR ANY ACTIONS, CLAIMS, LOSSES, DAMAGES, LIABILITIES, AND/OR EXPENSES, INCLUDING LEGAL FEES, ARISING FROM YOUR USE OF, AND/OR THE INABILITY TO USE, OUR SERVICE, WHETHER ARISING IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE.
+
+7.a.ii) While We attempt to provide accurate and/or up-to-date information on Our Service at all times, ALL OF OUR CONTENT IS PROVIDED 'AS IS' AND 'AS AVAILABLE', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. We do not warrant that the information, text, and/or graphics on Our Service are error-free, complete, and/or current.
 
 ## 8. Indemnity:
 8.a) Indemnity; Current Practices:
