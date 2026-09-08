@@ -9,7 +9,7 @@ Effective Date: September 07, 2026
 ## GustafU233C Terms of Service and Conditions:
 These terms of service and conditions (hereinafter referred to as the 'Terms of Service and Conditions', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) is a legally binding agreement between you, the user (hereinafter referred to as the 'User', 'Your' and/or 'You', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) and GustafU233C (hereinafter referred to as the 'Service Provider', 'GustafU233C', 'We', 'Us', and/or 'Our', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions) that governs access to, and/or the use of, the website named: 'https://gustafu233c.github.io/gustafu233c/' (hereinafter referred to as the 'Service', 'Software' and/or 'It', and further defined in the Standard Terms and Definitions section of this Terms of Service and Conditions). The Service is owned and operated by GustafU233C.
 
-Please read these Terms of Service and Conditions. By visiting, and/or attempting to visit Our Service, You indicate that You have read and understand these Terms of Service and Conditions, and agree to abide by them at all times. If You do not agree with the terms and conditions set out in these Terms of Service and Conditions, do not use, and/or attempt to use, and/or access, and/or attempt to access, Our Service in any way, shape or form.
+Please read these Terms of Service and Conditions carefully. By visiting, and/or attempting to visit Our Service, You indicate that You have read and understand these Terms of Service and Conditions, and agree to abide by them at all times. If You do not agree with the terms and conditions set out in these Terms of Service and Conditions, do not use, and/or attempt to use, and/or access, and/or attempt to access, Our Service in any way, shape or form.
 
 In the event that a conflict and/or inconsistency is found within Our Terms of Service and Conditions and any other legal agreement agreed upon by both the User and the Service Provider, it is important to note that the User, in order to be able to use Our Service agrees to abide by the stricter of the conflicting terms and/or conditions.
 
@@ -53,7 +53,7 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 5.a.i) We may update these Terms of Service and Conditions from time to time, including to reflect changes to Our current practices and/or for other operational, legal, and/or regulatory reasons. We will post the revised Terms of Service and Conditions on Our Service, update the 'Effective Date', and/or take any other steps as required by any other applicable law.
 
 ## 6. Acceptable Use:
-6.a) Acceptable Use; Current List;
+6.a) Acceptable Use; Current List:
 
 6.a.i) As a User of Our Service, You agree to use Our Service legally, not to use Our Service for illegal and/or criminal purposes, and especially NOT to:
 
@@ -78,7 +78,7 @@ THESE TERMS OF SERVICE AND CONDITIONS CONTAIN A DISPUTE RESOLUTION CLAUSE THAT I
 
 7.a.i) TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GUSTAFU233C AND/OR OUR DIRECTORS, OFFICERS, AGENTS, EMPLOYEES, SUBSIDIARIES, AND/OR AFFILIATES WILL NOT BE LIABLE FOR ANY ACTIONS, CLAIMS, LOSSES, DAMAGES, LIABILITIES, AND/OR EXPENSES, INCLUDING LEGAL FEES, ARISING FROM YOUR USE OF, AND/OR THE INABILITY TO USE, OUR SERVICE, WHETHER ARISING IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE.
 
-7.a.ii) While We attempt to provide accurate and/or up-to-date information on Our Service at all times, ALL OF OUR CONTENT IS PROVIDED 'AS IS' AND 'AS AVAILABLE', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. We do not warrant that the information, text, and/or graphics on Our Service are error-free, complete, and/or current.
+7.a.ii) While We attempt to provide accurate and/or up-to-date information on Our Service at all times, it is important to note that ALL OF OUR CONTENT IS PROVIDED 'AS IS' AND 'AS AVAILABLE', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. We do not warrant that the information, text, and/or graphics on Our Service are error-free, complete, and/or current.
 
 ## 8. Indemnity:
 8.a) Indemnity; Current Practices:
