@@ -1,9 +1,13 @@
 # Privacy Policy
 
-::: tip Important
-Last Modified: September 07, 2026
+::: tip Important Dates
+Last Modified: September 10, 2026
 
-Effective Date: September 07, 2026
+Effective Date: September 10, 2026
+:::
+
+::: danger Scope of Agreement
+This Privacy Policy applies ONLY to Our website, located here: https://gustafu233c.github.io/gustafu233c/. It does not govern, extend to, or apply, to any other applications developed by GustafU233C. For more information regarding data collection, privacy and/or terms for Our mobile applications, please consult their respective documentation.
 :::
 
 ## GustafU233C Privacy Policy:
