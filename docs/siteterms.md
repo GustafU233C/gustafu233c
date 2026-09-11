@@ -7,7 +7,7 @@ Effective Date: September 10, 2026
 :::
 
 ::: danger Scope of Agreement
-This Terms of Service and Conditions applies ONLY to Our website, located here: https://gustafu233c.github.io/gustafu233c/. It does not govern, extend to, or apply, to any other applications developed by GustafU233C. For more information regarding data collection, privacy and/or terms for Our mobile applications, please consult their respective documentation.
+This Terms of Service and Conditions agreement applies ONLY to Our website, located here: https://gustafu233c.github.io/gustafu233c/. It does not govern, extend to, or apply, to any other applications developed by GustafU233C. For more information regarding data collection, privacy and/or terms for Our mobile applications, please consult their respective documentation.
 :::
 
 ## GustafU233C Terms of Service and Conditions:
