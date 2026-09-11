@@ -1,9 +1,9 @@
 # Terms of Service and Conditions
 
 ::: tip Important Dates
-Last Modified: September 10, 2026
+Last Modified: September 11, 2026
 
-Effective Date: September 10, 2026
+Effective Date: September 11, 2026
 :::
 
 ::: danger Scope of Agreement
