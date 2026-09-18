@@ -78,9 +78,6 @@ Disallow: /
 User-agent: Perplexity-User
 Disallow: /
 
-User-agent: cohere-ai
-Disallow: /
-
 User-agent: meta-externalagent
 Disallow: /
 
