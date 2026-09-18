@@ -1,42 +1,44 @@
 # Privacy Policy
 
 ::: tip Important Dates
-Last Modified: September 10, 2026
+Last Modified: September 17, 2026
 
-Effective Date: September 10, 2026
+Effective Date: September 17, 2026
 :::
 
 ::: danger Scope of Agreement
-This Privacy Policy applies ONLY to Our website, located here: https://gustafu233c.github.io/gustafu233c/. It does not govern, extend to, or apply, to any other applications developed by GustafU233C. For more information regarding data collection, privacy and/or terms for Our mobile applications, please consult their respective documentation.
+This Privacy Policy applies ONLY to Our website, located here: https://gustafu233c.github.io/gustafu233c/. It does not govern, extend to, or apply, to any other application developed by GustafU233C. For more information regarding data collection, privacy and/or terms for Our mobile applications, please consult their respective documentation.
 :::
 
 ## GustafU233C Privacy Policy:
-This privacy policy (hereinafter referred to as the 'Privacy Policy', and further defined in the Standard Terms and Definitions section of this Privacy Policy) describes how GustafU233C (hereinafter referred to as the 'Service Provider', 'GustafU233C', 'We', 'Us', and/or 'Our', and further defined in the Standard Terms and Definitions section of this Privacy Policy) collects, uses, and/or discloses your personal information and/or data (hereinafter referred to as 'Personal Information' and/or 'Data', and further defined in the Standard Terms and Definitions section of this Privacy Policy) when you, the user (hereinafter referred to as the 'User', 'Your' and/or 'You', and further defined in the Standard Terms and Definitions section of this Privacy Policy) visit, load, and/or otherwise make use of Our website named: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the 'Service', 'Software' and/or 'It', and further defined in the Standard Terms and Definitions section of this Privacy Policy).
+This privacy policy (hereinafter referred to as the 'Privacy Policy', and further defined in the Standard Terms and Definitions section of this Privacy Policy) describes how GustafU233C (hereinafter referred to as the 'Service Provider', 'GustafU233C', 'We', 'Us', and/or 'Our', and further defined in the Standard Terms and Definitions section of this Privacy Policy) collects, uses, and/or discloses your personal information and/or data (hereinafter referred to as 'Personal Information' and/or 'Data', and further defined in the Standard Terms and Definitions section of this Privacy Policy) when you, the user (hereinafter referred to as the 'User', 'Your' and/or 'You', and further defined in the Standard Terms and Definitions section of this Privacy Policy) visit, load, and/or otherwise make use of Our website named: https://gustafu233c.github.io/gustafu233c/ (hereinafter referred to as the 'Service', 'Software' and/or 'It', and further defined in the Standard Terms and Definitions section of this Privacy Policy). The Service is owned and operated by GustafU233C.
 
 ::: warning
-Please read this Privacy Policy carefully. By using and/or accessing Our Service, You agree to the collection, use, and/or disclosure of Your Perfonal Information and/or Data, as described in this Privacy Policy. If You do not agree with this Privacy Policy, do not use and/or access Our Service in any way, shape or form.
+Please read this Privacy Policy carefully. This Privacy Policy forms a part of the associated legal agreements governing Your use of Our Service, including Our terms of service and conditions (hereinafter collectively referred to as the 'Associated Legal Agreements', and further defined in the Standard Terms and Definitions section of this Privacy Policy). By visiting, and/or attempting to visit Our Service, You indicate that You have read and understand this Agreement and agree to abide by it, and all other Associated Legal Agreements, at all times. If You do not agree with the terms set out in this Privacy Policy, and the Associated Legal Agreements, do not use, and/or attempt to use, Our Service, in any way, shape or form.
 :::
 
-In the event that a conflict and/or inconsistency is found within Our Privacy Policy and any other legal agreement agreed upon by both the User and the Service Provider, it is important to note that the User, in order to be able to use Our Service agrees to abide by the stricter of the conflicting terms and/or conditions.
+In the event that a conflict and/or inconsistency is found within this Privacy Policy, and any other of the Associated Legal Agreements, agreed upon by both the User and the Service Provider, it is important to note that the User, in order to be able to use Our Service agrees to abide by the stricter of the conflicting terms and/or conditions.
 
 ## 1. Standard Terms and Definitions:
 1.a) Current List of Standard Terms and Definitions:
 
 1.a.i) The term: 'Privacy Policy'; shall refer to this privacy policy contract, including any potential past, and/or future amendment to this privacy policy contract, which is hosted at: https://gustafu233c.github.io/gustafu233c/siteprivacypolicy.html.
 
-1.a.ii) The terms: 'Service Provider', 'GustafU233C', 'We', 'Us', and/or 'Our'; shall, in the context of this Privacy Policy, refer to the current owner and operator of Our Service. 
+1.a.ii) The terms: 'Service Provider', 'GustafU233C', 'We', 'Us' and/or 'Our'; shall, in the context of this Privacy Policy, refer to the current owner and operator of Our Service. 
 
-1.a.iii) The terms: 'User', 'Your', 'Yourself' and/or 'You'; shall, in the context of this Privacy Policy, refer to an individual and/or entity that uses, and/or attempts to use, Our Service. This includes a Service User, visitor, and/or any other individual and/or entity whose information We may collect pursuant to this Privacy Policy.
+1.a.iii) The terms: 'User', 'Your' and/or 'You'; shall, in the context of this Privacy Policy, refer exclusively to a natural human person, or a duly incorporated corporate entity acting solely through the direct, manual, physical intervention of its human officers and/or employees. For absolute clarity, the terms 'User', 'Your' and/or 'You' exclude any artificial intelligence (AI) system, machine learning model, automated agent, bot, crawler, scraper, or non-human software process, regardless of whether such system is autonomous or semi-autonomous. Notwithstanding the foregoing, nothing in this Section is intended to prohibit the use of legitimate assistive technologies used by individuals with disabilities to access Our Service.
 
 1.a.iv) The term: 'Personal Information' and/or 'Data'; shall, in the context of this Privacy Policy, refer to, but not be limited to, information that identifies, relates to, describes, and/or can be associated with You, such as Your name, address, phone number, email address, and/or customer support information, including any information that You choose to include in communications with Us.
 
-1.a.v) The term: 'Service'; shall, in the context of this Privacy Policy, refer collectively to the website, https://gustafu233c.github.io/gustafu233c/, all associated software, code (including source and object code), assets, media, and documentation provided by the Service Provider, as well as any communications between the User and the Service Provider via GitHub (such as Issues and/or Discussions), and/or any other method of communication, including those using the contact details provided below.
+1.a.v) The term: 'Associated Legal Agreements'; shall, in the context of this Privacy Policy, refer to the related associated legal contracts put forth by GustafU233C that must be read, understood, and accepted by the Licensee. This includes the Service's associated terms of service and conditions, located here: https://gustafu233c.github.io/gustafu233c/siteterms.html.
 
-1.a.vi) The term: 'Dispute'; shall, in the context of this Privacy Policy, refer to any controversy, claim, or disagreement, arising out of, or relating to, this Privacy Policy, including, but not limited to, its existence, validity, interpretation, performance, or termination.
+1.a.vi) The term: 'Service'; shall, in the context of this Privacy Policy, refer collectively to the website, https://gustafu233c.github.io/gustafu233c/, all associated software, code (including source and object code), assets, media, and documentation provided by the Service Provider, as well as any communications between the User and the Service Provider via GitHub (such as Issues and/or Discussions), and/or any other method of communication, including those using the contact details provided below.
 
-1.a.vii) The term: 'Usage Data'; shall, in the context of this Privacy Policy, refer to the automatic collection of certain data about Your interaction with Our Service, including, but not limited to: device information, browser information, information about Your network connection, Your IP address and/or other information regarding Your interaction with Our Service.
+1.a.vii) The term: 'Dispute'; shall, in the context of this Privacy Policy, refer to any controversy, claim, or disagreement, arising out of, or relating to, this Privacy Policy, including, but not limited to, its existence, validity, interpretation, performance, or termination.
 
-1.a.viii) The term: 'Cookies'; shall, in the context of this Privacy Policy, refer to cookies, pixels and/or similar technologies.
+1.a.viii) The term: 'Usage Data'; shall, in the context of this Privacy Policy, refer to the automatic collection of certain data about Your interaction with Our Service, including, but not limited to: device information, browser information, information about Your network connection, Your IP address and/or other information regarding Your interaction with Our Service.
+
+1.a.ix) The term: 'Cookies'; shall, in the context of this Privacy Policy, refer to cookies, pixels and/or similar technologies.
 
 ## 2. Governing Law:
 2.a) Current Governing Law:
@@ -87,7 +89,9 @@ In the event that a conflict and/or inconsistency is found within Our Privacy Po
 
 8.a.iii) As noted in the Standard Terms and Definitions section of this Privacy Policy however, Usage Data may be automatically collected and/or processed by third-party infrastructure providers, such as GitHub. For example, when You access Our Service, GitHub, as Our current hosting provider, may automatically collect technical data, including, but not limited to, Your IP address, browser information, and/or network details, for the purposes of maintaining their network security and/or operational stability. For more information on the subject, please feel free to visit: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
 
-8.a.iv) If We learn that We have collected any Data and/or Usage Data from a User, and/or a potential User, in breach of this Privacy Policy, We will take immediate steps to delete such data as soon as is reasonably possible and, in accordance with applicable laws. 
+8.a.iv) If You should choose to interact with Our Service through third-party platforms such as GitHub (i.e., via Issues, Discussions and/or Pull Requests), Your public profile may be visible to others. We do not control how these third parties process that data, as noted in Section 13, Third Party Websites and/or Links. For more information on the subject, again, please feel free to visit: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement.
+
+8.a.v) If We learn that We have collected any Data and/or Usage Data from a User, and/or a potential User, in breach of this Privacy Policy, We will take immediate steps to delete such data as soon as is reasonably possible and, in accordance with applicable laws. 
 
 ## 9. Information and/or Data We Obtain from Third Parties:
 9.a) Current Practices:
@@ -108,6 +112,8 @@ In the event that a conflict and/or inconsistency is found within Our Privacy Po
 10.a.ii) (1) Security and/or Fraud Protection. We may use Your Personal Information and/or Data to detect, investigate, and/or take action regarding possible fraudulent, illegal, and/or malicious activity.
 
 10.a.iii) (2) Communicating with You. We may also use Your Personal Information and/or Data to provide You with customer support, and/or otherwise improve Our Service. This is in Our legitimate interests in order to be responsive to You, to provide effective services to You, and/or to maintain Our business relationship with You.
+
+10.a.iv) Artificial Intelligence (AI) Training: Please note that We do not use any Personal Information and/or Data provided by Users for the purposes of training, fine-tuning, or improving generative artificial intelligence models or large language models.
 
 ## 11. How We Disclose Your Personal Information and/or Data:
 11.a) Current Practices:
@@ -146,7 +152,8 @@ In the event that a conflict and/or inconsistency is found within Our Privacy Po
 
 15.a.i) Please be aware that no security measures are perfect, and/or impenetrable, and We cannot guarantee 'perfect security'. In addition, any information, and/or Data You send to Us may not be secure while in transit. We recommend that You do not use insecure channels to communicate sensitive and/or confidential information to Us.
 
-15.a.ii) How long We retain Your Personal Information and/or Data depends on different factors, such as whether We need the information and/or Data to provide Our Service, comply with legal obligations, resolve Disputes, and/or enforce other applicable contracts, and/or policies.
+15.a.ii) How long We retain Your Personal Information and/or Data depends on different factors, such as whether We need the information and/or Data to provide Our Service, comply with legal obligations, resolve Disputes, and/or enforce other applicable contracts, and/or policies. For more information, please feel free to visit:
+https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_use/.
 
 ## 16. Your Rights and/or Responsibilities and/or Choices:
 16.a) Current Practices:
@@ -167,7 +174,7 @@ In the event that a conflict and/or inconsistency is found within Our Privacy Po
 
 16.a.viii) We will not discriminate against You for exercising any of these rights. We may need to collect information from You to verify Your identity, such as Your email address and/or other information, before providing a substantive response to a request. In accordance with applicable laws, You may designate an authorized agent to make requests on Your behalf to exercise Your rights. Before accepting such a request from an agent, We will require that the agent provide proof that You have authorized them to act on Your behalf, and We may still need You to verify Your identity directly with Us. We will respond to Your request in a timely manner, as required under applicable law.
 
-## 17. International User’s Personal Information and/or Data:
+## 17. International User's Personal Information and/or Data:
 17.a) Current Practices:
 
 17.a.i) Please note that We may transfer, store and/or process Your Personal Information and/or Data outside of the country that You currently live in, including the United States of America. Your Personal Information and/or Data may also potentially be processed by staff, and/or third-party service providers, and/or Our partners in these countries.
@@ -195,3 +202,7 @@ In the event that a conflict and/or inconsistency is found within Our Privacy Po
 21.a.i) This Privacy Policy legal document was aided in its creation with help from Shopify’s Free Privacy Policy Generator. For more information, visit the link below!
 
 21.a.ii) https://www.shopify.com/tools/policy-generator
+
+## 15. Entire Agreement:
+15.a) Current Practices:
+15.a.i) This Privacy Policy, together with any other Associated Legal Agreements mentioned herein, constitutes the entire agreement between the Service Provider and the User regarding Our Service. It supersedes all prior or contemporaneous oral or written agreements, understandings or communications.
