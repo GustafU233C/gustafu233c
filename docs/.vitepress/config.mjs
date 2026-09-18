@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress';
 //import legacy from '@vitejs/plugin-legacy';
+//Issue with robots.txt... Node utility
+//import path from 'path' 
 
 //COOKIES... April 10, 2025...
 //Typically use, vue-cookies NPM package, OR document.cookie...
@@ -22,6 +24,13 @@ export default defineConfig({
   base: '/gustafu233c/',
   title: "GustafU233C",
   description: "A VitePress Pages Site",
+
+  //public static files issues...
+  /*
+  vite: {
+    publicDir: path.resolve(__dirname, '../public')
+  },
+  */
 
   //https://vitepress.dev/reference/default-theme-config#i18nrouting
   //https://vitepress.dev/guide/i18n
