@@ -138,7 +138,7 @@ THIS AGREEMENT CONTAINS A DISPUTE RESOLUTION CLAUSE THAT IMPACTS YOUR RIGHTS ABO
 ## 14. Agreement Document Creation:
 14.a) Agreement Document Creation Assistance:
 
-14.a.i) This Agreement was aided in its creation with help from Shopify’s Free Terms of Service Generator. For more information, please feel free to visit the link below!
+14.a.i) This Agreement was aided in its creation with help from Shopify’s Free Terms of Service Generator. For more information, please consider visiting the link below!
 
 14.a.ii) https://www.shopify.com/tools/policy-generator/terms-and-conditions
 

@@ -199,10 +199,6 @@ https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-inf
 ## 21. Privacy Policy Document Creation:
 21.a) Privacy Policy Document Creation Assistance:
 
-21.a.i) This Privacy Policy legal document was aided in its creation with help from Shopify’s Free Privacy Policy Generator. For more information, visit the link below!
+21.a.i) This Privacy Policy legal document was aided in its creation with help from Shopify’s Free Privacy Policy Generator. For more information, please consider visiting the link below!
 
 21.a.ii) https://www.shopify.com/tools/policy-generator
-
-## 15. Entire Agreement:
-15.a) Current Practices:
-15.a.i) This Privacy Policy, together with any other Associated Legal Agreements mentioned herein, constitutes the entire agreement between the Service Provider and the User regarding Our Service. It supersedes all prior or contemporaneous oral or written agreements, understandings or communications.
