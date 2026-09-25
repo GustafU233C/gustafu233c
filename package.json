@@ -10,13 +10,6 @@
     "docs:preview": "vitepress preview docs"
   },
   "author": "gustafu233c",
-  "license": "MIT",
-  "overrides": {
-    "esbuild": "^0.25.0",
-    "vite": {
-      "esbuild": "^0.25.0"
-    }
-  },
   "devDependencies": {
     "vitepress": "^1.6.4"
   }
