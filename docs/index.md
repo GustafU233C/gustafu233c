@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Website Documentation
-      link: /siteprivacypolicy
+      link: /siteterms
     - theme: brand
       text: Project 1 Information
-      link: /project1eula
+      link: /project1terms
 
 features:
   - title: GustafU233C

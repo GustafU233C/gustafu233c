@@ -2,7 +2,7 @@
 
 ---
 
-# Termes et Conditions
+# Accord de Test Bêta et de Confidentialité
 
 ::: tip Important
 Dernière Modification : 28 septembre 2026
@@ -15,5 +15,5 @@ Cette version française est fournie à titre informatif uniquement afin de faci
 :::
 
 ::: danger Note Importante
-En cas de divergence, de conflit, de Différend ou de litige entre la version française et la version anglaise des présentes Termes et Conditions, la version anglaise fera foi et sera la seule version juridiquement contraignante.
+En cas de divergence, de conflit, de Différend ou de litige entre la version française et la version anglaise de la présente Accord de Test Bêta et de Confidentialité, la version anglaise fera foi et sera la seule version juridiquement contraignante.
 :::

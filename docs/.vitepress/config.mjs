@@ -45,8 +45,8 @@ export default defineConfig({
         //https://vitepress.dev/reference/default-theme-config
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Website Documentation', link: '/siteprivacypolicy' },
-          { text: 'Project 1 Information', link: '/project1eula' },
+          { text: 'Website Documentation', link: '/siteterms' },
+          { text: 'Project 1 Information', link: '/project1terms' },
           { text: 'Contact', link: '/sitecontact' }
         ],
     
@@ -54,8 +54,8 @@ export default defineConfig({
           {
             text: 'Website Documentation',
             items: [
-              { text: 'Website Privacy Policy', link: '/siteprivacypolicy' },
-              { text: 'Website Terms of Service and Conditions', link: '/siteterms' }
+              { text: 'Website Terms and Conditions', link: '/siteterms' },
+              { text: 'Website Privacy Policy', link: '/siteprivacypolicy' }
             ]
           },
           {
@@ -66,7 +66,10 @@ export default defineConfig({
                   {
                     text: 'Project 1, Legal Affairs:',
                     items: [
-                      { text: 'Project 1, EULA', link: '/project1eula' }
+                      { text: 'Project 1, Terms', link: '/project1terms' },
+                      { text: 'Project 1, EULA', link: '/project1eula' },
+                      { text: 'Project 1, Privacy', link: '/project1privacy' },
+                      { text: 'Project 1, Beta', link: '/project1beta' }
                     ]
                   },
                   {
@@ -116,8 +119,8 @@ export default defineConfig({
 
         nav: [
           { text: 'Acceuil', link: '/fr/index' },
-          { text: 'La Documentation de Site du Web', link: '/fr/siteprivacypolicy' },
-          { text: "L'Information du Projet 1", link: '/fr/project1eula' },
+          { text: 'La Documentation de Site du Web', link: '/fr/siteterms' },
+          { text: "L'Information du Projet 1", link: '/fr/project1terms' },
           { text: 'Contact', link: '/fr/sitecontact' }
         ],
     
@@ -125,8 +128,8 @@ export default defineConfig({
           {
             text: 'La Documentation de Site du Web',
             items: [
-              { text: 'La Politique de Confidentialité', link: '/fr/siteprivacypolicy' },
-              { text: 'Les Termes de Service et Conditions', link: '/fr/siteterms' }
+              { text: 'Les Termes et Conditions', link: '/fr/siteterms' },
+              { text: 'La Politique de Confidentialité', link: '/fr/siteprivacypolicy' }
             ]
           },
           {
@@ -137,7 +140,10 @@ export default defineConfig({
                   {
                     text: 'Projet 1, Les Affaires Juridiques :',
                     items: [
-                      { text: 'CLUF du Projet 1', link: '/fr/project1eula' }
+                      { text: 'Termes du Project 1', link: '/fr/project1terms' },
+                      { text: 'CLUF du Projet 1', link: '/fr/project1eula' },
+                      { text: 'Politique de Confidentialité du Project 1', link: '/fr/project1privacy' },
+                      { text: 'Bêta du Projet 1', link: '/fr/project1beta' },
                     ]
                   },
                   {
