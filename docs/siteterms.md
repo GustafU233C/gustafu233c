@@ -1,9 +1,9 @@
 # Terms and Conditions
 
 ::: tip Important Dates
-**Last Modified**: September 28, 2026
+**Last Modified**: September 30, 2026
 
-**Effective Date**: September 28, 2026
+**Effective Date**: September 30, 2026
 :::
 
 ::: danger Scope of Agreement
@@ -113,6 +113,8 @@ THIS AGREEMENT CONTAINS A DISPUTE RESOLUTION CLAUSE THAT IMPACTS YOUR RIGHTS ABO
 9.a.iii) While We attempt to provide accurate and/or up-to-date information on Our Service at all times, it is important to note that ALL OF OUR CONTENT IS PROVIDED 'AS IS' AND 'AS AVAILABLE', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. We do not warrant that the information, text, and/or graphics on Our Service are error-free, complete, and/or current.
 
 9.a.iv) GustafU233C reserves the right at any time to modify or discontinue, temporarily or permanently, Our Service (or any part thereof), with or without notice. GustafU233C shall not be liable to You, and/or to any third-party, for any modification, price change, suspension and/or discontinuance of Our Service.
+
+9.a.v) The obligations and limitations set forth in this Section 9 (Disclaimer of Warranty and Limitation of Liability) shall, in their entirety, survive the termination of this Agreement.
 
 ## 10. Indemnity:
 10.a) Indemnity; Current Practices:

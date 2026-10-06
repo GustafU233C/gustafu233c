@@ -69,13 +69,15 @@ export default defineConfig({
                       { text: 'Project 1, Terms', link: '/project1terms' },
                       { text: 'Project 1, EULA', link: '/project1eula' },
                       { text: 'Project 1, Privacy', link: '/project1privacy' },
-                      { text: 'Project 1, Beta', link: '/project1beta' }
+                      { text: 'Project 1, Beta', link: '/project1beta' },
+                      { text: 'Project 1, Open-Source Libraries', link: '/project1openpackages' }
                     ]
                   },
                   {
                     text: 'Project 1, Documentation:',
                     items: [
-                      { text: 'Project 1, How To', link: '/project1howto' }
+                      { text: 'Project 1, How To', link: '/project1howto' },
+                      { text: 'Project 1, Affiliate Info', link: '/project1afflink'}
                     ]
                   }
                 ]
@@ -144,12 +146,14 @@ export default defineConfig({
                       { text: 'CLUF du Projet 1', link: '/fr/project1eula' },
                       { text: 'Politique de Confidentialité du Project 1', link: '/fr/project1privacy' },
                       { text: 'Bêta du Projet 1', link: '/fr/project1beta' },
+                      { text: 'Bibliothèques du Projet 1', link: '/fr/project1openpackages' }
                     ]
                   },
                   {
                     text: 'Projet 1, La Documentation :',
                     items: [
-                      { text: 'Projet 1, Comment Utiliser', link: '/fr/project1howto' }
+                      { text: 'Projet 1, Comment Utiliser', link: '/fr/project1howto' },
+                      { text: "Projet 1, Info sur l'Affiliation", link: '/fr/project1afflink'}
                     ]
                   }
                 ]
